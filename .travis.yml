@@ -9,7 +9,7 @@ script:
 before_deploy:
   - aws s3 rm s3://handbook.mattermost.com/ --recursive --region us-east-1
 deploy:
-  - provider: s3`
+  - provider: s3
     access_key_id: $AWS_ACCESS_KEY_ID
     secret_access_key: $AWS_SECRET_ACCESS_KEY
     bucket: handbook.mattermost.com
