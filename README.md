@@ -1,6 +1,6 @@
-# Mattermost Documentation
+# Mattermost Handbook 
 
-This repository generates the documentation available at http://docs.mattermost.com/
+This repository generates the documentation available at http://handbook.mattermost.com/
 
 All documentation is available under the terms of a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
