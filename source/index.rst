@@ -17,7 +17,7 @@ Mattermost Documentation
 
    Overview <overview/index>
    User's Guide <guides/user>
-   Administrator's Guide <guides/administrator>
+   Operations Guide <guides/operations>
    Integration Guide <guides/integration>
    Developer's Guide <guides/developer>
    Core Team Handbook <guides/core>
