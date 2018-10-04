@@ -100,7 +100,7 @@ The various community channels are outlined below. On a daily basis, the Communi
     - The Community Manager reviews “GitHub, GitLab and StackOverflow issues with activity older than 7 days” from the following repos and adds a list of issues to the daily Peer-to-peer Help channel post:
 
       - https://github.com/mattermost/mattermost-server/issues
-      - https://github.com/mattermost/docs/issues
+      - https://github.com/mattermost/mattermost-handbook/issues
       - https://github.com/mattermost/mattermost-api-reference/issues
       - https://github.com/mattermost/mattermost-bot-sample-golang/issues 
       - https://github.com/mattermost/mattermost-load-test/issues
