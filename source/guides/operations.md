@@ -9,4 +9,4 @@
 
 # Archives 
 
-- [Archives](/archives) 
+- [Archives](archives) 
