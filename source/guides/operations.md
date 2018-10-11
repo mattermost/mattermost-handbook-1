@@ -7,6 +7,11 @@
 
 - [Human Resources Privacy Policy](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit) 
 
+# Sales Operations
+
+-[Operating Metrics Definitions](https://docs.google.com/document/d/1aKJrJ7VBf6lGzYNe2xpsTaAfUjw_3Pv1TBRw5XhRCs0/edit?usp=sharing)
+-[Salesforce.com Field Definitions](https://docs.google.com/document/d/1FIoKrd1yEqmS_opi1jxXOEbhxx88N0WVZBsjWO_abow/edit?usp=sharing)
+
 # Archives 
 
 - [Archives](archives) 
