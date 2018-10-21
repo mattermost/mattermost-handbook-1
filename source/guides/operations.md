@@ -9,4 +9,4 @@
 
 # Archives 
 
-- [Archives](../archives) 
+- [Archives](http://handbook.mattermost.com/guides/archives.html) 
