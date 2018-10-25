@@ -11,8 +11,3 @@
 # Archives 
 
 - [Archives](http://handbook.mattermost.com/guides/archives.html) 
-
-# Archives 
-
-- [Archives](http://handbook.mattermost.com/guides/archives.html) 
-
