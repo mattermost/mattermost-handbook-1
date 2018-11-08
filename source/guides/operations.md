@@ -11,3 +11,8 @@
 # Archives 
 
 - [Archives](http://handbook.mattermost.com/guides/archives.html) 
+
+# Procurement 
+
+- [Consulting Template Overview](https://docs.google.com/document/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#heading=h.pwxwwq4ezzfx) 
+- E-sign Procedure (Internal, TBA) 
