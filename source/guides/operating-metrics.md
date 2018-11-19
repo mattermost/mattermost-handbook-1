@@ -18,6 +18,10 @@ Organization that purchases subscription licenses less than $1000, or are purcha
 ### Current Non-Business Customers 
 The number of non-business customers with at least one active subscription.
 
+## CAC, fully burdened
+
+All recognized expenses in marketing department P&L for period. 
+
 ## Cash 
 
 ### USD Cash Balance 
