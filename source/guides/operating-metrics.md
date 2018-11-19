@@ -1,10 +1,10 @@
 # Operating Metrics  
 
-## Business Customer 
+## Customer 
 Organization that purchases subscription licenses of at least 10 seats, other than non-profit or academic licenses.
 
-## Current Business Customers 
-The number of business customers with at least one active subscription.
+## Current Customers 
+The number of customers with at least one active subscription.
 
 ## Non-Business Customer 
 Organization that purchases subscription licenses fewer than 10 seats or are purchasing either non-profit or academic licenses. 
@@ -12,11 +12,6 @@ Organization that purchases subscription licenses fewer than 10 seats or are pur
 ## Current Non-Business Customers 
 The number of non-business customers with at least one active subscription.
 
-## Customer 
-The aggregate of business customers and non-business customers. 
-
-## Current Customers 
-The number of customers with at least one active subscription.
 
 ```
 # BC  	
