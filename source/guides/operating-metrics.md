@@ -30,7 +30,7 @@ Decrease in [USD Cash Balance](#usd-cash-balance) from the first of the month to
  
 ### Operating Months 
 
-[USD Cash Balance](#usd-cash-balance) divided by average of [Monthly Cash Burn](#monthly-cash-burn) in the previous 6 months. 
+[USD Cash Balance](#usd-cash-balance) divided by average of [Monthly Cash Burn](#monthly-cash-burn) in the previous three (3) months. In the case where there was no burn, treat the month as "0" burn, this allows us to project worst case.  
 
 ```
 # BC  	
