@@ -19,15 +19,15 @@ The number of non-business customers with at least one active subscription.
 
 ## Cash 
 
-# USD Cash Balance 
+### USD Cash Balance 
 
 Aggregate USD in cash holdings across all accounts including non-USD holdings whose balance should be calculated based on spot exchange rate to USD at the time of monthly close most recent to the time in which USD Cash Balance is calculated. 
 
-## Monthly Cash Burn
+### Monthly Cash Burn
 
 Decrease in [USD Cash Balance](#usd-cash-balance) from the first of the month to the first of the next month, or "0" if cash did not decrease. E.g. Monthly Cash Burn for April is the decrease in cash from April 1 to May 1. 
  
-## Operating Months 
+### Operating Months 
 
 [USD Cash Balance](#usd-cash-balance) divided by average of [Monthly Cash Burn](#monthly-cash-burn) in the previous 6 months. 
 
