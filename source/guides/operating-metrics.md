@@ -6,6 +6,14 @@
 
 Annualized subscription revenue per [customer](#Customer) per year.
 
+### AAPRC New Customers - Average Annual Revenue Per Customer for New Customers
+
+Annualized subscription revenue per [customer](#Customer) per year.
+
+### New Customer 
+
+An organization that becomes a [customer](#customer) through an eligible purchase on a new customer contract. A purchase from a sibling, daughter or parent of an existing customer counts as a new customer if the eligible purchase is made on a new customer contract, but is not counted as a new customer if the purchase is made on an existing contract through an addendum. 
+
 ### Customer 
 Organization that purchases subscription licenses of at least $1000 USD, other than non-profit or academic licenses.
 
@@ -35,6 +43,7 @@ Decrease in [USD Cash Balance](#usd-cash-balance) from the first of the month to
 ### Operating Months 
 
 [USD Cash Balance](#usd-cash-balance) divided by average of [Monthly Cash Burn](#monthly-cash-burn) in the previous three (3) months. In the case where there was no burn, treat the month as "0" burn, this allows us to project worst case.  
+
 
 ```
 # BC  	
