@@ -20,7 +20,7 @@ The number of non-business customers with at least one active subscription.
 
 ## CAC, fully burdened
 
-All recognized expenses in marketing department P&L for period. 
+All recognized expenses in marketing and sales department P&L for period. 
 
 ## Cash 
 
