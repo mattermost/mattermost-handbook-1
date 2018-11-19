@@ -1,18 +1,19 @@
 # Operating Metrics  
 
+## Customers
 
 ### AARPC - Average Annual Revenue Per Customer 
 
 Annualized subscription revenue per [customer](#Customer) per year.
 
 ### Customer 
-Organization that purchases subscription licenses of at least 10 seats, other than non-profit or academic licenses.
+Organization that purchases subscription licenses of at least $1000 USD, other than non-profit or academic licenses.
 
 ### Current Customers 
 The number of customers with at least one active subscription.
 
 ### Non-Business Customer 
-Organization that purchases subscription licenses fewer than 10 seats or are purchasing either non-profit or academic licenses. 
+Organization that purchases subscription licenses less than $1000, or are purchasing either non-profit or academic licenses. 
 
 ### Current Non-Business Customers 
 The number of non-business customers with at least one active subscription.
