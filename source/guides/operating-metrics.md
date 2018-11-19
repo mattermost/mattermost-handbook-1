@@ -1,5 +1,10 @@
 # Operating Metrics  
 
+
+## AARPC - Average Annual Revenue Per Customer 
+
+Annualized subscription revenue per [customer](#Customer) per year.
+
 ## Customer 
 Organization that purchases subscription licenses of at least 10 seats, other than non-profit or academic licenses.
 
