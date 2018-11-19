@@ -22,7 +22,7 @@ The number of non-business customers with at least one active subscription.
 
 ### USD Cash Balance 
 
-Aggregate USD in cash holdings across all accounts including non-USD holdings whose balance should be calculated based on spot exchange rate to USD at the time of monthly close most recent to the time in which USD Cash Balance is calculated. 
+Aggregate USD in cash holdings across all accounts including non-USD holdings whose balance should be calculated based on spot exchange rate to USD on the closing of the day previous to the day the USD Cash Balance is calculated. 
 
 ### Monthly Cash Burn
 
