@@ -7,7 +7,7 @@
 # PeopleOps Playbook 
 
 - [Human Resources Privacy Policy](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit) 
-
+- [Annual Performance Review Template](https://docs.google.com/document/d/1C1BY8h6dZVQIuQd_vxRy1S-3f1lhAdtM5frIATmUG5A/edit?ts=5bf46661#heading=h.hu5vu6dn98iw) 
 # Archives 
 
 - [Archives](http://handbook.mattermost.com/guides/archives.html) 
