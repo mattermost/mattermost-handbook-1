@@ -32,7 +32,7 @@ The following work-in-progress V2MOMs and playbooks summarize our strategy and b
   - Accounting: [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
   - Legal and Compliance: [Archives](http://handbook.mattermost.com/guides/archives.html) 
   - Reporting: [Operating Metrics](http://handbook.mattermost.com/guides/operating-metrics.html)
-
+  - Planning, Budgeting, Forecasting: [V2MOM Process](v2mom) 
 ## People 
 
 - [People V2MOM - Scaling Team Mattermost](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.pwfphms1e2gi) 
