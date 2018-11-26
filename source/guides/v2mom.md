@@ -56,6 +56,7 @@ Vendor ($ USD)
   - What is being purchased (e.g. Case study writing services)
   - Rate 
   - Budget  
+  - Statement of Work, or link to SOW
   - Anticipated start date and end date 
 
 ## Forecasting and Reporting 
