@@ -1,10 +1,10 @@
-The folloiwng 
+The following work-in-progress playbooks summarize our business operations 
 
-# Business Operations 
+# Reporting  
 
 - [Operating Metrics](http://handbook.mattermost.com/guides/operating-metrics.html)
 
-# People Operations 
+# People  
 
 - [Onboarding Playbook](https://docs.google.com/document/d/1VajR9okB231ZACNCG5oyiIAUZBb9Hjn3qkSnJfwraEI/edit#bookmark=id.jqu3ximag4ya) 
 - [Offboarding Playbook](https://docs.google.com/document/d/1CuIne4XAxt8sWiH1wvpICjxDmmZLu57x1_ZxnytYhx4/edit#heading=h.nrzjl1py8ndw) 
