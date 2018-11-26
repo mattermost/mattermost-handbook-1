@@ -22,7 +22,7 @@ V2MOM plans cascade across the company with methods of one V2MOM linking to the 
 
 ## Budgeting 
 
-Budget should be tied with Methods and Measures in departmental V2MOMs and be broken down by recurring costs (headcount and SaaS purchases, which are centrally managed) and non-recurring costs (budget for the fiscal year managed by the department).  
+Budget should be tied with Methods and Measures in departmental V2MOMs and be broken down by recurring costs (headcount and systems purchases, which are centrally managed) and non-recurring costs (vendor budget for the fiscal year managed by the department).  
 
 Headcount 
 - Specific the number and type of FTE needed to achieve V2MOM outcomes 
@@ -32,11 +32,13 @@ Headcount
   - Role title
   - Level (associate, intermediate/manager, senior/senior manager, principal/director, staff/senior director)
   - Summary of responsibilities 
+  - Anticipated start date 
  
 Systems 
 - Budget for any non-headcount investments with recurring costs, most commmonly SaaS investments
 - Include 
   - Method(s) enabled 
+  - System name 
   - One-line explanation of business value anticipated
   - What is being purchased (e.g. SKU and seat count)
   - One-time fees, recurring fees
@@ -44,16 +46,17 @@ Systems
   - Any implementation budget costs
   - Expected time to roll out   
 
-Non-Recurring Costs 
+Vendor  
 - Budget for non-recurring costs, including one-time consulting and vendor fees for the fiscal year. 
 - Include
   - Method(s) enabled 
   - One-line explanation of business value anticipated
-  - what is being purchased (e.g. SKU and seat count)
-  - one-time fees, recurring fees
-  - additional costs for expansion (e.g. additional per-user license costs)
-  - any implementation budget costs
-  - expected time to roll out   
+  - Vendor name
+  - Source of vendor (past experience, referral, web discovery, etc.) 
+  - What is being purchased (e.g. Case study writing services)
+  - Rate 
+  - Budget  
+  - Anticipated start date 
 
 ## Forecasting and Reporting 
 
