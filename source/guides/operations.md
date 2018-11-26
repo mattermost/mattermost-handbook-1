@@ -1,8 +1,8 @@
-The following work-in-progress playbooks summarize our business operations 
+The following work-in-progress playbooks summarize our strategy and business operations 
 
-# Company V2MOM 
+# Company  
 
-- [Mattermost V2MOM](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.dxx7gyj71ixf) 
+- [Mattermost V2MOM - New Collaboration for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.dxx7gyj71ixf) 
 
 ## Product
 
@@ -27,32 +27,15 @@ The following work-in-progress playbooks summarize our business operations
 ## Finance and Operations 
 
 - [Finance and Operations V2MOM - High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
-
-### Procurement 
-
-- [Consulting Template Overview](https://docs.google.com/document/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#heading=h.pwxwwq4ezzfx) 
-- E-sign Procedure (Internal, TBA) 
-
-### Accounting 
-
-- [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
-
-### Legal and Compliance 
-
-- [Archives](http://handbook.mattermost.com/guides/archives.html) 
-
-### Reporting  
-
-- [Operating Metrics](http://handbook.mattermost.com/guides/operating-metrics.html)
+  - Procurement: [Consulting Template Overview](https://docs.google.com/document/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#heading=h.pwxwwq4ezzfx) 
+  - E-sign Procedure (Internal, TBA) 
+  - Accounting: [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
+  - Legal and Compliance: [Archives](http://handbook.mattermost.com/guides/archives.html) 
+  - Reporting: [Operating Metrics](http://handbook.mattermost.com/guides/operating-metrics.html)
 
 ## People 
 
 - [People V2MOM - Scaling Team Mattermost](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.pwfphms1e2gi) 
-
-### People  
-
-- [Onboarding Playbook](https://docs.google.com/document/d/1VajR9okB231ZACNCG5oyiIAUZBb9Hjn3qkSnJfwraEI/edit#bookmark=id.jqu3ximag4ya) 
-- [Offboarding Playbook](https://docs.google.com/document/d/1CuIne4XAxt8sWiH1wvpICjxDmmZLu57x1_ZxnytYhx4/edit#heading=h.nrzjl1py8ndw) 
-- [Human Resources Privacy Policy](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit) 
-- [Annual Performance Review Template](https://docs.google.com/document/d/1C1BY8h6dZVQIuQd_vxRy1S-3f1lhAdtM5frIATmUG5A/edit?ts=5bf46661#heading=h.hu5vu6dn98iw) 
+  - HR Admin: [Onboarding Playbook](https://docs.google.com/document/d/1VajR9okB231ZACNCG5oyiIAUZBb9Hjn3qkSnJfwraEI/edit#bookmark=id.jqu3ximag4ya), [Offboarding Playbook](https://docs.google.com/document/d/1CuIne4XAxt8sWiH1wvpICjxDmmZLu57x1_ZxnytYhx4/edit#heading=h.nrzjl1py8ndw), [Human Resources Privacy Policy](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit) 
+  - Development: [Annual Performance Review Template](https://docs.google.com/document/d/1C1BY8h6dZVQIuQd_vxRy1S-3f1lhAdtM5frIATmUG5A/edit?ts=5bf46661#heading=h.hu5vu6dn98iw) 
 
