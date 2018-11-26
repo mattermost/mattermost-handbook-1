@@ -44,7 +44,7 @@ Systems ($ USD)
   - One-time fees, recurring fees
   - Additional costs for expansion (e.g. additional per-user license costs)
   - Any implementation budget costs
-  - Expected time to roll out   
+  - Anticipated timeline for roll out 
 
 Vendor ($ USD) 
 - Budget for non-recurring costs, including one-time consulting and vendor fees for the fiscal year. 
@@ -56,7 +56,7 @@ Vendor ($ USD)
   - What is being purchased (e.g. Case study writing services)
   - Rate 
   - Budget  
-  - Anticipated start date 
+  - Anticipated start date and end date 
 
 ## Forecasting and Reporting 
 
