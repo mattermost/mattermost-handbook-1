@@ -24,7 +24,7 @@ V2MOM plans cascade across the company with methods of one V2MOM linking to the 
 
 Budget should be tied with Methods and Measures in departmental V2MOMs and be broken down by recurring costs (headcount and systems purchases, which are centrally managed) and non-recurring costs (vendor budget for the fiscal year managed by the department).  
 
-Headcount 
+Headcount (Count) 
 - Specific the number and type of FTE needed to achieve V2MOM outcomes 
 - Note: FTE headcount aren't included in budget as dollars, they are centrally provisioned and managed by People team. 
 - Include: 
@@ -33,8 +33,8 @@ Headcount
   - Level (associate, intermediate/manager, senior/senior manager, principal/director, staff/senior director)
   - Summary of responsibilities 
   - Anticipated start date 
- 
-Systems 
+
+Systems ($ USD)
 - Budget for any non-headcount investments with recurring costs, most commmonly SaaS investments
 - Include 
   - Method(s) enabled 
@@ -46,7 +46,7 @@ Systems
   - Any implementation budget costs
   - Expected time to roll out   
 
-Vendor  
+Vendor ($ USD) 
 - Budget for non-recurring costs, including one-time consulting and vendor fees for the fiscal year. 
 - Include
   - Method(s) enabled 
