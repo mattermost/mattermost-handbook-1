@@ -1,4 +1,4 @@
-The following work-in-progress playbooks summarize our strategy and business operations 
+The following work-in-progress V2MOMs and playbooks summarize our strategy and business operations.  
 
 # Company  
 
