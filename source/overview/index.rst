@@ -1,16 +1,4 @@
-Mattermost Overview
+Mattermost 
 -------------------
 
-Overviews of features, security, deployment, integrations and authentication.
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   /overview/product*
-   /overview/security*
-   /deployment/deployment*
-   /overview/integrations*
-   /overview/auth*
-   /overview/compliance*
-   /overview/faq*
+Mattermost's mission is to make the the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible and offers fast time-to-value. 
