@@ -1,6 +1,6 @@
 # Demand Generation 
 ## SDR Playbook
-### Lead Flow
+## Lead Flow
 Detailed territory assignment sheet located [here](https://docs.google.com/spreadsheets/d/1RcO7ayG6x1aDVxD3AfvSfjlzvzJkvU2GB0wvNIEDhu8/edit)(internal doc).
 More detail to come on rules of engagement. 
 
