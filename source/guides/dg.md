@@ -3,7 +3,7 @@
 Detailed territory assignment sheet located [here](https://docs.google.com/spreadsheets/d/1RcO7ayG6x1aDVxD3AfvSfjlzvzJkvU2GB0wvNIEDhu8/edit)(internal doc).
 More detail to come on rules of engagement. 
 
-#### Lead Status
+### Lead Status
 When a lead comes into Salesforce, it progresses through the lead statuses defined below:
 * **New** New new lead record, not enough activity to be considered an MQL.
 * **MQL** A Marketing Qualified Lead (MQL) is a lead that has reached a lead scoring threshold (100 points). Lead scoring model is based on firmographic, demographic, and behavioral information and can be seen [here](https://docs.google.com/spreadsheets/d/1ZMF7ppWS_Naf-kIFgRymLWwHRVkB09VTqB7wv-AXOnM/edit#gid=0) (internal doc).
