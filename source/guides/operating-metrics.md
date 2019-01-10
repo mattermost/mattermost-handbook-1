@@ -39,11 +39,32 @@ Aggregate USD in cash holdings across all accounts including non-USD holdings wh
 ### Monthly Cash Burn
 
 Decrease in [USD Cash Balance](#usd-cash-balance) from the first of the month to the first of the next month, or "0" if cash did not decrease. E.g. Monthly Cash Burn for April is the decrease in cash from April 1 to May 1. 
- 
+
 ### Operating Months 
 
 [USD Cash Balance](#usd-cash-balance) divided by average of [Monthly Cash Burn](#monthly-cash-burn) in the previous three (3) months. In the case where there was no burn, treat the month as "0" burn, this allows us to project worst case.  
 
+## Sales and Marketing Operations
+
+### IQM
+An Initial Qualifying Meeting (IQM) is a meeting scheduled by an SDR for a sales team member and a qualified lead.
+
+### MQL
+A Marketing Qualified Lead (MQL) is a lead that has reached a scoring threshold of 100 points. Lead scoring is based on firmographic, demographic, and behavioral information. Lead scoring model can be seen [here](https://docs.google.com/spreadsheets/d/1ZMF7ppWS_Naf-kIFgRymLWwHRVkB09VTqB7wv-AXOnM/edit#gid=0)(internal doc).
+
+### SAO
+A Sales Accepted Opportunity (SAO)is an opportunity in stage 1 or greater.
+
+### Sales Segmentation
+
+#### SMB
+Companies less than 500 employees
+
+#### Commercial
+Companies between 500 and 4,999 employees
+
+#### Enterprise
+Companies over 5,000 employees
 
 ```
 # BC  	
