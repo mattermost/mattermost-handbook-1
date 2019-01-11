@@ -44,6 +44,8 @@ Decrease in [USD Cash Balance](#usd-cash-balance) from the first of the month to
 
 [USD Cash Balance](#usd-cash-balance) divided by average of [Monthly Cash Burn](#monthly-cash-burn) in the previous three (3) months. In the case where there was no burn, treat the month as "0" burn, this allows us to project worst case.  
 
+### Pipeline
+Pipeline is total opportunity amount stage 1 and greater in a given period defined by AE after first engagement confirming authority, need and committed next step. Opportunity dollar amount is determined by list price times number of users.
 
 ```
 # BC  	
