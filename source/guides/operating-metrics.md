@@ -47,6 +47,28 @@ Decrease in [USD Cash Balance](#usd-cash-balance) from the first of the month to
 ### Pipeline
 Pipeline is total opportunity amount stage 1 and greater in a given period defined by AE after first engagement confirming authority, need and committed next step. Opportunity dollar amount is determined by list price times number of users.
 
+### MQL
+Marketing Qualified Lead (MQL) is a lead that has reached a lead scoring threshold (100 points). Lead scoring model is based on firmographic, demographic, and behavioral information and can be seen here. (internal)(doc)
+
+### SQL
+Sales Qualified Lead (SQL) is an opportunity created in Stage 1 or greater as either an SAO or Sales created opportunity that meets the pipeline requirements.
+
+### SAO
+Sales Accepted Opportunity (SAO) is an opportunity in stage 1 or greater. Created by a sales team member or by an SDR and accepted by a sales team member following an initial qualifying meeting (IQM) or SDR handoff. 
+
+### IQM
+Initial Qualifying Meeting (IQM) is a meeting scheduled by an SDR for a sales team member with a qualified lead. 
+
+### SMB 
+Companies less than 500 employees
+
+### Commercial
+Companies between 500 and 4,999 employees
+
+### Enterprise
+Companies over 5,000 employees
+
+
 ```
 # BC  	
 Current number of business customers with a valid subscription
