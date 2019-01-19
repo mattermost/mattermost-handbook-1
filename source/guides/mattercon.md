@@ -17,3 +17,11 @@ The schedule for Mattercon planning and checkins is as follows:
 - T-minus 3 days - Leadership deck and event kick-off is reviewed
   
 - T-minus 1 day - Leadership deck and event kick-off is locked  
+
+## Policies 
+
+Venue
+- Venue should not have any additional surcharge for bringing our own photography or video vendors.
+
+Activities Vendors 
+- Vendors for activities (such as boat party, snorkeling, guided tours, etc.) should not ever make a MatterCon attendee feel overly pressured to participate in any activity. For example, on a party boat, participants should never be coerced to dance or drink alcohol, only offered. Managers and colleagues who sense coercion should ask the vendor to stop immediately. 
