@@ -48,7 +48,7 @@ Decrease in [USD Cash Balance](#usd-cash-balance) from the first of the month to
 Pipeline is total opportunity amount stage 1 and greater in a given period defined by AE after first engagement confirming authority, need and committed next step. Opportunity dollar amount is determined by list price times number of users.
 
 ### MQL
-Marketing Qualified Lead (MQL) is a lead that has reached a lead scoring threshold (100 points). Lead scoring model is based on firmographic, demographic, and behavioral information and can be seen here. (internal)(doc)
+Marketing Qualified Lead (MQL) is a lead that has reached a lead scoring threshold (100 points). Lead scoring model is based on firmographic, demographic, and behavioral information and can be seen [here](https://docs.google.com/spreadsheets/d/1ZMF7ppWS_Naf-kIFgRymLWwHRVkB09VTqB7wv-AXOnM/edit?usp=sharing). (internal)(doc)
 
 ### SQL
 Sales Qualified Lead (SQL) is an opportunity created in Stage 1 or greater as either an SAO or Sales created opportunity that meets the pipeline requirements.
