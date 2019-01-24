@@ -35,11 +35,11 @@ Permissions
 Overall Archive 
 
 - `by_date`
-  - UPLOADER: HR Admin // Upload to archive only, no view permissions  
+  - UPLOADER: HR Admin and EA // Upload to archive only, no view permissions  
   - VIEWER UPLOADER: Finance Admin // Upload, download and view permissions, no delete    
   - EDITOR - VP Finance // Full permissions including delete 
 - `by_entity`
-  - UPLOADER: HR Admin // Upload to archive only, no view permissions  
+  - UPLOADER: HR Admin and EA // Upload to archive only, no view permissions  
   - VIEWER UPLOADER: Finance Admin // Upload, download and view permissions, no delete    
   - EDITOR - VP Finance // Full permissions including delete 
 - `by_type/`
@@ -55,10 +55,10 @@ Agreements by Type
   - VIEWER UPLOADER: Finance Admin, HR Admin, Sales Ops Admin // Upload, download and view permissions, no delete    
   - EDITOR - VP Finance // Full permissions including delete 
 - `by_type/partner_agreements` // Reseller, Co-Seller and Professional Services Agreements   
-  - VIEWER UPLOADER: Finance Admin, Sales Ops Admin // Upload, download and view permissions, no delete    
+  - VIEWER UPLOADER: Finance Admin, Sales Ops Admin, and EA // Upload, download and view permissions, no delete    
   - EDITOR - VP Finance // Full permissions including delete 
 - `by_type/customer_agreements` // Customer Agreements 
-  - VIEWER UPLOADER: Finance Admin, Sales Ops Admin // Upload, download and view permissions, no delete    
+  - VIEWER UPLOADER: Finance Admin, Sales Ops Admin, and EA // Upload, download and view permissions, no delete    
   - EDITOR - VP Finance // Full permissions including delete 
 
 
