@@ -19,6 +19,9 @@ The following work-in-progress V2MOMs and playbooks summarize our strategy and b
 ## Sales 
 
 - [Sales V2MOM - Rapid, Repeatable, Predictable New Customer Growth](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.xae7fijadf4n) 
+- [Operating Metrics Definitions](https://docs.google.com/document/d/1aKJrJ7VBf6lGzYNe2xpsTaAfUjw_3Pv1TBRw5XhRCs0/edit?usp=sharing)
+- [Salesforce.com Field Definitions](https://docs.google.com/document/d/1FIoKrd1yEqmS_opi1jxXOEbhxx88N0WVZBsjWO_abow/edit?usp=sharing)
+
 
 ## Customer Success 
 
