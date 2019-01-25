@@ -60,13 +60,13 @@ Sales Accepted Opportunity (SAO) is an opportunity in stage 1 or greater. Create
 Initial Qualifying Meeting (IQM) is a meeting scheduled by an SDR for a sales team member with a qualified lead. 
 
 ### SMB 
-Companies less than 500 employees
+Companies with up to 499 employees
 
 ### Commercial
-Companies between 500 and 4,999 employees
+Companies with 500 to 4,999 employees
 
 ### Enterprise
-Companies over 5,000 employees
+Companies with 5,000 or more employees
 
 
 ```
