@@ -1,8 +1,12 @@
 # Archives 
 
-This page notes archives for company materials and the people on the team who can be contacted for access. 
+This page documents storage and archiving of legal and compliance materials 
 
-- [Trademark filings](https://mattermost.app.box.com/folder/50725815435) - CAH
+## Trademarks Archive 
+
+Trademarks documentation is stored at: 
+
+- [Trademark filings](https://mattermost.app.box.com/folder/50725815435) 
 
 ## E-sign Archive 
 
