@@ -30,7 +30,7 @@ The following work-in-progress V2MOMs and playbooks summarize our strategy and b
 ## Finance and Operations 
 
 - [Finance and Operations V2MOM - High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
-  - Procurement: [Consulting Template Overview](https://docs.google.com/document/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#heading=h.pwxwwq4ezzfx) 
+  - Professional Services Procurement: [Consulting with Mattermost Guide](https://docs.google.com/document/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#heading=h.pwxwwq4ezzfx) 
   - E-sign Procedure (Internal, TBA) 
   - Accounting: [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
   - Legal and Compliance: [Archives](http://handbook.mattermost.com/guides/archives.html) 
