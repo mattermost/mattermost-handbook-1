@@ -7,7 +7,7 @@ This guide outlines procurement process at Mattermost.
 IMPORTANT: 
 - DO NOT have a vendor start work before a consulting agreement is in place. 
 
-### Four steps to procuring professional services for Mattermost Budget Owners (standard agreement, 1-2 business days): 
+### 4 steps to procuring services on standard agreements (1-2 business days): 
 
 Mattermost Budget Owner procuring consulting services on a standard Mattermost consulting agreement have four steps to procure professional services and one step to approve vendor invoices (5 steps in total): 
 
@@ -28,13 +28,11 @@ See [example and detailed instructions](https://docs.google.com/document/d/1G4wF
 
 After contract is complete, MBO receives invite to Bill.com to approve invoices from vendor submitted in future. 
 
-### Procuring professional services on non-standard agreements (non-standard agreement, 1-3 weeks): 
+### Procuring professional services on non-standard agreements (1-3 weeks): 
 
-When procuring professional services on contracts other than the standard Mattermost Consulting Agreement MBOs should anticipate 1-3 weeks for procurement due to contract review and approvals and a $500 charge-back to their cost center for the cost of legal review and added procurement effort. 
+When procuring professional services on contracts other than the [standard Mattermost Consulting Agreement](https://drive.google.com/file/d/0B1HOWxVUGSg8X1NscE00S0xpM2M/view) MBOs should anticipate 1-3 weeks for procurement due to contract review and approvals and a $500 charge-back to their cost center for the cost of legal review and added procurement effort. 
 
-When practical, MBOs should request a $500 discount for using the consultant's paperwork to offset costs to the MBO. 
-
-
+Use steps 1 to 2 in the [4 steps to procuring services on standard agreements](4-steps-to-procuring-services-on-standard-agreements) workflow above and attach the contract proposed by the consultant. 
 
 ## How to procure a new system 
 
