@@ -1,4 +1,4 @@
-# Planning, Budgeting and Forecasting Process
+# Planning, Budgeting and Forecasting 
 
 The following outlines the work-in-progress planning, budgeting and forecasting process at Mattermost. 
 
