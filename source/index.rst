@@ -15,10 +15,10 @@ Mattermost Documentation
    :maxdepth: 1
    :glob:
 
-   Overview <overview/index>
-   User's Guide <guides/user>
-   Operations Guide <guides/operations>
-   Integration Guide <guides/integration>
-   Developer's Guide <guides/developer>
-   Core Team Handbook <guides/core>
+   About Mattermost <overview/index>
+   Leadership Principles <guides/user>
+   Operations <guides/operations>
+   Community Guide <guides/integration>
+   Working Remote <guides/developer>
+   Work with Us <guides/core>
    
