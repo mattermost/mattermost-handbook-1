@@ -14,4 +14,5 @@ The following outlines how Mattermost, Inc. works with service providers on a co
   - Folder for vendor created in Box
   - All documents (agreement, W-2) filed in Box "to_file" folder using proper naming convention
   - Files archived in vendor's folder in Box
+  - Peopleops team notified via email
 4. Business owner approves vendor's invoices in Bill.com
