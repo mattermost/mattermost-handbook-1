@@ -29,12 +29,12 @@ Email `procurement@mattermost.com` with the name of the service and the SKU that
 
 ### Roles 
 
-ALR Coordinator - CAH  
-Finance - AV
-IT Admin - HP
-Procurement Administrator - JS 
-Procurement Supervisor - IJT 
-Accounting - JT
+- ALR Coordinator - CAH  
+- Finance - AV
+- IT Admin - HP
+- Procurement Administrator - JS 
+- Procurement Supervisor - IJT 
+- Accounting - JT
 
 ### Procuring consulting services on a standard agreement (1-2 business days)
 
