@@ -36,7 +36,9 @@ Use steps 1 to 2 in the [4 steps to procuring services on standard agreements](4
 
 ### Procuring on a standard agreement 
 
-#### 1) Receive email notification of new vendor contract request
+#### 1) Finance recieves email notification of new vendor contract request
+
+Information should contain: 
 
 - Project Name - Describe the project in a few words.
 - Description of Services - Clearly define the services to be delivered per the legal agreement. 
@@ -50,11 +52,11 @@ Use steps 1 to 2 in the [4 steps to procuring services on standard agreements](4
 - Project Start Date - Start date of project.
 - Project End Date - End date of project, 1 year maximum duration. 
 
-If anything is missing or poorly defined, MPA asks the budget owner for clarification. 
+If anything is missing or poorly defined, finance asks the budget owner for clarification. 
 
-#### 2) Prepare SOW and email to MBO 
+#### 2) MPA receives email from finance to begin the procurement process
 
-MPA prepares SOW based on entry in 1) and ensures SOW passes checklist: 
+MPA receives email approval from finance and prepares SOW based on entry in 1) and ensures SOW passes checklist: 
 
 1. Make sure compensation is clearly defined as per project or per time unit. 
 2. If compensation is based on time, make sure there's a clause requesting a report of time spent included in invoicing.  
