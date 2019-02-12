@@ -13,7 +13,7 @@ This guide outlines procurement process at Mattermost.
 IMPORTANT: 
 - DO NOT have a vendor start work before a consulting agreement is in place. 
 
-### Mattermost Budget Owner procurment procedures 
+### Mattermost Budget Owner procurement procedures 
 
 #### 4 steps to procuring services on standard agreements (1-2 business days): 
 
