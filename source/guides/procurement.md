@@ -57,15 +57,17 @@ The following happen in the `procurement@mattermost.com` email thread per projec
 
 For services that CAN be purchased using Credit Card: 
 
-1. Terms of Service (ToS) is run through ALR approval process via ALR Coordinator 
-2. After ToS is approved, IT Admin purchases service using Credit Card and provides an admin account to budget owner 
+1. Finance confirms budget owner has checked with them and procurement can proceed
+2. Terms of Service (ToS) is run through ALR approval process via ALR Coordinator 
+3. After ToS is approved, IT Admin purchases service using Credit Card and provides an admin account to budget owner 
 
 For services that CAN NOT be purchased using Credit Card: 
 
-1. Agreement is run through ALR approval process via ALR Coordinator 
-2. After agreement is approved, ALR Coordinator sends agreement to CEO for e-sign
-3. ALR Coordinator sends back e-sign to vendor and archives signed agreement 
-4. Finalized contract is sent to Accounting for W-9 collection and registration of Budget Owner in Bill.com for invoice approvals 
-5. IT Admin provides an admin account to budget owner 
+1. Finance confirms budget owner has checked with them and procurement can proceed
+2. Agreement is run through ALR approval process via ALR Coordinator 
+3. After agreement is approved, ALR Coordinator sends agreement to CEO for e-sign
+4. ALR Coordinator sends back e-sign to vendor and archives signed agreement 
+5. Finalized contract is sent to Accounting for W-9 collection and registration of Budget Owner in Bill.com for invoice approvals 
+6. IT Admin provides an admin account to budget owner 
 
 DO NOT have vendor send e-sign to CEO. E-sign requests from vendors get routed to trash. 
