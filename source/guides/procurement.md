@@ -86,3 +86,6 @@ Accounting:
 
 
 
+## How to procure software subscription services 
+
+To be added
