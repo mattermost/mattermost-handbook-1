@@ -29,6 +29,8 @@ Email `procurement@mattermost.com` with the name of the service and the SKU that
 
 ### Roles 
 
+Procurement Team (subscribed to `procurement@mattermost.com`) includes: 
+
 - ALR Coordinator - CAH  
 - Finance - AV
 - IT Admin - HP
