@@ -35,7 +35,7 @@ Procurement Team (subscribed to `procurement@mattermost.com`) includes:
 - Finance - AV
 - IT Admin - HP
 - Procurement Administrator - JS 
-- Procurement Supervisor - IJT 
+- Procurement Shepard - IJT 
 - Accounting - JT
 
 ### Procuring consulting services on a standard agreement (1-2 business days)
