@@ -1,91 +1,67 @@
 # How to procure at Mattermost 
 
-This guide outlines procurement process at Mattermost. 
+## End user guide to procurement 
 
-## Procurement roles 
+### How to procure consulting services on a standard agreement (1-2 business days)
 
-- Mattermost Budget Owner (MBO) - Person at Mattermost who owns the budget to be used on the professional services to be purchased. 
-- Mattermost Procurement Administrator (MPA) - Person at Mattermost administering the procurement process.
-- Mattermost Procurement Supervisor (MPS) - Person at Mattermost reviewing and approving procurement requests and contracts. 
+Confirm with finance you have budget for the spend, then: 
 
-## How to procure consulting services 
-
-IMPORTANT: 
-- DO NOT have a vendor start work before a consulting agreement is in place. 
-
-### Mattermost Budget Owner procurement procedures for consulting services from a new vendor 
-
-#### 4 steps to procuring consulting services on standard agreements (1-2 business days): 
-
-Mattermost Budget Owners (MBO) procuring consulting services on a standard Mattermost consulting agreement have four steps to procure professional services and one step to approve vendor invoices (5 steps in total): 
-
-1. MBO emails vendor [link to explain how Mattermost procures professional services](https://docs.google.com/document/u/1/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#heading=h.cw54xe8enb2k). 
-2. MBO completes [New Vendor Contract Request form](https://airtable.com/shr4eYHbYRrI1S0Dn).
-3. MBO receives draft SOW from procurement and either approves it or requests modifications in email.  
-4. After MBO approves SOW via email, procurement sends e-sign to vendor to complete. 
+1. Email vendor [link to explain how Mattermost procures consulting services](https://docs.google.com/document/u/1/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#heading=h.cw54xe8enb2k). 
+2. Agree on the SOW section with the vendor and email the [completed SOW table](https://docs.google.com/document/d/1G4wFLq_wHHEDJ-hrv5Kmu022mFJgh3rJ4-glM0W6riI/edit#) to procurement@mattermost.com with "Procurement Request: [VENDOR_NAME]" in the subject. 
+3. You should get an email back from procurement team with proposed SOW language to approve or discuss prior to sending it to the vendor for e-sign 
+4. After you've approved the SOW procurement sends e-sign to vendor to complete. 
 
 After contract is complete, MBO receives invite to Bill.com to approve invoices from vendor submitted in future. 
 
-#### Procuring professional services on non-standard agreements (1-3 weeks): 
+### How to procure consulting services on a non-standard agreement (1-3 weeks) 
 
-When procuring professional services on contracts other than the [standard Mattermost Consulting Agreement](https://drive.google.com/file/d/0B1HOWxVUGSg8X1NscE00S0xpM2M/view) MBOs should anticipate **1-3 weeks for procurement** due to contract review and approvals and a **$500 charge-back to their cost center** for the cost of legal review and added procurement effort. 
+Confirm with finance you have budget for the spend, then: 
 
-Use steps 1 to 2 in the [4 steps to procuring services on standard agreements](4-steps-to-procuring-services-on-standard-agreements) workflow above and attach the contract proposed by the consultant. 
+If your vendor wants to use a non-standard agreement, email the agreement to `procurement@mattermost.com` to have reviewed. The process may take 1 to 3 weeks given legal review time needed. 
 
-### Mattermost Procurement Team procurement procedures 
+### How to procure software subscription services (1-3 weeks) 
 
-### Procuring on a standard agreement 
+Confirm with finance you have budget for the spend, then: 
 
-#### 1) Finance recieves email notification of new vendor contract request
+Email `procurement@mattermost.com` with the name of the service and the SKU that you want so they can review the terms of service, purchase the service and provision you an administrator account. 
 
-Information should contain: 
+## Procurement team guide 
 
-- Project Name - Describe the project in a few words.
-- Description of Services - Clearly define the services to be delivered per the legal agreement. 
-- Compensation Type - Selection of time-based or project-based compensation. 
-- Compensation Amount - Amount of compensation based on compensation type. 
-- Estimated Fiscal Year Budget - Estimated amount to be spent in this fiscal year on this contract.    
-- Vendor Company Name -  Name of company, or name of person if no company is used. 
-- Vendor Contact Name -  Name of contact at company, or person if no company. 
-- Vendor Contact Email - Email of contact.
-- Vendor Contact Phone Number - Phone number of contact. 
-- Project Start Date - Start date of project.
-- Project End Date - End date of project, 1 year maximum duration. 
+### Roles 
 
-If anything is missing or poorly defined, finance asks the budget owner for clarification. 
+ALR Coordinator - CAH  
+Finance - AV
+IT Admin - HP
+Procurement Administrator - JS 
+Procurement Supervisor - IJT 
+Accounting - JT
 
-#### 2) MPA receives email from finance to begin the procurement process
+### Procuring consulting services on a standard agreement (1-2 business days)
 
-MPA receives email approval from finance and prepares SOW based on entry in 1) and ensures SOW passes checklist: 
+1. Finance confirms budget owner has checked with them and procurement can proceed
+2. Procurement Supervisor either approves or shares feedback with Procurement Administrator on SOW
+3. Procurement Administrator replies to Budget Owner until SOW is locked
+4. Procurement Administrator executes [ALR review procedure](https://docs.google.com/document/d/1-IVQMs6zuLJkBe1uvD_fNNLOZXLgDTamt6eZwvrMMRo/edit#heading=h.3v4zftty6hl1) until contract is e-signed and complete 
+5. Finalized contract is sent to Accounting for W-9 collection and registration of Budget Owner in Bill.com for invoice approvals 
 
-1. Make sure compensation is clearly defined as per project or per time unit. 
-2. If compensation is based on time, make sure there's a clause requesting a report of time spent included in invoicing.  
-3. Make sure compensation is based on presentation and approval of invoice and payable within 20 days of invoice issuance.
+### Procuring professional services on non-standard agreements (1-3 weeks)
 
-MPA emails SOW to MBO with MPS CC'd. MPA adapts to feedback from MPS and MBO until the SOW is agreed. 
+1. Non-standard agreement is run through [ALR process](https://docs.google.com/document/d/1-IVQMs6zuLJkBe1uvD_fNNLOZXLgDTamt6eZwvrMMRo/edit#heading=h.3v4zftty6hl1) via ALR Coordinator 
+2. Finalized contract is sent to Accounting for W-9 collection and registration of Budget Owner in Bill.com for invoice approvals 
 
-#### 3) Send e-sign to vendor 
+### Procuring software subscription services (1-3 weeks)
 
-MPA enters SOW into standard Consulting Agreement template in HelloSign and sends to the CEO to sign first, and then to vendor. 
+For services that CAN be purchased using Credit Card: 
 
-#### 4) Post-contract setup 
+1. Terms of Service (ToS) is run through ALR approval process via ALR Coordinator 
+2. After ToS is approved, IT Admin purchases service using Credit Card and provides an admin account to budget owner 
 
-After CEO and vendor have e-signed: 
+For services that CAN NOT be purchased using Credit Card: 
 
-MPA: 
+1. Agreement is run through ALR approval process via ALR Coordinator 
+2. After agreement is approved, ALR Coordinator sends agreement to CEO for e-sign
+3. ALR Coordinator sends back e-sign to vendor and archives signed agreement 
+4. Finalized contract is sent to Accounting for W-9 collection and registration of Budget Owner in Bill.com for invoice approvals 
+5. IT Admin provides an admin account to budget owner 
 
-1. Enters vendor into [People table](https://airtable.com/shrgGhQH3Zr5RNt6M) with MBO as manager. 
-2. Completed e-sign is filed in [`to_file` folder](https://mattermost.app.box.com/folder/64764064631) with type `standard_consulting_agreement` following [archive naming convention](https://github.com/mattermost/mattermost-handbook/blob/master/source/guides/archives.md#file-archive-naming-convention). 
-3. Requests vendor to send in appropriate tax forms (W-9 for U.S., W8-BEN for non-U.S.).
-4. Completed tax form is filed in [`to_file`](https://mattermost.app.box.com/folder/64764064631) folder with type `standard_consulting_agreement` following [archive naming convention](https://github.com/mattermost/mattermost-handbook/blob/master/source/guides/archives.md#file-archive-naming-convention). 
-5. Forward completed e-sign and tax forms to Accounting for forecasting and Bill.com setup. 
-
-Accounting: 
-
-1. Sets up vendor in Bill.com with MBO as invoice approver. 
-
-
-
-## How to procure software subscription services 
-
-To be added
+DO NOT have vendor send e-sign to CEO. E-sign requests from vendors get routed to trash. 
