@@ -50,6 +50,7 @@ The following happen in the `procurement@mattermost.com` email thread per projec
 
 ### Procuring professional services on non-standard agreements (1-3 weeks)
 
+1. Finance confirms budget owner has checked with them and procurement can proceed
 1. Non-standard agreement is run through [ALR process](https://docs.google.com/document/d/1-IVQMs6zuLJkBe1uvD_fNNLOZXLgDTamt6eZwvrMMRo/edit#heading=h.3v4zftty6hl1) via ALR Coordinator 
 2. ALR Coordinator sends finalized contract is sent to Accounting for W-9 collection and registration of Budget Owner in Bill.com for invoice approvals 
 
