@@ -40,6 +40,8 @@ Procurement Team (subscribed to `procurement@mattermost.com`) includes:
 
 ### Procuring consulting services on a standard agreement (1-2 business days)
 
+The following happen in the `procurement@mattermost.com` email thread per project: 
+
 1. Finance confirms budget owner has checked with them and procurement can proceed
 2. Procurement Supervisor either approves or shares feedback with Procurement Administrator on SOW
 3. Procurement Administrator replies to Budget Owner until SOW is locked
@@ -49,7 +51,7 @@ Procurement Team (subscribed to `procurement@mattermost.com`) includes:
 ### Procuring professional services on non-standard agreements (1-3 weeks)
 
 1. Non-standard agreement is run through [ALR process](https://docs.google.com/document/d/1-IVQMs6zuLJkBe1uvD_fNNLOZXLgDTamt6eZwvrMMRo/edit#heading=h.3v4zftty6hl1) via ALR Coordinator 
-2. Finalized contract is sent to Accounting for W-9 collection and registration of Budget Owner in Bill.com for invoice approvals 
+2. ALR Coordinator sends finalized contract is sent to Accounting for W-9 collection and registration of Budget Owner in Bill.com for invoice approvals 
 
 ### Procuring software subscription services (1-3 weeks)
 
