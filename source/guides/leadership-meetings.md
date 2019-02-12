@@ -1,6 +1,11 @@
 # Leadership Meetings 
 
-## Daily Heads-Up 
+## Daily Read In 
+
+
+Attendees:
+
+- Department heads  
 
 Objectives: 
 
