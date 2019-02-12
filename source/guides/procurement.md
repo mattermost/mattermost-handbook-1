@@ -1,4 +1,4 @@
-# How to procure at Mattermost 
+# WIP: How to procure at Mattermost 
 
 ## End user guide to procurement 
 
