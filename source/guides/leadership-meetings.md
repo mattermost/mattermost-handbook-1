@@ -4,7 +4,7 @@
 
 Attendees:
 
-- Department heads  
+- IJT Directs
 
 Objectives: 
 
@@ -25,12 +25,15 @@ Process
 
 Attendees:
 
-- Leads
+- IJT Directs plus JB 
 
 Objectives: 
 
-- Review scorecard, identify red and yellow flags
-- Resolve critical tactical obstacles and issues affecting short-term success
+- Identity administrative, tactical and strategic issues 
+- Identify obstacles to achieving clearly defined objectives
+- Discuss issues and either resolve them or decide on next step 
+- Voice concerns and make decisions as a team 
+- Prepare to cascade communications across departments 
 
 Time: 
 
@@ -38,12 +41,11 @@ Time:
 
 Process
 
-- No agenda prior to meeting
-- Strategic discussions postponed to monthly strategic meeting
+- This meeting replaces Daily Read In meeting 
 - Structure of meeting:
-  1. **Lightning Round** - top 3 weekly items per lead, 1 minute per lead. Questions or follow-ups requiring broader discussion queued for tactical agenda.
+  1. **Daily Read In** - Same process as Daily Read In 
   2. **Scoreboard Review** - Review status of company initiatives. Queue yellow and red flags for tactical agenda.
-  3. **Tactical Agenda** - Issues arisen during Lightning Round or Scoreboard Review. Discussions lasting 5 minutes are paused with either a decision, offline conversation, or an item to monthly strategic call.
+  3. **Tactical Agenda** - Issues arisen during Read In or Scoreboard Review. Discussions lasting 5 minutes are paused with either a decision, offline conversation, or an item to monthly strategic call.
   4. **Decisions / Actions** - Summarize decisions and actions made during the meeting. Confirm everyone is on board.
   5. **Cascading Communication** - Agree what to communicate to direct reports, if any. Agree on timeframe for that communication to take place.
 
@@ -51,7 +53,7 @@ Process
 
 Attendees:
 
-- Leads 
+- IJT Directs 
 
 Objectives: 
 
