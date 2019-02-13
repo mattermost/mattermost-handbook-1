@@ -2,7 +2,7 @@
 
 This page notes archives for company materials and the people on the team who can be contacted for access. 
 
-- [Trademark filings](https://mattermost.app.box.com/folder/50725815435) - CAH
+- [Trademark filings](https://docs.google.com/spreadsheets/d/1cG3KngKigz_DpeC_ZpboSEPOGEZjG094se4EyWFo1lo/edit?usp=sharing) - CAH
 
 ## E-sign Archive 
 
