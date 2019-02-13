@@ -2,7 +2,6 @@
 
 ## Daily Read In 
 
-
 Attendees:
 
 - Department heads  
@@ -14,8 +13,7 @@ Objectives:
 
 Time: 
 
-- Daily weekday meeting from 8:31am to 8:41am Palo Alto time
-- Meeting starts on-time, ideally ends before end time 
+- Daily weekday meeting from 8:31am to 8:41am Palo Alto time, except on Tuesday
 
 Process
 
@@ -25,11 +23,48 @@ Process
 
 ## Weekly Tactical 
 
-TBD 
+Attendees:
+
+- Leads
+
+Objectives: 
+
+- Review scorecard, identify red and yellow flags
+- Resolve critical tactical obstacles and issues affecting short-term success
+
+Time: 
+
+- Weekly meeting on Tuesdays from 10:00am to 11:00am Palo Alto time
+
+Process
+
+- No agenda prior to meeting
+- Strategic discussions postponed to monthly strategic meeting
+- Structure of meeting:
+  1. **Lightning Round** - top 3 weekly items per lead, 1 minute per lead. Questions or follow-ups requiring broader discussion queued for tactical agenda.
+  2. **Scoreboard Review** - Review status of company initiatives. Queue yellow and red flags for tactical agenda.
+  3. **Tactical Agenda** - Issues arisen during Lightning Round or Scoreboard Review. Discussions lasting 5 minutes are paused with either a decision, offline conversation, or an item to monthly strategic call.
+  4. **Decisions / Actions** - Summarize decisions and actions made during the meeting. Confirm everyone is on board.
+  5. **Cascading Communication** - Agree what to communicate to direct reports, if any. Agree on timeframe for that communication to take place.
 
 ## Monthly Strategic 
 
-TBD 
+Attendees:
+
+- Leads 
+
+Objectives: 
+
+- Discuss, analyze and decide upon a critical issue affecting long-term success
+
+Time: 
+
+- Monthly meeting, lasts 2 - 4 hours. Exact time to be determined. 
+
+Process
+
+- Agenda prepared over the course of a month, including topics that arise during weekly tactical
+- All material, e.g. slides, prepared in advance and focused on a specific topic
 
 ## Quarterly Business Review 
 
