@@ -12,7 +12,7 @@ Objectives:
 
 Time: 
 
-- Every 2-4 weeks for 30 minutes
+- Every 2-4 weeks for 30 minutes (exact cadence TBD)
 
 Process
 
