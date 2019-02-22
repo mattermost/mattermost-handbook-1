@@ -7,8 +7,8 @@ Attendees:
 
 Objectives: 
 
-- Learn from staff what to keep and what to change about how we do things
-- Remain connected to staff  
+- Learn what to keep and what to change about how we do things
+- Maintain connection to staff  
 
 Time: 
 
