@@ -4,8 +4,8 @@
 
 * The process is consistent across everyone, particularly in describing our company and culture
 * Candidates should feel welcomed and be updated regularly through all stages of the process
-* Recruiting process is designed to find and hire candidates who best fit our needs and company culture
-* All candidates are treated fairly - we must run a competitive process for all roles
+* The process is designed to find and hire candidates who best fit our needs and company culture
+* All candidates are treated fairly - we run a competitive process for all roles
 
 
 ### Process
