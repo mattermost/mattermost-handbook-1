@@ -1,6 +1,6 @@
 ## Audition
 
-For the benefit of candidates and the company, Mattermost offers real-world “try out” projects with Mattermost team members to simulate what it would be like to work at the company prior to hiring. The practice of auditions in open source companies was pioneered by Automattic (creators of WordPress) and detailed by Harvard Business Review in 2014. This practice has been a vital part of Mattermost culture.
+For the benefit of candidates and the company, Mattermost offers real-world “try out” projects with Mattermost team members to simulate what it would be like to work at the company prior to hiring. The practice of auditions in open source companies was pioneered by Automattic (creators of WordPress) and detailed by [Harvard Business Review in 2014](https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team). This practice has been a vital part of Mattermost culture.
 Candidates who show strong potential for technical and cultural fit are invited to work on tasks that are part of their desired position or to complete a project designed by their potential manager. 
 
 **Past projects include**: 
