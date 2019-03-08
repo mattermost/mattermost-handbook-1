@@ -183,7 +183,7 @@ Procedure:
 Platform Meeting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Mattermost Inc-only** - (Product Staff - 1 hour/week) Thursday's at 10:00 (`San Francisco Time <http://everytimezone.com/>`_).
+**Mattermost Inc-only** - (Product Staff - 1 hour/week) Thursdays at 9:00 (`San Francisco Time <http://everytimezone.com/>`_).
 
 Regular team meeting for product staff team at Mattermost Inc.
 
@@ -199,7 +199,7 @@ Only the product team attends the Product Staff Meeting, others' attendance is o
 
 Procedure:
 
-1. (Chair) 3-hours before standup, post reminders in `Platform Meeting private channel <https://pre-release.mattermost.com/core/channels/platform-meeting>`_ (Mattermost Inc only)
+1. (Chair) 3-hours before standup, post reminders in `Platform Meeting private channel <https://community.mattermost.com/private-core/channels/platform-meeting>`_ (Mattermost Inc only)
 
 ::
 
@@ -216,13 +216,13 @@ Procedure:
 
 2. (Team) At time of meeting:
 
-   - Join the **Hangout** link in the header of the `Platform private channel <https://pre-release.mattermost.com/core/channels/platform-discussion>`_
+   - Join the **Hangout** link in the header of the `Platform private channel <https://community.mattermost.com/private-core/channels/platform-meeting>`_
    - Open the **Notes** link in the header to see the agenda
 
 3. (Vice-Chair) Post `"Standing Items" template <https://docs.google.com/document/d/1ImSgkF7T03wbKwz_t4-Dr4n3I8LixVbFb2Db_u0FmdM>`_ into Platform Meeting Notes
 
     - Add **Follow-ups** from previous meeting
-    - Add **New items** queued in `Platform private channel <https://pre-release.mattermost.com/core/channels/platform-discussion>`_ (Mattermost Inc only)
+    - Add **New items** queued in `Platform private channel <https://community.mattermost.com/private-core/channels/platform-meeting>`_ (Mattermost Inc only)
 
 Meeting Agenda:
 
@@ -242,7 +242,7 @@ Product Staff Meeting
 
 Post Meeting:
 
-- Follow-up items are posted to the  `Platform private channel <https://pre-release.mattermost.com/core/channels/platform-discussion>`_ (Mattermost Inc only)
+- Follow-up items are posted to the  `Platform private channel <https://community.mattermost.com/private-core/channels/platform-meeting>`_ (Mattermost Inc only)
 
 Meeting Elements
 -----------------------
