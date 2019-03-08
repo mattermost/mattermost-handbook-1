@@ -1,6 +1,6 @@
 # New Staff Guide to Mattermost
 
-When joining Mattermost, you will be invited to join the private **Staff** team. Once [signed in](https://docs.mattermost.com/help/getting-started/signing-in.html), help coworkers get to know you by:
+When joining Mattermost, you will be invited to join the private **Staff** team. Once [signed in](https://docs.mattermost.com/help/getting-started/signing-in.html), help colleagues get to know you by:
 
 1. Using your full name as your username (e.g. leslie.thomas)
 2. Filling in your full name so that it displays when viewing your profile
