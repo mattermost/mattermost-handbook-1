@@ -45,4 +45,4 @@ The following work-in-progress V2MOMs and playbooks summarize our strategy and b
 
 ## Leadership Meetings
 
-- [Guide](leadership-meetings) providing the objective, time and process for leadership meetings.
+- [Guide](http://handbook.mattermost.com/guides/leadership-meetings.html) providing the objective, time and process for leadership meetings.
