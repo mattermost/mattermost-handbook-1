@@ -38,7 +38,7 @@ Our mission is to make the world safer and more productive by developing and del
   
  #### Best Work
 **Process**
- - Company-Wide (Zoom, Email, Mattermost Server)
+ - Company-Wide (Zoom, Email, [Mattermost Server](https://community.mattermost.com))
   - Mattermost - correct username (firstname.lastname), role
   - Zoom - "Name | Role"
  -  Department-Specific (development, test, sales training, etc)
