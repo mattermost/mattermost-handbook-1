@@ -37,16 +37,16 @@ Our mission is to make the world safer and more productive by developing and del
   - R&D
   
  #### Best Work
- ##### Process
+**Process**
  - Company-Wide (Zoom, Email, Mattermost Server)
   - Mattermost - correct username (firstname.lastname), role
   - Zoom - "Name | Role"
  -  Department-Specific (development, test, sales training, etc)
- ##### Meetings
+ **Meetings**
   - Company-Wide - [Customer Obsession](https://github.com/mattermost/docs/blob/9a23f7757f9cc396c7831d80c16a46d59a407a37/source/process/training.rst#customer-obsession-all-hands-meeting), [Platform](https://github.com/mattermost/docs/blob/9a23f7757f9cc396c7831d80c16a46d59a407a37/source/process/training.rst#platform-meeting)
   - Department
   - [Leadership Meetings (Daily, Weekly, Monthly, QBRs)](http://handbook.mattermost.com/guides/leadership-meetings.html)
-  ##### Mindsets
+**Mindsets**
   - Conceptual tools we use to think through problems
   #### Recognition and Praise
   - [Peer-to-peer thank you channel](https://community.mattermost.com/core/channels/thank-you)
