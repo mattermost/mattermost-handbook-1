@@ -81,3 +81,11 @@ For services that CAN NOT be purchased using Credit Card:
 6. IT Admin provides an admin account to budget owner 
 
 DO NOT have vendor send e-sign to CEO. E-sign requests from vendors get routed to trash. 
+
+## Request for Proposals (RFP) Process
+
+Any purchase over $100,000 USD in product or services should go through an RFP process and recieve at least three quotations before making a decision. 
+
+1. Write a paragraph on what you need. 
+2. Send the paragraph to at least three vendors who provide services, and obtain proposals and quotations 
+3. Choose the best vendor based on anticipated quality and price 
