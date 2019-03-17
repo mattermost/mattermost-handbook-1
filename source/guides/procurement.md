@@ -94,6 +94,17 @@ For services that CAN NOT be purchased using Credit Card:
 
 DO NOT have vendor send e-sign to CEO. E-sign requests from vendors get routed to trash. 
 
+
+### Procuring agency recruiting 
+
+For non-VP roles: 
+
+1. Agency recruiters for non-VP roles can only be hired at market terms: non-exclusive contingent fee of 20% of first-year base compensation, 1-year non-poach, and 90-day replacement.
+2. Once agency agreement is reviewed by legal, e-sign should be managed by Mattermost through standard process (see above).
+3. Upon successful start of new hire, invoice should be sent to `payments@mattermost.com`.
+
+For VP roles, Mattermost can enter into retained searches, but not at levels lower than VP. 
+
 ## Request for Proposals (RFP) Process
 
 Any purchase over $100,000 USD in product or services should go through an RFP process and recieve at least three quotations before making a decision. 
