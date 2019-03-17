@@ -1,5 +1,17 @@
 # How to procure at Mattermost 
 
+## IMPORTANT: Mattermost runs its own e-sign process
+
+DO NOT have vendors send e-sign to Mattermost staff. Mattermost needs all e-sign to be setup using Mattermost e-sign systems by the following people: 
+
+- PeopleOps and Consulting Agreements (HelloSign) - Jen Shepard 
+- Customer and Partner Agreements (DocuSign) - Melissa Warner 
+- Subscription Software Services (DocuSign) - Camille Harris 
+
+The e-signed documents are organized and archived based on e-sign manager. 
+
+If a vendor needs to use e-sign through their system an exception can be made via written agreement by Mattermost CEO. 
+
 ## End user guide to procurement 
 
 ### How to procure consulting services on a standard agreement (1-2 business days)
