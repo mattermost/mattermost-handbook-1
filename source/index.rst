@@ -18,7 +18,7 @@ Mattermost Documentation
    About Mattermost <overview/index>
    Leadership Principles <guides/user>
    Operations <guides/operations>
-   Community Guide <guides/integration>
+   Culture and People<guides/integration>
    Working Remote <guides/developer>
    Work with Us <guides/core>
    
