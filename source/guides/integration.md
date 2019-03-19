@@ -7,7 +7,7 @@
 
 ## MatterCon 
 
-Each year we aim to have a conference bringing together Mattermost core committers, staff and community. Past MatterCons have included: 
+Each year we aim to have a conference bringing together Mattermost core committers, staff and community. Past MatterCons include:  
 
 - Punta Cana, Dominican Republic (2019) 
 - Lisbon, Portugal (2018)
