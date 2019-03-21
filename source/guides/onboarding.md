@@ -63,8 +63,8 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 #### T-minus 3 weeks
  
-1. (People Ops) People Ops sends [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd) to find out New Hire's preference for laptop, either to be purchased or taken from stock and shipped by People Ops or purchased locally by new hire and expensed.
-2. (People Ops) Sends [email agreement](https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing) via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
+1. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd) to find out New Hire's preference for laptop, either to be purchased or taken from stock and shipped by People Ops or purchased locally by new hire and expensed.
+2. (People Ops) Sends the [Mattermost email agreement](https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing) via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
 3. (People Ops) Sends New Hire a welcome package containing Mattermost branded goodies.
 
 #### T-minus 2 weeks
@@ -93,62 +93,63 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 1. (People Ops)  Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering a few frequently asked questions and suggesting channels the New Hire should join to get a feel for the company. People Ops also sends New Hire a message on Mattermost with the email formatted using Markdown.
 2. (People Ops) Meets with New Hire to make sure they feel welcome and have access to all tools needed.
 3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
-4. (Hiring Manager) Meets with New Hire to set expectations for the week and answer any questions.
-5. (People Ops) Schedules meetings with New Hire and Individual Contributors (IC) outside of their department.
-6. (Head of HR) Meets with New Hire to review required documentation (e.g. [I-9 documents](https://www.uscis.gov/i-9)).
+4. (New Hire) Joins Mattermost and uses firstname.lastname as their username, adds full name, job title, and a photograph to their profile.
+5. (Hiring Manager) Meets with New Hire to set expectations for the week and answer any questions.
+6. (People Ops) Schedules meetings with New Hire and Individual Contributors (IC) outside of their department.
+7. (Head of HR) Meets with New Hire to review required documentation (e.g. [I-9 documents](https://www.uscis.gov/i-9)).
 
 
 ### Day 2
 ------------------------------------------
 
-7. (New Hire) New Hire has a welcome meeting with an IC.
+8. (New Hire) New Hire has a welcome meeting with an IC.
 
 ### Day 3
 ------------------------------------------
 
-8. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and describing how to view other staff members' calendars. 
-9. (New Hire) New Hire has a welcome meeting with an IC outside of their department .
-10. (Hiring Manager) Hiring Manager introduces New Hire to entire team during the Customer Obsession meeting.
+9. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and describing how to view other staff members' calendars. 
+10. (New Hire) New Hire has a welcome meeting with an IC outside of their department .
+11. (Hiring Manager) Hiring Manager introduces New Hire to entire team during the Customer Obsession meeting.
 
 
 ### Day 4
 ------------------------------------------
 
-11. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
+12. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
 
 ### Day 5
 ------------------------------------------
 
-12. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
-13. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in the [Mattermost Academy](https://mattermost-academy.teachable.com/).
+13. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
+14. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in the [Mattermost Academy](https://mattermost-academy.teachable.com/).
 
 ### Days 6-10
 ------------------------------------------
 
-14. (CEO) CEO meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
-15. (Head of HR) Optional meets with New Hire if first day meeting did not occur.
+15. (CEO) CEO meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
+16. (Head of HR) Optional meets with New Hire if first day meeting did not occur.
 
 ### Days 11-21
 ------------------------------------------
 
-16. (Executive Team) New Hire meets with each member of the Executive team (1:1 meetings).
-17. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
+17. (Executive Team) New Hire meets with each member of the Executive team (1:1 meetings).
+18. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
 
 ### Day 30
 ------------------------------------------
 
-18. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
-19. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
+19. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
+20. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
 
 ### Day 60
 ------------------------------------------
 
-20. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
+21. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
 
 ### Day 90
 ------------------------------------------
 
-21. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting and informal performance review.
+22. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting and informal performance review.
 
 ## Departmental Onboarding
 
