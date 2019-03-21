@@ -57,7 +57,6 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at https://community.mattermost.com. Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive. Staff at headquarters, working in an open source, remote-first, communities-centered company, are "Mattermosters". Staff who choose to work from an office are called "Commuters".
 
 ## General Onboarding
-------------------------------------------
 
 ### Before Starting at Mattermost
 ------------------------------------------
