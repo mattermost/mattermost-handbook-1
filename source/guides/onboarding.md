@@ -172,3 +172,7 @@ https://docs.google.com/document/d/1c3xlnpOg2GcQnieq5qTb-dis64-klJX7kyS_shxwFeY/
 
 ### Product
 ------------------------------------------
+
+## Executive Onboarding
+
+See: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/exec-recruiting.md#wip-executive-onboarding
