@@ -115,22 +115,36 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Days 6-10
 ------------------------------------------
 
+xx. (CEO & New Hire) CEO meets with New Hire to discuss onboarding experience and welcome to Mattermost.
+
 ### Days 11-21
 ------------------------------------------
+
+xx. (Executive Team & New Hire) New Hire meets with each member of the Executive team (1:1 meetings).
 
 ### Day 30
 ------------------------------------------
 
+xx. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
+
 ### Day 60
 ------------------------------------------
 
+xx. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
+
 ### Day 90
 ------------------------------------------
+
+xx. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting and informal performance review.
 
 ## Departmental Onboarding
 
 ### Sales
 ------------------------------------------
+
+#### Solution Architects
+
+
 
 ### Marketing
 ------------------------------------------
