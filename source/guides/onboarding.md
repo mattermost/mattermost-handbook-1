@@ -60,9 +60,22 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 ### Before Starting at Mattermost
 ------------------------------------------
+
+#### T-minus 3 weeks
  
-1. (People Ops & New Hire) People Ops sends email to find out New Hire's preference for laptop, either to be purchased or taken from stock and shipped by People Ops or purchased locally by new hire and expensed.
+1. (People Ops & New Hire) People Ops sends [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd) to find out New Hire's preference for laptop, either to be purchased or taken from stock and shipped by People Ops or purchased locally by new hire and expensed.
 2. (People Ops) Sends [email agreement](https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing) via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
 3. (People Ops) Sends New Hire a welcome package containing Mattermost branded goodies.
-4. 
 
+#### T-minus 2 weeks
+
+4. (Head of HR) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9) about payroll and benefits.
+5. (People Ops & New Hire) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.2fu8xdifyjdq) requesting New Hire's biography, inviting New Hire to the Mattermost [demo](https://mattermost.com/demo/) and sharing more about [working at Mattermost](https://docs.mattermost.com/process/working-at-mattermost.html).
+
+#### T-minus 1 week
+
+6. (People Ops and Hiring Manager) Meet to discuss New Hire's onboarding plan, including tools needed.
+
+#### T-minus 2 days
+
+7. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c) sharing a first day checklist, 
