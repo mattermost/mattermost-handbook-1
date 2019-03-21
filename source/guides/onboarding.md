@@ -102,13 +102,13 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Day 2
 ------------------------------------------
 
-8. (New Hire) New Hire has a welcome meeting with an IC.
+8. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
 
 ### Day 3
 ------------------------------------------
 
 9. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and describing how to view other staff members' calendars. 
-10. (New Hire) New Hire has a welcome meeting with an IC outside of their department .
+10. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
 11. (Hiring Manager) Hiring Manager introduces New Hire to entire team during the Customer Obsession meeting.
 
 
