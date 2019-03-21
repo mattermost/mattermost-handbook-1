@@ -90,7 +90,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### First Day at Mattermost
 ------------------------------------------
 
-1. (People Ops)  Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering frequently asked questions, sharing the [Mattermost User's Guide](https://docs.mattermost.com/guides/user.html#getting-started), and suggesting channels the New Hire should join to get a feel for the company. People Ops also sends New Hire a message on Mattermost with the email formatted using Markdown.
+1. (People Ops)  Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering frequently asked questions, sharing Mattermost's [User's Guide](https://docs.mattermost.com/guides/user.html#getting-started), and suggesting channels the New Hire should join to get a feel for the company. People Ops also sends New Hire a message on Mattermost with the email formatted using Markdown.
 2. (People Ops) Meets with New Hire to make sure they feel welcome and have access to all tools needed.
 3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
 4. (New Hire) Joins Mattermost and uses firstname.lastname as their username, adds full name, job title, and a photograph to their profile.
