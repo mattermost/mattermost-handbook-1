@@ -60,6 +60,6 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 ### Before Starting at Mattermost
 ------------------------------------------
-
+ 
 
 
