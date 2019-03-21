@@ -12,7 +12,7 @@ Our handbook defines what it’s like to work at Mattermost, from the high level
 
 Our mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible and offers fast time-to-value.
 
-Leadership Principles 
+### Leadership Principles 
 ------------------------------------------
 
 Leadership principles are deliberate choices defining our behavior. When facing complexity, uncertainty, or ambiguity (CUA) we determine our point of view and our actions through the lens of our values:
@@ -29,7 +29,7 @@ Leadership principles are deliberate choices defining our behavior. When facing 
 
 - **Earn Trust** — Make decisions based on maximizing the trust of others in your judgement. Be open, self-critical and factual.
 
-Products
+### Products
 ------------------------------------------
 
 Mattermost Team Edition under MIT license and the Mattermost open source projects under various licenses are maintained by core committers, including both staff from Mattermost, Inc. and volunteer contributors from the Mattermost user and customer communities.
@@ -38,7 +38,7 @@ Mattermost Enterprise Editions, which are commercial extensions built on top of 
 
 For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html).
 
-Company 
+### Company 
 -------------- 
 
 Mattermost is an open source, remote-first, communities-centered company based in Palo Alto, California and headquartered on the internet. 
