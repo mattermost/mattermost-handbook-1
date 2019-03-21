@@ -78,4 +78,51 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 #### T-minus 2 days
 
-7. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c) sharing a first day checklist, 
+7. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c) sharing a first day checklist and giving an overview of New Hire's first week.
+8. (People Ops and Hiring Manager) Invite New Hire to [tools used across Mattermost](https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide), and tools used in their department.
+9. (Hiring Manager) Invites New Hire to departmental and 1:1 meetings.
+10. (People Ops) Invites New Hire to Customer Obsession and Platform meetings.
+
+#### T-minus 1 day
+
+8. (New Hire) Sets up laptop and accepts invitations to tools and meetings.
+
+### First Day at Mattermost
+------------------------------------------
+
+1. (People Ops)  Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering a few frequently asked questions and suggesting channels the New Hire should join to get a feel for the company. People Ops also sends New Hire a message on Mattermost with the email formatted using Markdown.
+2. (People Ops) Meets with New Hire to make sure they feel welcome and have access to all tools needed.
+3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
+4. (Hiring Manager) Meets with New Hire to set expectations for the week and answer any questions.
+
+
+### Day 2
+------------------------------------------
+
+
+### Day 3
+------------------------------------------
+
+
+### Day 4
+------------------------------------------
+
+
+### Day 5
+------------------------------------------
+
+
+### Days 6-10
+------------------------------------------
+
+### Days 11-21
+------------------------------------------
+
+### Day 30
+------------------------------------------
+
+### Day 60
+------------------------------------------
+
+### Day 90
+------------------------------------------
