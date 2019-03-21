@@ -128,28 +128,29 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 15. (CEO) CEO meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
 16. (Head of HR) Optional meets with New Hire if first day meeting did not occur.
+17. (People Ops) Schedules meetings with New Hire and Executive team.
 
 ### Days 11-21
 ------------------------------------------
 
-17. (Executive Team) New Hire meets with each member of the Executive team (1:1 meetings).
-18. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
+18. (Executive Team) New Hire meets with each member of the Executive team (1:1 meetings).
+19. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
 
 ### Day 30
 ------------------------------------------
 
-19. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
-20. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
+20. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
+21. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
 
 ### Day 60
 ------------------------------------------
 
-21. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
+22. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
 
 ### Day 90
 ------------------------------------------
 
-22. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting and informal performance review.
+23. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting and informal performance review.
 
 ## Departmental Onboarding
 
