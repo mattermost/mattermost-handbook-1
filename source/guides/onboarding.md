@@ -150,7 +150,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Day 90
 ------------------------------------------
 
-23. (Hiring Manager) Mets with New Hire for a check in meeting and informal performance review.
+23. (Hiring Manager) Meets with New Hire for a check in meeting and informal performance review.
 24. (People Ops) Sends New Hire the [Staff Enablement survey](https://docs.google.com/forms/d/e/1FAIpQLSdAtSUG1Sw2AUAajnGrGKg1eHafj9NlINaXcVbgcte9EHWHQg/viewform?usp=sf_link).
 
 ## Departmental Onboarding
