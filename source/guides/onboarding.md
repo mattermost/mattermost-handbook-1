@@ -1,14 +1,17 @@
 # WIP: Onboarding at Mattermost
 
 ### Welcome to Mattermost
+------------------------------------------
 
 We’re on a mission to make the world safer and more productive through open source. To make that happen we first have to create a great place to work--an inclusive, courteous online community where incredibly talented individuals are empowered to do their best work for our customers, with very little in their way. This book is a summary of our guiding principles. As Mattermost grows, we hope these principles serve each new staff person that joins us. If you are new to Mattermost, welcome! While the goals here are important, it’s your ideas, talent, and energy that will keep Mattermost shining in the years ahead. Thanks for being here. Let’s change the world.
 
 ### How to use our Handbook
+------------------------------------------
 
 Our handbook defines what it’s like to work at Mattermost, from the high level to specific operating procedures. If you’re new, you’ll start with our onboarding guides.
 
 ### Our Mission
+------------------------------------------
 
 Our mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible and offers fast time-to-value.
 
@@ -54,8 +57,10 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at https://community.mattermost.com. Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive. Staff at headquarters, working in an open source, remote-first, communities-centered company, are "Mattermosters". Staff who choose to work from an office are called "Commuters".
 
 ## General Onboarding
+------------------------------------------
 
 ### Before Starting at Mattermost
+------------------------------------------
 
 
 
