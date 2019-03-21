@@ -94,33 +94,43 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 2. (People Ops) Meets with New Hire to make sure they feel welcome and have access to all tools needed.
 3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
 4. (Hiring Manager) Meets with New Hire to set expectations for the week and answer any questions.
+5. (People Ops) Schedules meetings with New Hire and Individual Contributors (IC) outside of their department.
 
 
 ### Day 2
 ------------------------------------------
 
+6. (New Hire) New Hire has a welcome meeting with an IC.
 
 ### Day 3
 ------------------------------------------
+
+7. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and describing how to view other staff members' calendars. 
+8. (New Hire) New Hire has a welcome meeting with an IC outside of their department .
+9. (Hiring Manager) Hiring Manager introduces New Hire to entire team during the Customer Obsession meeting.
 
 
 ### Day 4
 ------------------------------------------
 
+10. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
 
 ### Day 5
 ------------------------------------------
 
+11. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
+12. (People Ops) Sends an email inviting New Hire to enroll in the [Mattermost Academy](https://mattermost-academy.teachable.com/).
 
 ### Days 6-10
 ------------------------------------------
 
-xx. (CEO & New Hire) CEO meets with New Hire to discuss onboarding experience and welcome to Mattermost.
+13. (CEO & New Hire) CEO meets with New Hire to discuss onboarding experience and welcome to Mattermost.
+14. (Head of HR) Meets with New Hire.
 
 ### Days 11-21
 ------------------------------------------
 
-xx. (Executive Team & New Hire) New Hire meets with each member of the Executive team (1:1 meetings).
+15. (Executive Team & New Hire) New Hire meets with each member of the Executive team (1:1 meetings).
 
 ### Day 30
 ------------------------------------------
@@ -144,6 +154,7 @@ xx. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting a
 
 #### Solution Architects
 
+https://docs.google.com/document/d/1c3xlnpOg2GcQnieq5qTb-dis64-klJX7kyS_shxwFeY/edit#heading=h.klit764042ik
 
 
 ### Marketing
