@@ -61,5 +61,8 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Before Starting at Mattermost
 ------------------------------------------
  
-
+1. (People Ops & New Hire) People Ops sends email to find out New Hire's preference for laptop, either to be purchased or taken from stock and shipped by People Ops or purchased locally by new hire and expensed.
+2. (People Ops) Sends [email agreement](https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing) via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
+3. (People Ops) Sends New Hire a welcome package containing Mattermost branded goodies.
+4. 
 
