@@ -126,8 +126,8 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Days 6-10
 ------------------------------------------
 
-15. (CEO) CEO meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
-16. (Head of HR) Optional meets with New Hire if first day meeting did not occur.
+15. (CEO) Meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
+16. (Head of HR) (Optional) Meets with New Hire if first day meeting did not occur.
 17. (People Ops) Schedules meetings with New Hire and Executive team.
 
 ### Days 11-21
@@ -139,18 +139,19 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Day 30
 ------------------------------------------
 
-20. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
+20. (Hiring Manager) Meets with New Hire for a check in meeting.
 21. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
 
 ### Day 60
 ------------------------------------------
 
-22. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting.
+22. (Hiring Manager) Meets with New Hire for a check in meeting.
 
 ### Day 90
 ------------------------------------------
 
-23. (Hiring Manager) Hiring Manager meets with New Hire for a check in meeting and informal performance review.
+23. (Hiring Manager) Mets with New Hire for a check in meeting and informal performance review.
+24. (People Ops) Sends New Hire the [Staff Enablement survey](https://docs.google.com/forms/d/e/1FAIpQLSdAtSUG1Sw2AUAajnGrGKg1eHafj9NlINaXcVbgcte9EHWHQg/viewform?usp=sf_link).
 
 ## Departmental Onboarding
 
