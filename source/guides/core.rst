@@ -3,7 +3,7 @@ Join us
 
 This handbook is a guide to serving on the core team of the Mattermost open source project, which includes making contributions both as a volunteer contributor from the community and as a paid staff member of Mattermost, Inc. 
 
-Please consider this handbook - along with all our documentation - as a work-in-progress and constantly updating to best achieve our shared mission. 
+We're in the process of migrating and developing material for this handbook which was previously in the product documentation: https://docs.mattermost.com/guides/core.html#
 
 Joining the Team 
 -------------------------
