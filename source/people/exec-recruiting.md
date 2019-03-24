@@ -1,19 +1,17 @@
-# Executive Recruiting 
+# Exec Recruiting 
 
-Bringing on VPs and Senior Directors to own critical functions of the company has as much impact and risk as bringing on a new co-founder. When hiring execs, we go really, really deep. 
+Bringing on VPs and Senior Directors to own critical functions of the company has as much impact and risk as bringing on a new co-founder. The following guide is being developed to share the structure of the process and to adjust and optimize. 
 
-The following guide has been developed based on advice and conversations with experienced CEOs and senior execs at growth stage companies. 
+Note: Senior Directors are included in the exec recruiting process because their growth path is into VP. The general expectation of all hires is to have the potential to grow into the next career stage. 
 
 ## Criteria 
 
-At Mattermost we assess executive candidates on: 
+At Mattermost we assess department head candidates in four areas: 
+
 - Capability - Obviously a strong expert in their field 
 - Culture - Able to cleary embody our leadership principles 
 - Chemistry - Gel with CEO and leadership team 
 - Workstyle - Works well online and offline, and in open source environments  
-
-The interview process should take around 20 hours for the the candidate to get to know our company and leadership team and for us to know the candidate. References and background checks weigh more heavily in exec recruiting than any other role. 
-
 
 ## Sourcing 
 
@@ -22,6 +20,8 @@ Executive candidates should ideally come through the networks of the leadership 
 Relationships with top exec recruiters are important and long term. They are experts in their fields and have seen more candidates than anyone. 
 
 ## Process 
+
+We go really, really deep on exec recruiting. The interview process should take 20 hours or more for the the candidate to get to know our company and leadership team and for us to know the candidate. References and background checks weigh more heavily in department head recruiting than any other role. 
 
 The hiring process for a new exec should include:
 
@@ -49,6 +49,7 @@ Also check for anti-patterns:
 - Is not overly concerned with title 
 - Avoids rat-holing in discussions 
 - Doesn't waste time 
+- Doesn't hide gap areas
 
 ## Reference checks 
 
@@ -56,8 +57,7 @@ Also check for anti-patterns:
 - If you detect a "whiff of disfunction" there should be a flag.
 - To ensure the reference is complete, make sure to ask "is there any reason why you can't fully comment on the performance of the candidate?" 
 
-
-# WIP: Executive Onboarding 
+## Executive Onboarding 
 
 For new executives joining the team, there is a high ROI for providing time for the leader to learn about the company and build relationships ahead of taking action. 
 
@@ -73,7 +73,7 @@ Day 1-7 - Learning
 Day 1-30 - Planning 
 - Understand the company and the team 
 - Go through onboarding materials 
-- Use the product 
+- Go deeper into the product 
 - Build relationships and understanding with leadership team and broader team 
 
 Day 31-60 - Starting to execute 
@@ -83,5 +83,4 @@ Day 61-90
 - Start to see evidence of execution 
 
 Notes: 
-- Executives that aren't working well with the leadership team at 60 days are unlikely to recover 
-
+- Outside of a few exceptions, if onboarding has been done properly and an executive isn't working well with the rest of the team at 60 days, things are unlikely to significantly improve.
