@@ -16,7 +16,7 @@ Mattermost Documentation
    :glob:
 
    About Mattermost <overview/index>
-   Leadership Principles <guides/user>
+   Leadership Principles <leadership/leadership-principles>
    Operations <guides/operations>
    Culture and People<guides/integration>
    Working Remote <guides/developer>
