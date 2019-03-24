@@ -29,6 +29,7 @@ Attendees:
 
 Objectives: 
 
+**Flag issues, prioritize, decide and agree on next steps** 
 - Identity administrative, tactical and strategic issues 
 - Identify obstacles to achieving clearly defined objectives
 - Discuss issues and either resolve them or decide on next step 
