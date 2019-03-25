@@ -85,7 +85,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 #### T-minus 1 day
 
-8. (New Hire) Sets up laptop and accepts invitations to tools and meetings.
+11. (New Hire) Sets up laptop and accepts invitations to tools and meetings.
 
 ### First Day at Mattermost
 ------------------------------------------
