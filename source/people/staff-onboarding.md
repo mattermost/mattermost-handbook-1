@@ -70,7 +70,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 #### T-minus 2 weeks
 
 4. (Head of HR) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9) about payroll and benefits.
-5. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91) requesting New Hire's biography, inviting New Hire to the Mattermost [demo](https://mattermost.com/demo/) and sharing more about [working at Mattermost](https://docs.mattermost.com/process/working-at-mattermost.html).
+5. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91) requesting New Hire's biography, inviting New Hire to the Mattermost [demo](https://mattermost.com/demo/) and sharing more about [working at Mattermost](https://docs.mattermost.com/process/working-at-mattermost.html), including our leadership principles.
 
 #### T-minus 1 week
 
@@ -129,7 +129,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Days 6-10
 ------------------------------------------
 
-18. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in the [Mattermost Academy](https://mattermost-academy.teachable.com/).
+18. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in [Mattermost Academy](https://mattermost-academy.teachable.com/).
 19. (CEO) Meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
 20. (Hiring Manager) Meets with New Hire to finalize 30/60/90 day plan.
 21. (Head of HR) (Optional) Meets with New Hire if first day meeting did not occur.
