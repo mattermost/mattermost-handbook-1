@@ -78,7 +78,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 #### T-minus 2 days
 
-7. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c) sharing a first day checklist and giving an overview of New Hire's first week.
+7. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c) sharing a first day checklist and information about laptop setup, and gives an overview of New Hire's first week.
 8. (People Ops & Hiring Manager) Invite New Hire to [tools used across Mattermost](https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide), and tools used in their department.
 9. (Hiring Manager) Invites New Hire to departmental and 1:1 meetings.
 10. (People Ops) Invites New Hire to Customer Obsession and Platform meetings.
