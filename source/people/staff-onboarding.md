@@ -94,7 +94,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 2. (People Ops) Meets with New Hire to make sure they feel welcome and have access to all tools needed.
 3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
 4. (New Hire) Joins Mattermost and uses firstname.lastname as their username, adds full name, job title, and a photograph to their profile.
-5. (Hiring Manager) Meets with New Hire to set expectations for the week and answer any questions.
+5. (Hiring Manager) Meets with New Hire to set expectations for the week, introduce the 30/60/90 plan draft process [TEMPLATE NEEDED] and answer any questions.
 6. (People Ops) Schedules meetings with New Hire and Individual Contributors (IC) outside of their department.
 7. (Head of HR) Meets with New Hire to review required documentation (e.g. [I-9 documents](https://www.uscis.gov/i-9)).
 
@@ -102,54 +102,66 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Day 2
 ------------------------------------------
 
-8. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
+8. (New Hire) Has a welcome meeting with an IC outside of their department.
+9. (Hiring Manager) Meets with New Hire to check in.
 
 ### Day 3
 ------------------------------------------
 
-9. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and describing how to view other staff members' calendars. 
-10. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
-11. (Hiring Manager) Hiring Manager introduces New Hire to entire team during the Customer Obsession meeting.
+10. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and describing how to view other staff members' calendars. 
+11. (New Hire) Has a welcome meeting with an IC outside of their department.
+12. (Hiring Manager) Introduces New Hire to entire team during the Customer Obsession meeting. Meets with New Hire to check in.
 
 
 ### Day 4
 ------------------------------------------
 
-12. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
+13. (New Hire) Has a welcome meeting with an IC outside of their department.
+14. (Hiring Manager) Meets with New Hire to check in.
 
 ### Day 5
 ------------------------------------------
 
-13. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
-14. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in the [Mattermost Academy](https://mattermost-academy.teachable.com/).
+15. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
+16. (Product Manager or Solution Architect) Gives New Hire a demo of the product.
+17. (Hiring Manager) Meets with New Hire to check in.
 
 ### Days 6-10
 ------------------------------------------
 
-15. (CEO) Meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
-16. (Head of HR) (Optional) Meets with New Hire if first day meeting did not occur.
+18. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in the [Mattermost Academy](https://mattermost-academy.teachable.com/).
+19. (CEO) Meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
+20. (Hiring Manager) Meets with New Hire to finalize 30/60/90 day plan.
+21. (Head of HR) (Optional) Meets with New Hire if first day meeting did not occur.
 
-### Days 11-21
+### Days 11-29
 ------------------------------------------
 
-17. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
+22. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
+23. (Executive Team) Meets with New Hire as a group to share more about themselves, their department and why they came to work at Mattermost.
+
 
 ### Day 30
 ------------------------------------------
 
-18. (Hiring Manager) Meets with New Hire for a check in meeting.
-19. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
+24. (Hiring Manager) Meets with New Hire for a check in meeting to see if they are on track with their 30/60/90 goals.
+25. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
+
+### Days 50-59
+------------------------------------------
+26. (Hiring Manager) Initiates 360 review [TEMPLATE NEEDED] of New Hire, which is 4-5 questions asked of peers (and direct reports, if applicable) to see how New Hire is doing.
+
 
 ### Day 60
 ------------------------------------------
 
-20. (Hiring Manager) Meets with New Hire for a check in meeting.
+27. (Hiring Manager) Meets with New Hire for a check in meeting and reviews results of 360 review.
 
 ### Day 90
 ------------------------------------------
 
-21. (Hiring Manager) Meets with New Hire for a check in meeting and informal performance review.
-22. (People Ops) Sends New Hire the [Staff Enablement survey](https://docs.google.com/forms/d/e/1FAIpQLSdAtSUG1Sw2AUAajnGrGKg1eHafj9NlINaXcVbgcte9EHWHQg/viewform?usp=sf_link).
+28. (Hiring Manager) Meets with New Hire for a check in meeting and informal performance review [TEMPLATE NEEDED].
+29. (People Ops) Sends New Hire the [Staff Enablement survey](https://docs.google.com/forms/d/e/1FAIpQLSdAtSUG1Sw2AUAajnGrGKg1eHafj9NlINaXcVbgcte9EHWHQg/viewform?usp=sf_link).
 
 ## Departmental Onboarding
 
