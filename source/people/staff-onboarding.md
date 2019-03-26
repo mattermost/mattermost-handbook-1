@@ -63,7 +63,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 #### T-minus 3 weeks
  
-1. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd) to find out New Hire's preference for laptop, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
+1. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd) to find out New Hire's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
 2. (People Ops) Sends the [Mattermost email agreement](https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing) via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
 3. (People Ops) Sends New Hire a welcome package containing Mattermost branded goodies.
 
@@ -94,7 +94,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 2. (People Ops) Meets with New Hire to make sure they feel welcome and have access to all tools needed.
 3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
 4. (New Hire) Joins Mattermost and uses firstname.lastname as their username, adds full name, job title, and a photograph to their profile.
-5. (Hiring Manager) Meets with New Hire to set expectations for the week, introduce the 30/60/90 plan draft process [TEMPLATE NEEDED] and answer any questions.
+5. (Hiring Manager) Meets with New Hire to set expectations for the week, introduce them to their Buddy, share the 30/60/90 plan draft process [TEMPLATE NEEDED] and answer any questions.
 6. (People Ops) Schedules meetings with New Hire and Individual Contributors (IC) outside of their department.
 7. (Head of HR) Meets with New Hire to review required documentation (e.g. [I-9 documents](https://www.uscis.gov/i-9)).
 
