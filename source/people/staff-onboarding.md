@@ -118,18 +118,19 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 13. (New Hire) Has a welcome meeting with an IC outside of their department.
 14. (Hiring Manager) Meets with New Hire to check in.
+15. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in [Mattermost Academy](https://mattermost-academy.teachable.com/).
 
 ### Day 5
 ------------------------------------------
 
-15. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
-16. (Product Manager or Solution Architect) Gives New Hire a demo of the product.
-17. (Hiring Manager) Meets with New Hire to check in.
+16. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
+17. (Product Manager or Solution Architect) Holds FAQ session on the product.
+18. (Hiring Manager) Meets with New Hire to check in.
 
 ### Days 6-10
 ------------------------------------------
 
-18. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in [Mattermost Academy](https://mattermost-academy.teachable.com/).
+
 19. (CEO) Meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
 20. (Hiring Manager) Meets with New Hire to finalize 30/60/90 day plan.
 21. (Head of HR) (Optional) Meets with New Hire if first day meeting did not occur.
