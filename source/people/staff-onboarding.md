@@ -118,7 +118,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 13. (New Hire) Has a welcome meeting with an IC outside of their department.
 14. (Hiring Manager) Meets with New Hire to check in.
-15. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in [Mattermost Academy](https://mattermost-academy.teachable.com/).
+15. (People Ops) Sends a direct message or [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting New Hire to enroll in [Mattermost Academy](https://mattermost-academy.teachable.com/).
 
 ### Day 5
 ------------------------------------------
