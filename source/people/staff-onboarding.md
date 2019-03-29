@@ -70,7 +70,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 #### T-minus 2 weeks
 
 4. (Head of HR) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9) about payroll and benefits.
-5. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91) requesting New Hire's biography, inviting New Hire to the Mattermost [demo](https://mattermost.com/demo/) and sharing more about [working at Mattermost](https://docs.mattermost.com/process/working-at-mattermost.html), including our leadership principles.
+5. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91) requesting New Hire's biography, inviting New Hire to the Mattermost [demo](https://mattermost.com/demo/) and sharing more about [working at Mattermost](https://docs.mattermost.com/process/working-at-mattermost.html), including our [leadership principles](https://mattermost.com/about-us/).
 
 #### T-minus 1 week
 
