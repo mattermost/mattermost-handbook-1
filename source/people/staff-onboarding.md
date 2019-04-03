@@ -185,6 +185,8 @@ https://docs.google.com/document/d/1c3xlnpOg2GcQnieq5qTb-dis64-klJX7kyS_shxwFeY/
 
 Developer onboarding guide: http://mattermost-developer-documentation.s3-website-us-east-1.amazonaws.com/branches/master/internal/onboarding/new-staff-guide/
 
+In progress onboarding timeline: https://docs.google.com/document/d/14jsUJgGO4j5f4B6bPVCIC1y9yXy43rmAFI0F5MJsuE0/edit
+
 ### Product
 ------------------------------------------
 
