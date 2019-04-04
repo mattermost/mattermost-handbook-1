@@ -138,31 +138,31 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Days 11-29
 ------------------------------------------
 
-22. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
-23. (Executive Team) Meets with New Hire as a group to share more about themselves, their department and why they came to work at Mattermost.
+22. (Executive Team) Meets with New Hire as a group to share more about themselves, their department and why they came to work at Mattermost.
 
 
 ### Day 30
 ------------------------------------------
 
+23. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
 24. (Hiring Manager) Meets with New Hire for a check in meeting to see if they are on track with their 30/60/90 goals.
-25. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
 
 ### Days 50-59
 ------------------------------------------
-26. (Hiring Manager) Initiates 360 review [TEMPLATE NEEDED] of New Hire, which is 4-5 questions asked of peers (and direct reports, if applicable) to see how New Hire is doing.
+25. (Hiring Manager) Initiates 360 review [TEMPLATE NEEDED] of New Hire, which is 4-5 questions asked of peers (and direct reports, if applicable) to see how New Hire is doing.
 
 
 ### Day 60
 ------------------------------------------
 
-27. (Hiring Manager) Meets with New Hire for a check in meeting and reviews results of 360 review.
+26. (Hiring Manager) Meets with New Hire for a check in meeting and reviews results of 360 review.
 
 ### Day 90
 ------------------------------------------
 
-28. (Hiring Manager) Meets with New Hire for a check in meeting and informal performance review [TEMPLATE NEEDED].
-29. (People Ops) Sends New Hire the [Staff Enablement survey](https://docs.google.com/forms/d/e/1FAIpQLSdAtSUG1Sw2AUAajnGrGKg1eHafj9NlINaXcVbgcte9EHWHQg/viewform?usp=sf_link).
+27. (Hiring Manager) Meets with New Hire for a check in meeting and informal performance review [TEMPLATE NEEDED].
+28. (People Ops) Sends New Hire the [Staff Enablement survey](https://docs.google.com/forms/d/e/1FAIpQLSdAtSUG1Sw2AUAajnGrGKg1eHafj9NlINaXcVbgcte9EHWHQg/viewform?usp=sf_link).
+29. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
 
 ## Departmental Onboarding
 
