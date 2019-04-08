@@ -66,7 +66,7 @@ Day 1-7 - Learning
 - Joins leadership team meetings 
 - Extra CEO 1-1 time (first 8 weeks)  
   - 25m Monday and Friday meetings with CEO to mindmeld (cancel at exec's discretion) 
-  - Meetings cover company pitch, recruiting story, what's scared and other topics 
+  - Meetings cover company pitch, recruiting story, what's sacred and other topics 
   - Gives opportunity for exec to dig in and find the "why" behind decisions  
 - Exec may start with no directs and inherit them later after a plan is developed for each role   
 
