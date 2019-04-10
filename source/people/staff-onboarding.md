@@ -108,7 +108,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Day 3
 ------------------------------------------
 
-10. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and describing how to view other staff members' calendars. 
+10. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and [staff email list](https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066) and describing how to view other staff members' calendars. 
 11. (New Hire) Has a welcome meeting with an IC outside of their department.
 12. (Hiring Manager) Introduces New Hire to entire team during the Customer Obsession meeting. Meets with New Hire to check in.
 
@@ -118,11 +118,12 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 13. (New Hire) Has a welcome meeting with an IC outside of their department.
 14. (Hiring Manager) Meets with New Hire to check in.
-15. (People Ops) Sends a direct message or [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting them to create their Mattermost avatar.
+
 
 ### Day 5
 ------------------------------------------
 
+15. (People Ops) Sends a direct message or [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting them to create their Mattermost avatar.
 16. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
 17. (Product Manager or Solution Architect) Holds FAQ session on the product.
 18. (Hiring Manager) Meets with New Hire to check in.
