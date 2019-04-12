@@ -9,11 +9,11 @@
 
 Each year we aim to have a conference bringing together Mattermost core committers, staff and community. Past MatterCons include:  
 
-- Punta Cana, Dominican Republic (2019) 
-- Lisbon, Portugal (2018)
-- Las Vegas, U.S.A. (2017)
+- Punta Cana, Dominican Republic (2019) - Video pending 
+- Lisbon, Portugal (2018) - [See video](https://www.youtube.com/watch?v=CZXaYttz3NA) 
+- Las Vegas, U.S.A. (2017) - [See video](https://www.youtube.com/watch?v=_RpmrM-5UFY) 
 
-# CEO Round Tables 
+## CEO Round Tables 
 
 A common practice at leading companies is to have CEO Round Tables to make sure thoughts and feelings from the broader team are clearly heard. 
 
