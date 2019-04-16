@@ -127,6 +127,34 @@ The following outlines the process for monthly strategic meetings:
 
 - Agree on what and when to communicate to directs and rest of company
 
+
+## Target Setting Process (Quarterly to start, moving to halfs) 
+
+The purpose of target setting is to confirm targets, plan and budget for the period. 
+
+- We eventually want to set targets by the half, we'll start with target setting by the quarter. 
+
+## Process
+
+### Draft Company and Department V2MOMs
+
+The following should happen within a 2 week period, with 1-2 iterations in each step: 
+
+- CEO works with department heads in 1-1s to discuss company and department V2MOMs and targets 
+- If applicable during the period, sales, CEO and finance set or adjust the revenue targets  
+- Finance works with department heads to discuss headcount and program spend budget 
+
+### Review WIP Company and Department V2MOMs
+
+- WIP Company and V2MOMs reviewed and discussed at Monthly Strategic Meeting 
+- Draft headcount plan shared 
+
+### Company and Department V2MOMs Finalized 
+
+- Company and V2MOMs updated given feedback 
+- Financial plan adjusted
+- Headcount approvals published 
+
 ## Quarterly Business Review 
 
 TBD 
