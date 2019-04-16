@@ -1,8 +1,8 @@
-# WIP: Hiring at Mattermost 
+# Hiring at Mattermost 
 
 ## Vision 
 
-Planning, recruiting, hiring and onboarding process to rapidly attract, align, vet, close and ramp new staff members to become high functioning contributors to their teams and to the success of our company  
+Planning, recruiting, hiring and onboarding process to rapidly attract, align, vet, close and ramp new staff members to become high functioning contributors to their teams and to the success of our company.  
 
 ## Values 
 
