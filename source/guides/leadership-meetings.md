@@ -75,11 +75,25 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 
 ### Process 
 
-- **MLT Daily - 10:01am to 10:11am SF Time** - Daily check-in on administrative and hot topic items  
-- **Scoreboard Review - 10:11am to 10:45am SF Time** - Review sales, marketing and support numbers to flag and discuss issues  
-- **Tactical Agenda** - **10:45am to 11:10am ST Time** - Talk through queued items, 5m max per topic. Resolve or find next step 
-- **Decisions/Actions** - **11:10am to 11:20am SF Time** - Agree on decisions and actions 
-- **Cascading Communications - 11:20am to 11:25am SF Time** - Agree on what and when to communicate to directs and rest of company
+#### MLT Daily - 10:01am to 10:11am SF Time
+
+- Daily check-in on administrative and hot topic items  
+
+#### Scoreboard Review - 10:11am to 10:45am SF Time
+
+- Review sales, marketing and support numbers to flag and discuss issues  
+
+#### Tactical Agenda - 10:45am to 11:10am ST Time
+
+- Talk through queued items, 5m max per topic. Resolve or find next step 
+
+#### Decisions/Actions - 11:10am to 11:20am SF Time
+
+- Agree on decisions and actions 
+
+#### Cascading Communications - 11:20am to 11:25am SF Time
+
+- Agree on what and when to communicate to directs and rest of company
 
 ## Monthly Strategic 
 
