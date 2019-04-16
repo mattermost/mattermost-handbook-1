@@ -8,9 +8,13 @@ The purpose of MLT Daily is to keep our team in sync and accountable.
 
 In MLT Daily we can share: 
 
-- **Heads-Up** - Share priority info, e.g. PR issue, customer escalation, product schedule change, etc.
+- **Heads up** - Share priority info, e.g. PR issue, customer escalation, product schedule change, etc.
 - **FYI** - Top FYIs for yesterday or today, e.g. key hire starting, handling escalation, notes from important meeting, etc. 
 - **Asks** - Ask MLT members for things, e.g. need to escalate issue, ask for update, headcount plan past due, etc.  
+
+### Time and People 
+
+- Weekdays 8:31am SF time to 8:41am SF time with Mattermost Leadership Team 
 
 ### Process
 
@@ -63,32 +67,19 @@ Asks
 
 ## MLT Weekly Tactical  
 
-Attendees:
+The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and annual targets. 
 
-- MLT plus JB 
+### Time and People 
 
-Objectives: 
+- Tuesdays 10:00am SF time to 11:30am SF time with Mattermost Leadership Team 
 
-**Flag issues, prioritize, decide and agree on next steps** 
-- Identity administrative, tactical and strategic issues 
-- Identify obstacles to achieving clearly defined objectives
-- Discuss issues and either resolve them or decide on next step 
-- Voice concerns and make decisions as a team 
-- Prepare to cascade communications across departments 
+### Process 
 
-Time: 
-
-- Weekly meeting on Tuesdays from 10:00am to 11:00am Palo Alto time
-
-Process
-
-- This meeting replaces Daily Read In meeting 
-- Structure of meeting:
-  1. **Daily Read In** - Same process as Daily Read In 
-  2. **Scoreboard Review** - Review status of company initiatives. Queue yellow and red flags for tactical agenda.
-  3. **Tactical Agenda** - Issues arisen during Read In or Scoreboard Review. Discussions lasting 5 minutes are paused with either a decision, offline conversation, or an item to monthly strategic call.
-  4. **Decisions / Actions** - Summarize decisions and actions made during the meeting. Confirm everyone is on board.
-  5. **Cascading Communication** - Agree what to communicate to direct reports, if any. Agree on timeframe for that communication to take place.
+- **MLT Daily - 10:01am to 10:11am SF Time** - Daily check-in on administrative and hot topic items  
+- **Scoreboard Review - 10:11am to 10:45am SF Time** - Review sales, marketing and support numbers to flag and discuss issues  
+- **Tactical Agenda** - **10:45am to 11:10am ST Time** - Talk through queued items, 5m max per topic. Resolve or find next step 
+- **Decisions/Actions** - **11:10am to 11:20am SF Time** - Agree on decisions and actions 
+- **Cascading Communications - 11:20am to 11:25am SF Time** - Agree on what and when to communicate to directs and rest of company
 
 ## Monthly Strategic 
 
