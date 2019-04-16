@@ -111,19 +111,19 @@ The following outlines the process for monthly strategic meetings:
 
 - Any materials for monthly agenda are shared prior to 9pm SF time before monthly meeting 
 
-#### Agenda - 0:00
+#### Agenda - 0:00 Meeting Time 
 
 - Agenda of strategic topics reviewed MLT and agreed upon 
 
-#### Strategic Topics - 0:03
+#### Strategic Topics - 0:03 Meeting Time 
 
 - Strategic topics discussed per agenda 
 
-#### Decisions/Actions 
+#### Decisions/Actions - 2:30 Meeting Time 
 
 - Agree on decisions and actions 
 
-#### Cascading Communications 
+#### Cascading Communications - 2:45 Meeting Time 
 
 - Agree on what and when to communicate to directs and rest of company
 
