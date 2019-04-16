@@ -95,24 +95,35 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 
 - Agree on what and when to communicate to directs and rest of company
 
-## Monthly Strategic 
+## MLT Monthly Strategic 
 
-Attendees:
+The purpose of MLT monthly strategic meeting is to review and decide on strategic decisions 
 
-- MLT 
+### Time and People 
 
-Objectives: 
+- Scheduled monthly for 3 hours with Mattermost Leadership Team 
 
-- Discuss, analyze and decide upon a critical issue affecting long-term success
+### Process 
 
-Time: 
+#### Materials Shared - before 9pm night before Monthly Meeting 
 
-- Monthly meeting, lasts 2 - 4 hours. Exact time to be determined. 
+- Any materials for monthly agenda are shared prior to 9pm SF time before monthly meeting 
 
-Process
+#### Agenda - 0:00
 
-- Agenda prepared over the course of a month, including topics that arise during weekly tactical
-- All material, e.g. slides, prepared in advance and focused on a specific topic
+- Agenda of strategic topics reviewed MLT and agreed upon 
+
+#### Strategic Topics - 0:03
+
+- Strategic topics discussed per agenda 
+
+#### Decisions/Actions 
+
+- Agree on decisions and actions 
+
+#### Cascading Communications 
+
+- Agree on what and when to communicate to directs and rest of company
 
 ## Quarterly Business Review 
 
