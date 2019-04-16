@@ -105,6 +105,8 @@ The purpose of MLT monthly strategic meeting is to review and decide on strategi
 
 ### Process 
 
+The following outlines the process for monthly strategic meetings: 
+
 #### Materials Shared - before 9pm night before Monthly Meeting 
 
 - Any materials for monthly agenda are shared prior to 9pm SF time before monthly meeting 
