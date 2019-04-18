@@ -35,9 +35,14 @@ After contract is complete, you'll get an invite to Bill.com to approve invoices
 
 ### How to procure software subscription services (1-3 weeks) 
 
-Confirm with finance you have budget for the spend, then: 
-
-Email `procurement@mattermost.com` with the name of the service and the SKU that you want so they can review the terms of service, purchase the service and provision you an administrator account. 
+1. Check [existing systems list](https://airtable.com/shrwSRirvgm3Ayg31/tblI4gu3oPUiZazs8?blocks=hide
+) to confirm the system isn't purchased already. 
+2. Confirm with finance (Aneal Vallurupalli) you have budget for the spend
+3. Email `procurement@mattermost.com` with enough details of your purchase so that: 
+     - (If applicable) They can contact the sales person you're working with
+     - They can run a legal and privacy policy review for EU-U.S. Privacy Shield compliance 
+     - After review is complete, they can run the terms acceptance or e-sign process
+     - The NAME and PURPOSE of the system can be updated in our [Systems List](https://airtable.com/shrwSRirvgm3Ayg31/tblI4gu3oPUiZazs8?blocks=hide) 
 
 IMPORTANT: 
 - Mattermost runs its own e-sign process. 
