@@ -12,7 +12,26 @@ The e-signed documents are organized and archived based on e-sign manager.
 
 If a vendor needs to use e-sign through their system an exception can be made via written agreement by Mattermost CEO. 
 
-## End user guide to procurement 
+## Functional DRI guide to procurement 
+
+If you own a process that has budget approved for a new system or services agreement you're a "Functional DRI" (Directly Responsible Individual). Here's how you can procure:  
+
+### How to procure software subscription services (3-5 business days) 
+
+1. Check [existing systems list](https://airtable.com/shrwSRirvgm3Ayg31/tblI4gu3oPUiZazs8?blocks=hide
+) to confirm the system isn't purchased already. 
+2. Confirm with finance (Aneal Vallurupalli) you have budget for the spend
+3. Email `procurement@mattermost.com` with enough details of your purchase so that: 
+     - (If applicable) They can contact the sales person you're working with
+     - They can run a legal and privacy policy review for EU-U.S. Privacy Shield compliance 
+     - After review is complete, they can run the terms acceptance or e-sign process
+     - The NAME and PURPOSE of the system can be updated in our [Systems List](https://airtable.com/shrwSRirvgm3Ayg31/tblI4gu3oPUiZazs8?blocks=hide) 
+
+IMPORTANT: 
+- Mattermost runs its own e-sign process. 
+- **DO NOT have vendor send e-sign to us, it will be automatically routed to trash.**
+
+If the service is purchased via invoices (instead of billed via Credit Card), you'll get an invite to Bill.com to approve invoices from vendor submitted in future. 
 
 ### How to procure consulting services on a standard agreement (1-2 business days)
 
@@ -32,23 +51,6 @@ Confirm with finance you have budget for the spend, then:
 If your vendor wants to use a non-standard agreement, email the agreement to `procurement@mattermost.com` to have reviewed. The process may take 1 to 3 weeks given legal review time needed. 
 
 After contract is complete, you'll get an invite to Bill.com to approve invoices from vendor submitted in future. 
-
-### How to procure software subscription services (1-3 weeks) 
-
-1. Check [existing systems list](https://airtable.com/shrwSRirvgm3Ayg31/tblI4gu3oPUiZazs8?blocks=hide
-) to confirm the system isn't purchased already. 
-2. Confirm with finance (Aneal Vallurupalli) you have budget for the spend
-3. Email `procurement@mattermost.com` with enough details of your purchase so that: 
-     - (If applicable) They can contact the sales person you're working with
-     - They can run a legal and privacy policy review for EU-U.S. Privacy Shield compliance 
-     - After review is complete, they can run the terms acceptance or e-sign process
-     - The NAME and PURPOSE of the system can be updated in our [Systems List](https://airtable.com/shrwSRirvgm3Ayg31/tblI4gu3oPUiZazs8?blocks=hide) 
-
-IMPORTANT: 
-- Mattermost runs its own e-sign process. 
-- **DO NOT have vendor send e-sign to us, it will be automatically routed to trash.**
-
-If the service is purchased via invoices (instead of billed via Credit Card), you'll get an invite to Bill.com to approve invoices from vendor submitted in future. 
 
 ## Procurement team guide 
 
