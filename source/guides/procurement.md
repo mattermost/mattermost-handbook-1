@@ -95,9 +95,11 @@ For services that CAN NOT be purchased using Credit Card:
 DO NOT have vendor send e-sign to CEO. E-sign requests from vendors get routed to trash. 
 
 
-### Procuring agency recruiting - Discuss with Lisa & agree prior to engagement and signing any agreements 
+### Procuring agency recruiting 
 
-Our intent is to substanially move away from agencies. - Please partner with your recruiter and Lisa.
+**Please discuss with Lisa McCaffrey & agree prior to engagement and signing any agreements**
+
+Our intent is to substanially move away from agencies. - Please partner with your recruiter and Lisa McCaffrey.
 
 For non-VP roles: 
 
