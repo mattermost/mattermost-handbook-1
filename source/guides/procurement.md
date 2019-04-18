@@ -26,6 +26,7 @@ If you own a process that has budget approved for a new system or services agree
      - They can run a legal and privacy policy review for EU-U.S. Privacy Shield compliance 
      - After review is complete, they can run the terms acceptance or e-sign process
      - The NAME and PURPOSE of the system can be updated in our [Systems List](https://airtable.com/shrwSRirvgm3Ayg31/tblI4gu3oPUiZazs8?blocks=hide) 
+4. The procurement team will complete the appropriate reviews and run either the credit card setup or e-sign, add you as the business administrator and fill in the appropriate information in the Systems List. 
 
 IMPORTANT: 
 - Mattermost runs its own e-sign process. 
