@@ -8,9 +8,18 @@ The purpose of MLT Daily is to keep our team in sync and accountable.
 
 In MLT Daily we can share: 
 
-- **Heads up** - Share priority info, e.g. PR issue, customer escalation, product schedule change, etc.
-- **FYI** - Top FYIs for yesterday or today, e.g. key hire starting, handling escalation, notes from important meeting, etc. 
-- **Asks** - Ask MLT members for things, e.g. need to escalate issue, ask for update, headcount plan past due, etc.  
+#### Heads up
+
+- Share priority info, e.g. PR issue, customer escalation, product schedule change, etc.
+
+#### FYI
+
+- Top FYIs for yesterday or today, e.g. key hire starting, handling escalation, notes from important meeting, etc. 
+- Include links to detail for people to learn more 
+
+#### Asks
+
+- Ask MLT members for things, e.g. need input, need to escalate issue, ask for update, headcount plan past due, etc.  
 
 ### Time and People 
 
