@@ -137,16 +137,31 @@ The following outlines the process for monthly strategic meetings:
 
 - Agree on what and when to communicate to directs and rest of company
 
+## MLT Planning 
 
-## Target Setting Process (Quarterly to start, moving to halfs) 
+The purpose of target setting is to confirm targets, plan and budget for MLT departments for the period. 
 
-The purpose of target setting is to confirm targets, plan and budget for the period. 
+The MLT plan consists of: 
 
-- We eventually want to set targets by the half, we'll start with target setting by the quarter. 
+1. Company and department fiscal year 1-page V2MOMs
+2. Quarterly plan, in the context of fiscal year V2MOM 
+3. Financial plan, including revenue 
+4. Headcount plan 
 
-## Process
+We're currently focused on quarterly plans and will move to halves
 
-### Draft Company and Department V2MOMs
+### Plan Expectations 
+
+- Quarterly plans are locked for the quarter--Changeable only in MLT team meeting
+- Progress on quarter plans reviewed at the start of next quarter 
+- Okay to reduce targets prior to 20 days before quarter end (except revenue)
+- Quarterly plans are in context of annual V2MOM 
+
+### Plan Process
+
+#### Drafting MLT Plan 
+
+**T-Minus 4 Weeks to announcement.**
 
 The following should happen within a 2 week period, with 1-2 iterations in each step: 
 
@@ -155,16 +170,29 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 2. People meets with departments head to discuss current and future org structure 
 3. Finance works with department heads to discuss headcount and program spend budget 
 
-### Review WIP Company and Department V2MOMs
+#### Review WIP Plan 
 
-- WIP Company and V2MOMs reviewed and discussed at Monthly Strategic Meeting 
-- Draft headcount plan shared 
+**T-Minus 2 Weeks to announcement.**
 
-### Company and Department V2MOMs Finalized 
+- WIP Company and V2MOMs reviewed MLT Monthly Strategic Meeting 
+- MLT shares feedback on each V2MOM and quarterly plan 
+- Cross-department dependencies documented 
+- MLT socailizes high-level plan with their departments 
+ 
+#### Finalize Plan 
+
+**T-Minus 1 Week to announcement.**
 
 - Company and V2MOMs updated given feedback 
 - Financial plan adjusted
 - Headcount approvals published 
+
+#### Plan Shared 
+
+**Week of announcement.**
+
+- 1-Page V2MOMs for Company and Department shared with company at COM 
+- MLT presents company plan to their departments
 
 ## Quarterly Business Review 
 
