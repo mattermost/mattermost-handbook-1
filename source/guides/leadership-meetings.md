@@ -175,9 +175,18 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 **T-Minus 2 Weeks to announcement.**
 
 - At Monthly Strategic Meeting: 
-  -  WIP V2MOMs, quarterly plan and headcount proposal reviewed by MLT 
+  -  WIP V2MOMs, quarterly plan and proposed orgs reviewed by MLT 
   -  MLT shares feedback on each V2MOM and quarterly plan 
   -  Cross-department dependencies documented 
+  -  Draft agenda 
+     -  Review of MLT Plan Process
+     -  Company V2MOM & Q2 plan 
+     -  R&D V2MOM, Q2 plan and proposed org 
+     -  Marketing V2MOM, Q2 plan and proposed org 
+     -  Sales V2MOM, Q2 plan and proposed org 
+     -  Customer Success V2MOM, Q2 plan and proposed org  
+     -  Finance V2MOM, Q2 plan and proposed org
+     -  People V2MOM, Q2 plan and proposed org  
 - MLT socializes high-level plan with their departments 
  
 #### Finalize Plan 
