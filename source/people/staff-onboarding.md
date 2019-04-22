@@ -110,7 +110,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 10. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and [staff email list](https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066) and describing how to view other staff members' calendars. 
 11. (New Hire) Has a welcome meeting with an IC outside of their department.
-12. (Hiring Manager) Introduces New Hire to entire team during the Customer Obsession meeting. Meets with New Hire to check in.
+12. (Hiring Manager) Meets with New Hire to check in.
 
 
 ### Day 4
@@ -133,7 +133,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 
 19. (CEO) Meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
-20. (Hiring Manager) Meets with New Hire to finalize 30/60/90 day plan.
+20. (Hiring Manager) Meets with New Hire to finalize 30/60/90 day plan. Introduces New Hire to entire team during the Customer Obsession meeting.
 21. (Head of HR) (Optional) Meets with New Hire if first day meeting did not occur.
 
 ### Days 11-29
