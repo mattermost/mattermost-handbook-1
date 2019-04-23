@@ -154,7 +154,7 @@ We're currently focused on quarterly plans and will move to halves
 
 - Quarterly plans are locked for the quarter--Changeable only in MLT team meeting
 - Progress on quarter plans reviewed at the start of next quarter 
-- Okay to reduce targets prior to 20 days before quarter end (except revenue)
+- Okay to reduce targets prior to 20 days before quarter end (except revenue & pipeline)
 - Quarterly plans are in context of annual V2MOM 
 
 ### Plan Process
@@ -167,8 +167,11 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 1. CEO discusses company and department V2MOMs 1-1 with department heads to ensure alignment 
    -  If applicable during the period, sales, CEO and finance set or adjust the revenue targets  
-2. People meets with departments head to discuss current and future org structure 
+2. People meets with departments head to discuss current and future org structure  
+   -  Include discussion on performance, potential and any FYIs  
 3. Finance works with department heads to discuss headcount and program spend budget 
+   -  Include budget variance 
+4. Department heads social plans with their teams 
 
 #### Review WIP Plan 
 
@@ -187,7 +190,7 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
      -  Customer Success V2MOM, Q2 plan and proposed org  
      -  Finance V2MOM, Q2 plan and proposed org
      -  People V2MOM, Q2 plan and proposed org  
-- MLT socializes high-level plan with their departments 
+- MLT socializes updates to high-level plan with their departments 
  
 #### Finalize Plan 
 
@@ -201,7 +204,8 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 **Week of announcement.**
 
-- 1-Page V2MOMs for Company and Department shared with company at all-hands  
+- Company V2MOM shared at all-hands
+- Department V2MOMs are posted   
 - MLT presents company plan to their departments
 
 ## Quarterly Business Review 
