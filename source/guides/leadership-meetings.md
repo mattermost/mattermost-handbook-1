@@ -165,7 +165,7 @@ We're currently focused on quarterly plans and will move to halves
 
 The following should happen within a 2 week period, with 1-2 iterations in each step: 
 
-1. CEO works with department heads in 1-1s to discuss company and department V2MOMs and targets 
+1. CEO discusses company and department V2MOMs 1-1 with department heads to ensure alignment 
    -  If applicable during the period, sales, CEO and finance set or adjust the revenue targets  
 2. People meets with departments head to discuss current and future org structure 
 3. Finance works with department heads to discuss headcount and program spend budget 
