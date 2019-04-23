@@ -154,7 +154,7 @@ We're currently focused on quarterly plans and will move to halves
 
 - Quarterly plans are locked for the quarter--Changeable only in MLT team meeting
 - Progress on quarter plans reviewed at the start of next quarter 
-- Okay to reduce targets prior to 20 days before quarter end (except revenue)
+- Okay to reduce targets prior to 20 days before quarter end (except revenue & pipeline)
 - Quarterly plans are in context of annual V2MOM 
 
 ### Plan Process
