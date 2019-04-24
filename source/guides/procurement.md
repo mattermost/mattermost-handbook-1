@@ -4,7 +4,7 @@
 
 DO NOT have vendors send e-sign to Mattermost staff. Mattermost needs all e-sign to be setup using Mattermost e-sign systems by the following people: 
 
-- PeopleOps and Consulting Agreements (HelloSign) - Jen Shepard 
+- PeopleOps and Consulting Agreements (HelloSign) - Jen Shepard with a copy to Lisa McCaffrey 
 - Customer and Partner Agreements (DocuSign) - Melissa Warner 
 - Subscription Software Services (DocuSign) - Camille Harris 
 
@@ -105,9 +105,13 @@ DO NOT have vendor send e-sign to CEO. E-sign requests from vendors get routed t
 
 ### Procuring agency recruiting 
 
+**Please discuss with Lisa McCaffrey & agree prior to engagement and signing any agreements**
+
+Our intent is to substanially move away from agencies. - Please partner with your recruiter and Lisa McCaffrey.
+
 For non-VP roles: 
 
-1. Agency recruiters for non-VP roles can only be hired at market terms: non-exclusive contingent fee of 20% of first-year base compensation, 1-year non-poach, and 90-day replacement.
+1. Agency recruiters for non-VP roles can only be hired at market terms: non-exclusive contingent fee of 20% of first-year base compensation, 1-year non-poach, and 90-day replacement. 
 2. Once agency agreement is reviewed by legal, e-sign should be managed by Mattermost through standard process (see above). Per company policy, agency should not send their own e-sign.
 3. Upon successful start of new hire, invoice should be sent to `payments@mattermost.com`.
 
