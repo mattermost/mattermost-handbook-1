@@ -37,7 +37,7 @@ This document outlines analyst materials and procedures.
 |Add meeting to calendar (Event Format: Analyst Name, Company, Call Type (Inquiry, Briefing), Subject. Example: Petr Gorodetskiy, Gartner 3/19/18 Inquiry, Russia & Eastern Europe Business) with Mattermost Zoom information (Note: Gartner typically uses WebEx and the invitation originates from them)| CAH |  |
 | Update [Analyst meeting tracking sheet](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit?usp=drive_web&ouid=107885747391106493596) with meeting date, analyst name, etc |CAH  |  |
 | Schedule pre- and post- meetings | CAH  | When meeting is confirmed with analyst |
-| Confirm NDA signed and file in Box and analyst's G Drive |CAH   | |
+| Confirm NDA signed and file in Box and analyst's G Drive folder |CAH   | |
 | Ask leads in Analyst channel if there are any questions they'd like answered (Inquiry only) |CAH | |
 | Create prep notes and share in [Analyst channel](https://community.mattermost.com/private-core/channels/analyst-research) and add to [Analyst meeting tracking sheet](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit?usp=drive_web&ouid=107885747391106493596)  | CAH |  |
 | Meet to decide what to focus on during meeting (based on analyst's interests, prior meetings, etc) |  |2-5 business days before meeting  |
