@@ -20,17 +20,25 @@ This document outlines analyst materials and procedures.
 
 - Leave 10 mins at the end of the call for Q&A / feedback where possible
 
+## Suggest Flow for Inquiries (Non-briefing related)
+
+- Describe Mattermost briefly (if new analyst)
+- Ask about opportunities in the context of the space (e.g. eDiscovery, selling in EU, etc.)
+- Ask what we need to worry about (e.g. incompatibility with leading eDiscovery tools, not meeting certain EU requirement, etc.) 
+
 ## Analyst Meeting Checklist 
 
 ### Pre-Meeting
 
 | **Action** |  **Owner**     | **When**|
 |:----------|:-------------|:-------------|
-| Send email containing Mattermost bios, our positioning, analyst coverage we've been in, contact information (mobile numbers) in case of emergency, an NDA (so we can share customer logos) | TBA | When meeting is confirmed with analyst/final scheduling email |
+| Consult [Analyst meeting tracking sheet](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit?usp=drive_web&ouid=107885747391106493596) to see if we've previously interacted with analyst | | |
+| Send email containing Mattermost bios (if new analyst), our positioning, analyst coverage we've been in, contact information (mobile numbers) in case of emergency, an NDA (so we can share customer logos)(if new analyst/no NDA on file) (always cc IJT and CAH)| TBA | When meeting is confirmed with analyst/final scheduling email |
 |Add meeting to calendar (Event Format: Analyst Name, Company, Call Type (Inquiry, Briefing), Subject. Example: Petr Gorodetskiy, Gartner 3/19/18 Inquiry, Russia & Eastern Europe Business) with Mattermost Zoom information (Note: Gartner typically uses WebEx and the invitation originates from them)| CAH |  |
 | Update [Analyst meeting tracking sheet](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit?usp=drive_web&ouid=107885747391106493596) with meeting date, analyst name, etc |CAH  |  |
 | Schedule pre- and post- meetings | CAH  | When meeting is confirmed with analyst |
 | Confirm NDA signed and file |CAH   | |
+| Ask leads in Analyst channel if there are any questions they'd like answered (Inquiry only) |CAH | |
 | Create prep notes and share in [Analyst channel](https://community.mattermost.com/private-core/channels/analyst-research) and add to [Analyst meeting tracking sheet](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit?usp=drive_web&ouid=107885747391106493596)  | CAH |  |
 | Meet to decide what to focus on during meeting (based on analyst's interests, prior meetings, etc) |  |2-5 business days before meeting  |
 | Create deck for meeting | MS |  |
@@ -47,42 +55,17 @@ This document outlines analyst materials and procedures.
 | Take notes on any follow-ups |  |  |
 
 
-
-
 ### Post-Meeting
 
 | **Action** |  **Owner**     | **When**|
 |:----------|:-------------|:-------------|
 | Meet for 30 minutes to discuss meeting and plan changes for future meetings|  |  |
 | Share meeting recording for transcription | MS | Immediately after meeting  |
-| Email analyst thanking them for their time and noting any next steps or follow ups | TBA | Within x hours of meeting |
+| Email analyst thanking them for their time and noting any next steps or follow ups (always cc IJT and CAH) | TBA | Within x hours of meeting |
 | Gartner only: Schedule follow-up inquiry call with analyst after all briefings | CAH  |  |
 | Send meeting recording for transcription to rev.com  | CAH |  |
 | Review meeting transcription and add to analyst's folder and Analysts channel | CAH  |  |
 | Update prep notes with links to deck, meeting recording, transcription, and any follow ups| | |
 | Assign follow ups | | |
 | Add any reports sent by analyst to analyst's Google Drive folder and share in Analysts channel   | CAH |  |
-
-_______________________________________________________________________________________________________________________
-
-## Analyst Meeting Checklist 
-
-### Process
-- Always cc IJT and CAH on emails to and from analysts
-
-### Setup
-- **Prep Email:** 
-  - Content: Prep notes with Analyst's background and links to reports as well as a request for questions from Leads: CAH
-    - Example: "(Optional) Leads, please let Ian know if there's any questions you want him to ask Gartner on the inquiry call. Call will be recorded, transcribed and shared in Analyst channel."
-
-
-### Planning 
-- **Email:** Discussion plan drafted: 
-  - Inquiry: List of questions ready
-    - General process: 
-       - Describing Mattermost briefly
-       - Asking about opportunities in the context of the space (e.g. eDiscovery, selling in EU, etc.)
-       - Asking what we need to worry about (e.g. incompatibility with leading eDiscovery tools, not meeting certain EU requirement, etc.) 
-
-
 
