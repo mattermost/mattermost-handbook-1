@@ -41,7 +41,7 @@ This document outlines analyst materials and procedures.
 | Ask leads in Analyst channel if there are any questions they'd like answered (Inquiry only) |CAH | |
 | Create prep notes and share in [Analyst channel](https://community.mattermost.com/private-core/channels/analyst-research) and add to [Analyst meeting tracking sheet](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit?usp=drive_web&ouid=107885747391106493596)  | CAH |  |
 | Meet to decide what to focus on during meeting (based on analyst's interests, prior meetings, etc) |  |2-5 business days before meeting  |
-| Create deck for meeting | MS |  |
+| Create deck for meeting (CAH update "Mattermost Momentum" slide) | MS, CAH |  |
 | Review deck for spelling, capitalization, and style |  |  |
 | Send analyst(s) a copy of the deck and final confirmation email |  | 1 business day before meeting  |
 | Post message in [`Developers`](https://pre-release.mattermost.com/core/channels/core-developers) channel about upcoming demo | CJH (reminded by CAH) | At least 2 hours before meeting  |
