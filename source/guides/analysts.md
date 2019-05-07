@@ -4,7 +4,7 @@ This document outlines analyst materials and procedures.
 
 - [Analyst research channel](https://community.mattermost.com/private-core/channels/analyst-research) - Where to stay up-to-date on analyst research 
 - [Analyst materials](https://drive.google.com/drive/folders/16SMn6yR5nIK2YUimpCDC04a1s4F8_j3w) - G Drive folder with analyst materials 
-- [Analyst meeting tracking sheet](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit?usp=drive_web&ouid=107885747391106493596) - Tracking of analysts meetings and materials 
+- [Analyst meeting tracking sheet](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit?usp=drive_web&ouid=107885747391106493596) - Tracking of analyst meetings and materials 
 
 ## Suggested Flow for Briefings
 
