@@ -115,7 +115,7 @@ ________________________________________________________________________________
 - Email: Email IJT copies of any reports sent by Analyst as well as a link to the Analyst’s Google Drive folder containing the reports: CAH
 - Recording: Share recording of meeting with CAH: IJT
   - Transcribe: Send recording to rev.com for transcription: CAH
-- Post links to meeting notes, follow-ups, and recording to [Analysts channel on pre-release](https://pre-release.mattermost.com/private-core/channels/analyst-research
+- Post links to meeting notes, follow-ups, and recording to [Analysts channel](https://pre-release.mattermost.com/private-core/channels/analyst-research
 ), including link to deck:CAH
   - Post completed transcription as a comment: CAH 
 - Post links to recording and any decks used (i.e. Briefings) in the pre-meeting prep notes
