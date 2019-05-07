@@ -16,7 +16,7 @@ This document outlines analyst materials and procedures.
 
 - Demo the product to show unique functionality with very high value prop to developers
 
-- Connect the narrative back to trust / security for large dev teams and make sure that differentiation is the final thing they take away from the briefing  
+- Connect the narrative back to trust / security for large dev teams and make sure that differentiation is the final thing the analyst takes away from the briefing  
 
 - Leave 10 mins at the end of the call for Q&A / feedback where possible
 
