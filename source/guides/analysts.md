@@ -46,7 +46,7 @@ This document outlines analyst materials and procedures.
 | Send analyst(s) a copy of the deck and final confirmation email |  | 1 business day before meeting  |
 | Post message in [`Developers`](https://pre-release.mattermost.com/core/channels/core-developers) channel about upcoming demo | CJH (reminded by CAH) | At least 2 hours before meeting  |
 | Meet before meeting to do a "sound check" (confirm Zoom, final deck run-through) |  | 15-20 minutes before meeting |
-|Presenters should close applications and put notifications on `Do Not Disturb`| Presenters | During meeting "sound check"|
+|Presenters should close all applications and put notifications on `Do Not Disturb`| Presenters | During meeting "sound check"|
   
 ### During Meeting
 
