@@ -60,7 +60,7 @@ This document outlines analyst materials and procedures.
 
 | **Action** |  **Owner**     | **When**|
 |:----------|:-------------|:-------------|
-| Meet for 30 minutes to discuss meeting and plan changes for future meetings|  |  |
+| Meet for 30 minutes to discuss meeting and plan changes for future meetings|  |  Immediately after meeting|
 | Share meeting recording for transcription | MS | Immediately after meeting  |
 | Email analyst thanking them for their time and noting any next steps or follow ups (always cc IJT and CAH) | TBA | Within x hours of meeting |
 | Gartner only: Schedule follow-up inquiry call with analyst after all briefings | CAH  |  |
