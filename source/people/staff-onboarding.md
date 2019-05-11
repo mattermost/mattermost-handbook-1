@@ -91,11 +91,11 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ------------------------------------------
 
 1. (People Ops)  Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering frequently asked questions, sharing Mattermost's [User's Guide](https://docs.mattermost.com/guides/user.html#getting-started), and suggesting channels the New Hire should join to get a feel for the company. People Ops also sends New Hire a message on Mattermost with the email formatted using Markdown.
-2. (People Ops) Meets with New Hire to make sure they feel welcome and have access to all tools needed.
+2. (People Ops) Meets with New Hire to make sure they feel welcome, have access to all tools needed, and get an overview of Mattermost's most important features. New Hire is also invited to complete [End User Onboarding](https://academy.mattermost.com/p/end-user-onboarding) training through Mattermost Academy.
 3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
 4. (New Hire) Joins Mattermost and uses firstname.lastname as their username, adds full name, job title, and a photograph to their profile.
 5. (Hiring Manager) Meets with New Hire to set expectations for the week, introduce them to their Buddy, share the 30/60/90 plan draft process [TEMPLATE NEEDED] and answer any questions.
-6. (People Ops) Schedules meetings with New Hire and Individual Contributors (IC) outside of their department.
+6. (People Ops) Schedules meetings with New Hire (non-R&D only) and Individual Contributors (IC) outside of their department.
 7. (Head of HR) Meets with New Hire to review required documentation (e.g. [I-9 documents](https://www.uscis.gov/i-9)).
 
 
@@ -123,7 +123,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 ### Day 5
 ------------------------------------------
 
-15. (People Ops) Sends a direct message or [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting them to create their Mattermost avatar.
+15. (People Ops) Sends a direct message or [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting them to create their Mattermost avatar. New Hire is also asked to review the last three recordings of the [Customer Obsession All Hands Meeting](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting) and if they would like to present their own intro or if they'd like their manager to introduce them.
 16. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
 17. (Product Manager or Solution Architect) Holds FAQ session on the product.
 18. (Hiring Manager) Meets with New Hire to check in.
