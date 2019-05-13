@@ -81,9 +81,9 @@ Thanks for spending {an hour} with us {today/yesterday}.  {Participant names} an
 
 We are looking forward to hearing about your research later this month. The few data points that you shared are consistent with what we are hearing from our customers:
 
-Most organizations have multiple messaging platforms
-Most companies are consolidating messaging platforms, but rarely to a single vendor
-IT-Security / Cybersecurity and Risk Management teams are vetting the messaging platforms
+- Most organizations have multiple messaging platforms
+- Most companies are consolidating messaging platforms, but rarely to a single vendor
+- IT-Security / Cybersecurity and Risk Management teams are vetting the messaging platforms
 
 We would be happy to chat whenever you want an opinion or a POV live or via email.
 ```
