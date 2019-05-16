@@ -71,7 +71,7 @@ Interviewers on candidate loops should be Level 1 or higher based on the [Matter
 
 ## As Appropriate Interviewer 
 
-An _As Appropriate_ interviewer, or "AA", assesses candidates for cultural and level fit across disciplines. An AA loop is required before any candidate receives a full-time offer. Currently the only AA interviewers are Corey Hulen (CTO and Co-founder) and Ian Tien (CEO and Co-founder). 
+An _As Appropriate_ interviewer, or "AA", assesses candidates for cultural and level fit across disciplines. An AA loop is required before any candidate receives a full-time offer. Currently the only AA interviewers are Corey Hulen (CTO and Co-founder)--who can approve R&D hires--and Ian Tien (CEO and Co-founder) for all hires. Candidates for CEO interviews should be sent [CEO interview pre-reading at least 48 hours ahead of meeting](https://it33.github.io/readme/ceo-interview). 
 
 Exception: Non-staff interviewers--typically advisers or board members--may or may not have detailed written feedback. Their feedback would be inputted by the person owning the relationship with the interviewer. 
 
@@ -146,7 +146,6 @@ The following steps outline the recruiting process. At any point, the process ma
 ### Interview Process 
 
 1. The interview process should be scheduled by the recruiter based on the interview plan prepared with the hiring manager. 
-2. One of the company co-founders should be final interview before any full time offer is extended. CEO should be final interview on any full time hire, and candidate should be sent [CEO interview pre-reading at least 48 hours ahead of meeting](https://it33.github.io/readme/ceo-interview). An exception can be made for R&D hires where CTO can be final interview. 
 
 --- 
 
