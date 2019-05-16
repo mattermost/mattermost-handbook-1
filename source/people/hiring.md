@@ -145,7 +145,8 @@ The following steps outline the recruiting process. At any point, the process ma
 
 ### Interview Process 
 
-1 The interview process should be scheduled by the recruiter based on the interview plan prepared with the hiring manager. 
+1. The interview process should be scheduled by the recruiter based on the interview plan prepared with the hiring manager. 
+2. One of the company co-founders should be final interview before any full time offer is extended. CEO should be final interview on any full time hire, and candidate should be sent [CEO interview pre-reading at least 48 hours ahead of meeting](https://it33.github.io/readme/ceo-interview). An exception can be made for R&D hires where CTO can be final interview. 
 
 --- 
 
