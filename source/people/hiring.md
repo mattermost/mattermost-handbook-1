@@ -8,11 +8,11 @@ Planning, recruiting, hiring and onboarding process to rapidly attract, align, v
 
 1. High standards - Candidate team is well-trained, well-organized, well-documented and makes strong hires   
 1. Rising bar - Continually measure, assess and improve the candidate experience and ever improving recruiting outcomes  
-1. Thoughtfully inclusive - Minimize bias. No "shoe-ins"--every hire is a competitive process (except with written CEO sign-off) 
+1. Thoughtfully inclusive - Minimize bias. No "shoe-ins"--every hire is a competitive process (except with written VP, People & CEO sign-off) 
 
 ## Methods 
 
-1. Clear Recruiting Process - Candidates should find clear, predictable recruiting process 
+1. Clear Recruiting Process - Candidates and interviewers should find clear, predictable process 
 1. Well-Prepared Candidate Team - Mattermost candidate teams are professional, coordinated and well-organized 
 1. Consistent Interview Areas - Criteria for candidate evaluation is effective and consistent across teams
 1. Trained Interviewers - Mattermost interviewers are trained and coached to operate effectively  
@@ -21,13 +21,17 @@ Planning, recruiting, hiring and onboarding process to rapidly attract, align, v
 ## Obstacles 
 
 1. Lack of full-time People leader 
-1. Different hiring processes in R&D and GTM organizations 
+1. Lack of full-time Recruiting leader and coordinator to manage and train on the processes
+1. Different hiring processes in R&D and GTM organizations - this may be ok due to the nature of the roles and the requirements
+1. Do not have measures in place to get a baseline on current processes and to obtain current hiring manager and candidate experience
+1.  Do not have process in place to obtain feedback from candidates on their experience interviewing at MM
 
 ## Measures 
 
-1. On average new candidates raise the bar per level band
-1. Average days between first screened candidate to role filled is quicker than 90 days 
-1. Candidate NPS of 70 or better 
+1. On average new candidates raise the bar per level band - what does this mean?
+1. Hires are considered excellent technical and cultural additions to MM by hiring manager, teams and VP 
+1. Increase time to fill by some percentage better than what we are going now
+1. Hiring managers are ore satisfied with hiring process and outcomes than they were previously
 
 ---
 
@@ -46,27 +50,30 @@ We detail the accountability and support for each role below:
 
 The hiring manager is accountable for: 
 
-1. Working with recruiter and/or People leader to define the responsibilities and requirements for the role 
-2. Developing an assessment plan that assigns interview areas to interviewers Level 1 and higher 
-3. Chairing the candidate review meeting and making a hire recommendation for the best candidate 
+1. Working with recruiter and/or People leader to define the responsibilities and requirements for the role
+2. Parter with recruiter to discuss and agree on sourcing and recruiting strategy and SLA on feedback with recruiting team
+3. Developing an assessment plan that assigns interview areas to interviewers Level 1 and higher
+4. Ensuring the recruting process is followed 
+5. Chairing the candidate review meeting and making a hire recommendation for the best suited candidate 
 
-## Recruiting Coordinator 
+## Recruiter  
 
-The recruiting coordinator or recruiting specialist is accountable for: 
+The recruiter and recruting team is accountable for: 
 
-1. Online screening - Evaluates candidates from referrals (people recommended by staff members and our networks), applicants (people who apply online) and sourced candidates (candidates not looking that recruiting specialists or agencies find). 
-1. First meeting - Introduces candidate to Mattermost and opportunities and gets them excited. Provides materials to learn more about the company. Coaches the candidate on how to prepare.
-1. Ensure interviewer feedback is effective - Coordinating interviewers to ensure their interviewing per plan and their feedback is well written.   
-1. Scheduling and post-meeting follow-up - Coordinates meetings with interviewers. Speaks with candidate by phone or Zoom after each day an interview meeting occurs. 
-1. Coach interviewers - Share feedback to interviewers based on post-interview conversations and their written feedback to help interviewers improve.  
-1. Coordinating candidate team round table - Bring hiring manager, As Appropriate interviewer, and key interviewers to discuss the candidate and make an offer decision.  
+1. Creating recruiting strategy and tactics to build qualified candidate pipelines for current and FP (future pipeline) roles.
+2.  Online screening - Evaluates candidates and partners with hiring manager to select most qualified candidates for us to interview.
+1. First meeting - Introduces candidate to Mattermost and markets the opportunity to them. Provides candicate with materials to learn more about the company. Coaches the candidate on our process and helps them to prepare.
+1. Partners with each interviewer to coach them on providing effective and well written feedback in ATS tool. 
+1. Schedules and coordinates all interviews and to ensures they areinterviewing per plan.   
+1. In partership with HM, schedules post-meeting follow-up - Coordinates meetings with interviewers. Speaks with candidate by phone or Zoom within 48 hours of an interview meeting occuring.  
+1. Coordinates candidate team round table - Bring hiring manager, As Appropriate interviewer, and key interviewers to discuss the candidate and make an offer decision.  
 
 ## Interviewers Level 1 or higher 
 
 Interviewers on candidate loops should be Level 1 or higher based on the [Mattermost Interviewer Guide](XXXX). They are accountable for:  
 1. Interviewing candidates based on the assessment plan provided by the hiring manager 
 2. Increasing a candidate's interest and excitement about joining the company 
-3. Assessing candidates in assigned areas and finding Red Flags and Yellow Flags 
+3. Assessing candidates in assigned areas: 1. validating experience and assessing for culture, 2. finding Red Flags and Yellow Flags 
 4. Writing concise and effective feedback to hiring managers and recruiters 
 
 ## As Appropriate Interviewer 
@@ -85,7 +92,7 @@ We invest in training and developing the skills of our interviewers through a se
 
 ## Interviewer Skill Levels 
 
-### Level 0 Interviewer 
+### Level 0 Interviewer - Ian, what's the value that Level 0 this brings to the process? Should we consider pairing them up with a Level 1 or 2?
 
 - **Scope:** New to interviewing at Mattermost - Feedback should not significantly impact candidate assessments.
 - **Assessment:** Documents strengths and opportunities with specific examples, but may miss issues trained interviewers detect.   
@@ -123,7 +130,7 @@ Examples: Mattermost executives and executive advisers.
 
 ### Interviewer training and development 
 
-Mattermost as a company is in the process of formalizing its interviewer training process. Right now, staff members working with their managers may either volunteer or be referred into an interviewer training process managed by PeopleOps, depending on need and capacity. In general, interviewers should have at least 1 to 2 years of experience working at Mattermost before interviewing. 
+Mattermost as a company is in the process of formalizing its interviewer training process. Right now, staff members working with their managers may either volunteer or be referred into an interviewer training process managed by the People Team depending on need and capacity. As a part of the training process, HMs may have L0 interview with L2 and above to teach in real time, the process of interviewing.  Solo interviewers should have at least 1 to 2 years of experience working at Mattermost before interviewing. 
 
 The process involves staff members reading this guide thoroughly and working with a Level 2 interviewer or higher to estimate the staff member's a) current proficiency in assessment and recruiting, b) opportunities to grow, c) path to development, which may include mock-interviews, online or in-class training, or participation in junior-level interviews. 
 
@@ -131,7 +138,7 @@ The process involves staff members reading this guide thoroughly and working wit
 
 # Recruiting Process
 
-The following steps outline the recruiting process. At any point, the process may be discontinued if it's found the candidate is unlikely to be successful near and long term at Mattermost. 
+The following steps outline the recruiting process. At any point, the process with the candidate may be discontinued if it's found the candidate is unlikely to be successful near and long term at Mattermost. At this point, the recruiting team should be notified within 48 hours so the recruiting team can disposition the candidate.
 
 ### Posting Process
 
@@ -141,11 +148,11 @@ The following steps outline the recruiting process. At any point, the process ma
 ### Screening Process
 
 1. Recruiters should screen applicants based on publicly listed requirements 
-1. Promising candidates should be screened by the recruiter for basic culture and workstyle alignment
+1. Candidates that appear to meet the requirements should be screened by the recruiter for basic culture, workstyle alignment and technical skills
 
 ### Interview Process 
 
-1. The interview process should be scheduled by the recruiter based on the interview plan prepared with the hiring manager. 
+1. The interview process should be scheduled by the recruiting team based on the interview plan prepared with the hiring manager. 
 
 --- 
 
@@ -168,7 +175,7 @@ For example, for a product manager role, the hiring manager may work with the re
 - Interviewer B: Capabilities (feature design, prioritization), Leadership Principles (Be and Owner, Customer Obsession) 
 - Interviewer C: Capabilities (leadership, documentation, product marketing support), Leadership Principles, (Self-Awareness, Earn Trust)
 
-The interview plan should be posted in Lever by the recruiter at the start of the interview with `@mentions` to each interviewer so they know which area to cover. 
+The interview plan should be posted in our ATS by the recruiting team at the start of the interview with `@mentions` to each interviewer so they know which area to cover. 
 
 ## Capabilities 
 
@@ -237,19 +244,26 @@ Product and Engineering Roles:
 
 ##### High Impact 
 
-TBW
+- Ability to influence others through effective use of a range of techniques
+- Results oriented 
+- Collaborative
 
 ##### Self-Awareness 
 
-TBW
+- The ability to pay attention to themselves and their behavior
+- Having awareness of themselves
+- Being aware of their own unique perceptions of the world
 
 ##### Insist on High Standards 
 
-TBW
+- Assume responsibility and accountability for successfully completing assignments and task
+- Self-impose standards of excellence on themselves and their teams
 
 ##### Earn Trust 
 
-TBW
+- Sincerely open-minded, genuinely listen, and are willing to examine their strongest convictions with humility
+- The ability to forge and maintain trusting relationships
+- Providive gratitide and knowledge to others
 
 #### Scoring Leadership Principles  
 
