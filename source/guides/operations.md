@@ -1,8 +1,16 @@
 The following work-in-progress V2MOMs and playbooks summarize our strategy and business operations.  
 
-# Company  
+## Company  
 
-- [Mattermost V2MOM - New Collaboration for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.dxx7gyj71ixf) 
+- [Mattermost FY2020 V2MOM - Be the #1 high trust open core DevOps collaboration platform](http://handbook.mattermost.com/leadership/company-v2mom.html) 
+
+## Leadership Meetings
+
+- [Guide](http://handbook.mattermost.com/guides/leadership-meetings.html) providing the objective, time and process for leadership meetings.
+
+----
+
+The following work-in-progress V2MOMs and playbooks summarize our strategy and business operations within each department.
 
 ## Product
 
@@ -43,6 +51,3 @@ The following work-in-progress V2MOMs and playbooks summarize our strategy and b
   - Development: [Manager Expectations](http://handbook.mattermost.com/people/manager-expectations.html), [Performance Review Process](http://handbook.mattermost.com/people/performance-reviews.html), [Annual Performance Review Template](https://docs.google.com/document/d/1C1BY8h6dZVQIuQd_vxRy1S-3f1lhAdtM5frIATmUG5A/edit?ts=5bf46661#heading=h.hu5vu6dn98iw) 
   - Hiring: [Auditions](http://handbook.mattermost.com/guides/audition.html), U.S. Employees (TBD), Canadian Employees (TBD), Non-U.S./Canadian Fulltime Staff (TBD)   
 
-## Leadership Meetings
-
-- [Guide](http://handbook.mattermost.com/guides/leadership-meetings.html) providing the objective, time and process for leadership meetings.
