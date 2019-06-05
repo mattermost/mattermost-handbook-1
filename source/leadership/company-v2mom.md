@@ -6,7 +6,7 @@
 
 ## Values
 
-- Best people for function and culture - High performance, remote first
+- Best people for function and culture - High performance, remote-first
 - Openly document DevOps, product, and workplace
 - Time to value - Deliver value to customers and colleagues quickly
 - User experience - Easy-to-use, easy-to-work with
