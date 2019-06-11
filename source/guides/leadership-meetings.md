@@ -1,6 +1,48 @@
 # Leadership Cadence 
 
-Mattermost Leadership Team (MLT) consists of Mattermost department heads plus the CEO. Below is overview of key meetings. 
+Mattermost Leadership Team (MLT) consists of Mattermost department heads plus the CEO. 
+
+This section outlines: 
+
+- The V2MOM for MLT cadence summarizing purpose and measures   
+- The operations of administrative, tactical and strategic meetings 
+- Process for alignment and cascading communications 
+- Process for quarterly business reviews, planning and board meetings 
+
+## MLT Candence V2MOM 
+
+Vision
+
+- MLT delivers outstanding results with first-team mindset and cadence driving alignment, effectiveness and predictability
+
+Values
+
+- MLT is our first team - Prioritize company over departments. No one fails alone    
+- Alignment - MLT in sync on plan, priorities, process and progress 
+- Effectiveness - We run the company well 
+- Predictability - We make progress on plan with few preventable surprises
+
+Methods
+
+- Strategic, tactical and administrative MLT cadence 
+- Quarterly planning process (moving to halves) 
+- Quarterly business review 
+- Annual planning offsite
+- Board and adviser reviews 
+- Team leadership workshops
+- Opportunity for leadership coaching / advisers (no obligation) 
+
+Obstacles 
+
+- Need to realign natural tendency to prioritize department over company 
+- Need to make time for MLT cadence 
+
+Measures 
+
+- MLT meets and exceeds objectives 
+- Company is excited about direction and understands their contribution 
+- Measures, budget and program spend agreed and stable for the period 
+
 
 ## MLT Daily Admin 
 
