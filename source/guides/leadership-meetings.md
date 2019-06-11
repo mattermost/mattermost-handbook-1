@@ -24,13 +24,13 @@ Values
 
 Methods
 
-- Strategic, tactical and administrative MLT cadence 
-- Quarterly planning process (moving to halves) 
-- Quarterly business review 
-- Annual planning offsite
-- Board and adviser reviews 
-- Team leadership workshops
-- Opportunity for leadership coaching / advisers (no obligation) 
+- Strategic, tactical and administrative MLT cadence - Stay in sync, solve problems as a team  
+- Quarterly planning process (moving to halves) - Develop, adapt and finalize plans for next quarter 
+- Quarterly business review - As a first team, review previous quarter and align plans for current quarter 
+- Annual planning offsite - Discuss and finalize plans for the year 
+- Board and adviser reviews - Check-in with board and advisers to align on annual plans 
+- Team leadership workshops - Increase organizational health by investing in team cohension   
+- Opportunity for leadership coaching / advisers (no obligation) - Invest in our leaders
 
 Obstacles 
 
@@ -252,7 +252,22 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 ## Quarterly Business Review 
 
-- TBD 
+QBR is a checkpoint for the MLT team to increase output by: 
+
+- Reviewing progress on previous quarter's goals 
+- Reviewing goals for the current quarter 
+- Discussing cross-department dependencies 
+- Reviewing hiring plan and orgs 
+
+Each department head is asked to present for around 25 minutes on: 
+
+- Goals for previous quarter 
+- Previous quarter achievements and opportunities
+- Goals for current quarter 
+- Cross-department dependencies
+- Hiring plan and status
+
+QBR materials may be used as an input to board meeting materials 
 
 ## Board Meetings 
 
