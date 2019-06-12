@@ -1,6 +1,6 @@
 # Leadership Cadence 
 
-Mattermost Leadership Team (MLT) consists of Mattermost department heads plus the CEO. 
+Mattermost Leadership Team (MLT) consists of Mattermost department heads plus the CEO
 
 This section outlines: 
 
