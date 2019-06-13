@@ -128,7 +128,7 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 
 #### MLT Daily - 10:01am to 10:11am SF Time
 
-- Daily check-in on administrative and hot topic items  
+- Daily check-in on administrative and hot topic items, including heads ups and asks
 
 #### Scoreboard Review - 10:11am to 10:45am SF Time
 
@@ -144,7 +144,7 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 
 #### Cascading Communications - 11:20am to 11:25am SF Time
 
-- Agree on what and when to communicate to directs and rest of company
+- Agree on what and when to communicate to directs and rest of company, including Customer Obsession Meeting announcements from the CEO. If meeting ends without agreement, meeting chair notes in the `MLT: Weekly Tactical` channel with an `@all` mention.
 
 ## MLT Monthly Strategic 
 
