@@ -1,6 +1,48 @@
 # Leadership Cadence 
 
-Mattermost Leadership Team (MLT) consists of Mattermost department heads plus the CEO. Below is overview of key meetings. 
+Mattermost Leadership Team (MLT) consists of Mattermost department heads plus the CEO
+
+This section outlines: 
+
+- The V2MOM for MLT cadence summarizing purpose and measures   
+- The operations of administrative, tactical and strategic meetings 
+- Process for alignment and cascading communications 
+- Process for quarterly business reviews, planning and board meetings 
+
+## MLT Candence V2MOM 
+
+Vision
+
+- MLT delivers outstanding results with first-team mindset and cadence driving alignment, effectiveness and predictability
+
+Values
+
+- MLT is our first team - Prioritize company over departments. No one fails alone    
+- Alignment - MLT in sync on plan, priorities, process and progress 
+- Effectiveness - We run the company well 
+- Predictability - We make progress on plan with few preventable surprises
+
+Methods
+
+- Strategic, tactical and administrative MLT cadence - Stay in sync, solve problems as a team  
+- Quarterly planning process (moving to halves) - Develop, adapt and finalize plans for next quarter 
+- Quarterly business review - As a first team, review previous quarter and align plans for current quarter 
+- Annual planning offsite - Discuss and finalize plans for the year 
+- Board and adviser reviews - Check-in with board and advisers to align on annual plans 
+- Team leadership workshops - Increase organizational health by investing in team cohension   
+- Opportunity for leadership coaching / advisers (no obligation) - Invest in our leaders
+
+Obstacles 
+
+- Need to realign natural tendency to prioritize department over company 
+- Need to make time for MLT cadence 
+
+Measures 
+
+- MLT meets and exceeds objectives 
+- Company is excited about direction and understands their contribution 
+- Measures, budget and program spend agreed and stable for the period 
+
 
 ## MLT Daily Admin 
 
@@ -210,7 +252,22 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 ## Quarterly Business Review 
 
-- TBD 
+QBR is a checkpoint for the MLT team to increase output by: 
+
+- Reviewing progress on previous quarter's goals 
+- Reviewing goals for the current quarter 
+- Discussing cross-department dependencies 
+- Reviewing hiring plan and orgs 
+
+Each department head is asked to present for around 25 minutes on: 
+
+- Goals for previous quarter 
+- Previous quarter achievements and opportunities
+- Goals for current quarter 
+- Cross-department dependencies
+- Hiring plan and status
+
+QBR materials may be used as an input to board meeting materials 
 
 ## Board Meetings 
 
