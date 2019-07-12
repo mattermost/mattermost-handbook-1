@@ -1,10 +1,12 @@
+## Operations
+
 The following work-in-progress V2MOMs and playbooks summarize our strategy and business operations.  
 
-## Company  
+### Company  
 
 - [Mattermost FY2020 V2MOM - Be the #1 high trust open core DevOps collaboration platform](http://handbook.mattermost.com/leadership/company-v2mom.html) 
 
-## Leadership Meetings
+### Leadership Meetings
 
 - [Guide](http://handbook.mattermost.com/guides/leadership-meetings.html) providing the objective, time and process for leadership meetings.
 
@@ -12,29 +14,29 @@ The following work-in-progress V2MOMs and playbooks summarize our strategy and b
 
 The following work-in-progress V2MOMs and playbooks summarize our strategy and business operations within each department.
 
-## Product
+### Product
 
 - [Product V2MOM - Irresitable Solution and Platform for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h)  
 
-## Community 
+### Community 
 
 - [Community V2MOM - Massive Community Momentum](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.gpdj7j670rwj) 
 
-## Demand Generation 
+### Demand Generation 
 
 - [Demand Generation V2MOM - Monster Pipeline](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.h0etjzlw92y3) 
 
-## Sales 
+### Sales 
 
 - [Sales V2MOM - Rapid, Repeatable, Predictable New Customer Growth](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.xae7fijadf4n) 
 - [Operating Metrics Definitions](https://docs.google.com/document/d/1aKJrJ7VBf6lGzYNe2xpsTaAfUjw_3Pv1TBRw5XhRCs0/edit?usp=sharing)
 - [Salesforce.com Field Definitions](https://docs.google.com/document/d/1FIoKrd1yEqmS_opi1jxXOEbhxx88N0WVZBsjWO_abow/edit?usp=sharing)
 
-## Customer Success 
+### Customer Success 
 
 - [Customer Success V2MOM - Fanatical, Lifetime Customers Who Promote Us](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ltri8ltmnam9) 
 
-## Finance and Operations 
+### Finance and Operations 
 
 - [Finance and Operations V2MOM - High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
   - Professional Services Procurement: [How to procure at Mattermost](http://handbook.mattermost.com/guides/procurement.html) 
@@ -44,7 +46,7 @@ The following work-in-progress V2MOMs and playbooks summarize our strategy and b
   - Reporting: [Operating Metrics](http://handbook.mattermost.com/guides/operating-metrics.html)
   - Planning, Budgeting, Forecasting: [V2MOM Process](http://handbook.mattermost.com/guides/v2mom.html) 
 
-## People 
+### People 
 
 - [People V2MOM - Scaling Team Mattermost](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.pwfphms1e2gi) 
   - HR Admin: [Onboarding Playbook](https://docs.google.com/document/d/1VajR9okB231ZACNCG5oyiIAUZBb9Hjn3qkSnJfwraEI/edit#bookmark=id.jqu3ximag4ya), [Offboarding Playbook](https://docs.google.com/document/d/1CuIne4XAxt8sWiH1wvpICjxDmmZLu57x1_ZxnytYhx4/edit#heading=h.nrzjl1py8ndw), [Human Resources Privacy Policy](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit), [Listings](https://docs.google.com/document/d/1epozNqWcKf4dRd-nJuP5RrDiNpLaYB73Q4rFwO_6hng/edit) 

@@ -4,7 +4,7 @@
    landing page.  Updates to this top-level item must also
    be transposed in the 'templates/index.html' file.
 
-Mattermost Documentation 
+Mattermost Handbook 
 ------------------------
 
 .. _`mattermost.org/download`: http://www.mattermost.org/download/
@@ -15,10 +15,10 @@ Mattermost Documentation
    :maxdepth: 1
    :glob:
 
-   About Mattermost <overview/index>
-   Leadership Principles <leadership/leadership-principles>
-   Operations <guides/operations>
-   Culture and People<guides/integration>
-   Working Remote <guides/developer>
-   Work with Us <guides/core>
+   About Mattermost <guides/about-mattermost>
+   How to Contribute <guides/how-to-contribute>
+   Culture and Standards <guides/culture-and-standards>
+   Join Us <guides/join-us>
+   Onboarding <guides/onboarding>
+   Operations <guides/operations.md>
    
