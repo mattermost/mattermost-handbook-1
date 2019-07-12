@@ -10,7 +10,7 @@ We're currently migrating material into this new company and commnuity handbook 
    :glob:
 
    /overview/mission*
-   /overview/values*
+   /overview/vision*
    /overview/leadership-principles*
    /overview/mattermost-open-source-project*
    /overview/mattermost-company*
