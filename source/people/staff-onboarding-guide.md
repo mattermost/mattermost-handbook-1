@@ -1,4 +1,4 @@
-# WIP: Onboarding at Mattermost
+# WIP: Staff Onboarding Guide
 
 ### Welcome to Mattermost
 ------------------------------------------
