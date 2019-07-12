@@ -4,7 +4,7 @@
    landing page.  Updates to this top-level item must also
    be transposed in the 'templates/index.html' file.
 
-Mattermost Documentation 
+Mattermost Handbook 
 ------------------------
 
 .. _`mattermost.org/download`: http://www.mattermost.org/download/
