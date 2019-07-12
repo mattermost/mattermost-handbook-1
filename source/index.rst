@@ -16,9 +16,9 @@ Mattermost Documentation
    :glob:
 
    About Mattermost <overview/index>
-   Leadership Principles <leadership/leadership-principles>
+   How to Contribute <guides/how-to-contribute>
+   Culture and Standards <guides/culture-and-standards>
+   Join Us <guides/join-us>
+   Onboarding <guides/onboarding>
    Operations <guides/operations>
-   Culture and People<guides/integration>
-   Working Remote <guides/developer>
-   Work with Us <guides/core>
    
