@@ -11,5 +11,5 @@ We're in the process of migrating and developing material for this handbook whic
    :maxdepth: 1
    :glob:
 
-   /join-us/why-work-here*
-   /join-us/open-roles*
+   /people/why-work-here*
+   /people/open-roles*
