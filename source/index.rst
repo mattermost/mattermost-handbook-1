@@ -20,5 +20,5 @@ Mattermost Documentation
    Culture and Standards <guides/culture-and-standards>
    Join Us <guides/join-us>
    Onboarding <guides/onboarding>
-   Operations <guides/operations>
+   Operations <guides/operations.md>
    
