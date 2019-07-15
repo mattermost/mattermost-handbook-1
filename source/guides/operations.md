@@ -16,7 +16,7 @@ The following work-in-progress V2MOMs and playbooks summarize our strategy and b
 
 ### Product
 
-- [Product V2MOM - Irresitable Solution and Platform for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h)  
+- [Product V2MOM - Irresistable Solution and Platform for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h)  
 
 ### Community 
 
