@@ -4,7 +4,20 @@ This repository generates the documentation available at http://handbook.matterm
 
 All documentation is available under the terms of a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-## Usage
+## Structure 
+
+Handbook is divided into 6 major sections: 
+
+1. About Mattermost ('about') - Core information about Mattermost mission, vision, principles and strategy
+2. Contributing ('contributors') - All the ways to contribute and be elevated and recognized (includes staff contributors) 
+3. Culture and Standards ('culture') - What it's like to contribute 
+4. Join Us ('join') - How to begin your journey of contribution and elevation 
+5. Onboarding ('onboarding') - How to onboard into our processes and culture 
+6. Operations (`sop`) - Standard Operating Procedures ("SOP") for the company aligned with strategy and plan 
+
+## Technical Guide 
+
+### Usage
 
 To generate the HTML files from markdown in the `/source` directory:
 
@@ -14,7 +27,7 @@ To generate the HTML files from markdown in the `/source` directory:
 4. Install required packages: `pipenv install`
 5. Build: `make html` - generates files in `/build` directory
 
-## Contributing
+### Contributing
 
 **How to create Pull Requests to edit or create Mattermost documentation (by community members):**
 
@@ -37,6 +50,6 @@ These steps are to be followed only in situations of urgency or in situations wh
 2. IMPORTANT: Person conducting editor review needs to have their suggestions **merged by author**. Do this by mentioning the pre-release.mattermost.com user name in the GitHub Pull Request.
 3. Check weekly or bi-weekly that there are no “Needs Editor Review” labels on closed Pull Requests.
 
-## Installation issues
+### Installation issues
 
 If you can't install sphinx on MacOS try `sudo pip install sphinx sphinx-autobuild sphinx_rtd_theme --ignore-installed six`.
