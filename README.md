@@ -8,12 +8,12 @@ All documentation is available under the terms of a [Creative Commons License](h
 
 Handbook is divided into 6 major sections: 
 
-1. About Mattermost ('about') - Core information about Mattermost mission, vision, principles and strategy
-2. Contributing ('contributors') - All the ways to contribute and be elevated and recognized (includes staff contributors) 
-3. Culture and Standards ('culture') - What it's like to contribute 
-4. Join Us ('join') - How to begin your journey of contribution and elevation 
-5. Onboarding ('onboarding') - How to onboard into our processes and culture 
-6. Operations (`sop`) - Standard Operating Procedures ("SOP") for the company aligned with strategy and plan 
+1. About Mattermost (`/about`) - Core information about Mattermost mission, vision, principles and strategy
+2. Contributing (`/contributors`) - All the ways to contribute and be elevated and recognized (includes staff contributors) 
+3. Culture and Standards (`/culture`) - What it's like to contribute 
+4. Join Us (`/join`) - How to begin your journey of contribution and elevation 
+5. Onboarding (`/onboarding`) - How to onboard into our processes and culture 
+6. Operations (`/sop`) - Standard Operating Procedures ("SOP") for the company aligned with strategy and plan 
 
 ## Technical Guide 
 
