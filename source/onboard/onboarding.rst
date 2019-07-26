@@ -1,7 +1,8 @@
 Onboarding
 ===========
 
-Overview of onboarding contributors by category 
+Overview of onboarding contributors by category
+ 
 .. toctree::
    :maxdepth: 3
    :glob:
