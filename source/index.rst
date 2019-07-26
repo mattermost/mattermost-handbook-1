@@ -15,7 +15,7 @@ Mattermost Handbook
    :maxdepth: 1
    :glob:
 
-   About Mattermost <guides/about-mattermost>
+   About Mattermost <about/about-mattermost>
    How to Contribute <guides/how-to-contribute>
    Culture and Standards <guides/culture-and-standards>
    Join Us <guides/join-us>
