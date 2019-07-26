@@ -4,7 +4,7 @@ Culture and Standards
 // XX Needs an introduction.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :glob:
 
    /culture-and-standards/culture*
