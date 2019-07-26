@@ -77,9 +77,8 @@ First Day
 
 - [ ] Meet with New Hire to review required documentation (e.g. `I-9 documents <https://www.uscis.gov/i-9>`_).
 
-First Day Checklist
+First Day Checklist (Markdown)
 
-```
 1. [ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4).
 2. [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com
 3. [ ] Download the Mattermost app on your smartphone and login to community.mattermost.com using your OneLogin account
@@ -97,7 +96,7 @@ First Day Checklist
 15.  [ ] Connect GitHub and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr) 
 16. [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so)
 
-```
+
 
 
 15. (People Ops) Sends a direct message or [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting them to create their Mattermost avatar. New Hire is also asked to review the last three recordings of the [Customer Obsession All Hands Meeting](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting) and if they would like to present their own intro or if they'd like their manager to introduce them.
