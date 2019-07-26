@@ -30,5 +30,5 @@ New Staff Responsibilities
 - [ ] Add Mattermost Time Off calendar in your Google Calendar view
 - [ ] Ask in Developers channel first; Christopher or Carlos can help if needed. Find and post your MMUSERID (in cookies or in your profile image URL, on community server), asking to have it added for `/bot-server` use"
 - [ ] Create user in https://mattermost.atlassian.net with `@mattermost.com` email address. Let Linda know when complete
-- [ ] Join test `server list <https://docs.google.com/document/d/1hNrNYRENnzAcAl-X4EfWg7opekcVLMxYCn1z-VRxVaw>`
+- [ ] Join test `server list <https://docs.google.com/document/d/1hNrNYRENnzAcAl-X4EfWg7opekcVLMxYCn1z-VRxVaw>`_
 - [ ] Explore docs and other materials
