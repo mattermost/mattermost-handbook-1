@@ -53,3 +53,11 @@ These steps are to be followed only in situations of urgency or in situations wh
 ### Installation issues
 
 If you can't install sphinx on MacOS try `sudo pip install sphinx sphinx-autobuild sphinx_rtd_theme --ignore-installed six`.
+
+
+### Changing top level folders and file names 
+
+If you're changing folders and file names make sure to: 
+
+1. Update the front page (6 tiles): https://github.com/mattermost/mattermost-handbook/blob/master/source/templates/index.html
+2. Update the left sidebar navigation: https://github.com/mattermost/mattermost-handbook/blob/master/source/index.rst
