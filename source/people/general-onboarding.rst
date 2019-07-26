@@ -70,8 +70,8 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 General Onboarding Checklist
 ---------------------------------------------------------
 
-People Team Responsibilities
-----------------------------
+**People Team Responsibilities**
+
 
  
 - [ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out New Hire's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
@@ -81,13 +81,13 @@ People Team Responsibilities
 - [ ] Send New Hire (and Manager)a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting New Hire's biography, inviting New Hire to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
 
 
-First Day
+*First Day*
 
 - [ ] Invite New Hire to `tools used across Mattermost <https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide>`_ and the `Customer Obsession Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
 - [ ] Send New Hire a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c>`_ sharing a first day checklist (below) and information about laptop setup, and gives an overview of New Hire's first week.
 - [ ] Meet with New Hire to review required documentation (e.g. `I-9 documents <https://www.uscis.gov/i-9>`_).
 
-First Week Checklist (Markdown)
+*First Week Checklist* (Markdown)
 
 1. [ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4).
 2. [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com
@@ -107,19 +107,19 @@ First Week Checklist (Markdown)
 16. [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
 
 
-Week 2
+*Week 2*
 
 - [ ] Ask New Hire to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro or if they'd like their manager to introduce them. Share decision with Meeting Chair.
 - [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am Palo Alto time, or Fridays at 8am Palo Alto time) and invite New Hire. Double-check New Hire has completed the `end user training module. <https://academy.mattermost.com/p/end-user-onboarding>`_
 - [ ] Send New Hire a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1>`_ answering frequently asked questions, sharing Mattermost's `User's Guide <https://docs.mattermost.com/guides/user.html#getting-started>`_, and suggesting `channels <https://docs.mattermost.com/process/training.html#channels>`_ the New Hire should join to get a feel for the company. 
 
 
-Week 3
+*Week 3*
 
 - [ ] Send New Hire a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars. 
 
 
-Week 4
+*Week 4*
 
 - [ ] Send New Hire (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
 
