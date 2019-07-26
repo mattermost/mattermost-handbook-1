@@ -1,10 +1,10 @@
 R&D Onboarding
 ==================================================
 
-Manager Onboarding Instructions
+Manager Responsibilities
 ---------------------------------------------------------
 
-New Staff Onboarding Guide
+New Staff Responsibilities
 ---------------------------------------------------------
 
 Product Onboarding Guide
