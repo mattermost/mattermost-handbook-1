@@ -17,6 +17,7 @@ R&D includes engineering, QA, product management, and design (UX, UI)
 - [Development & Release Process](https://docs.mattermost.com/guides/core.html#development-process): How open source software is developed  
 - [Platform Contribution Process](https://docs.mattermost.com/guides/core.html#community-process): How contributors can get involved
 - :lock: [Analytics ](https://community.mattermost.com/private-core/channels/analytics-2): Analytics playbook and data wallows
+- [WIP: Feature Idea Flow Chart](https://docs.google.com/drawings/d/1D6KiN31mhNr1A0DGGHOuu6hvS0gpDTFuftnh2yyniNQ/edit): Work-in-progress 
 
 ### Messaging and Math 
 
@@ -33,7 +34,7 @@ Messaging and Math or "M&M" is a shorthand for the areas of marketing we're focu
 ### Customer Success 
 
 - [Customer Success VPMOM - Fanatical, Lifetime Customers Who Promote Us](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ltri8ltmnam9) 
-
+- [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback): Customer feedback archive and Feature Idea Flowchart 
 ### Finance 
 
 - [Finance and Operations VPMOM - High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
