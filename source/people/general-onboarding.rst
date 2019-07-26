@@ -1,6 +1,7 @@
-====================
+==================================================
 WIP: Staff Onboarding Guide
-====================
+==================================================
+
 
 Welcome to Mattermost
 ----------------------------
@@ -18,6 +19,9 @@ Our handbook defines what it’s like to work at Mattermost, from the high level
 - `Company`_ 
 - `General Onboarding Checklist`_
 - `Departmental Onboarding Checklists`_ 
+
+.. contents::
+    :backlinks: top
 
 ---------------------------------------------------------
 Our Mission
