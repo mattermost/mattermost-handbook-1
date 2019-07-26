@@ -2,13 +2,6 @@
 WIP: Staff Onboarding Guide
 ==================================================
 
-- `Our Mission` 
-- `Leadership Principles`
-- `Products`
-- `Company`
-- `General Onboarding Checklist`
-- `Departmental Onboarding Checklists`
-
 .. contents::
     :backlinks: top
 
