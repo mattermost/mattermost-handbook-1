@@ -1,29 +1,26 @@
-## Operations
-
-The following work-in-progress VPMOMs and playbooks summarize our strategy and business operations.  
+## WIP: Operations
 
 ### Company  
 
-- [Mattermost FY2020 VPMOM - Be the #1 high trust open core DevOps collaboration platform](http://handbook.mattermost.com/leadership/company-VPMOM.html) 
-- [How to VPMOM](vpmom.md) - How we use VPMOMs to create total organizational alignment at high speed 
+- [About Mattermost](http://handbook.mattermost.com/about/about-mattermost.html): Mission, vision, company overview, history 
+- [How to VPMOM](vpmom.md): How we use VPMOMs to create total organizational alignment at high speed 
 
-### Leadership Meetings
+### Cadence 
 
-- [Guide](http://handbook.mattermost.com/leadership/leadership-meetings.html) providing the objective, time and process for leadership meetings.
+- [MLT Cadence](http://handbook.mattermost.com/leadership/leadership-meetings.html): Cadence of Mattermost Leadership Team to develop company strategy, plan, review and adapt. 
 
------
+### R&D 
 
-The following work-in-progress VPMOMs and playbooks summarize our strategy and business operations within each department.
+R&D includes engineering, QA, product management, and design (UX, UI) 
 
-### Product
-
-- [Product VPMOM - Irresistable Solution and Platform for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h)  
-
-### Community 
-
-- [Community VPMOM - Massive Community Momentum](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.gpdj7j670rwj) 
+- [Product VPMOM](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h): Irresistable Solution and Platform for High Trust Teams  
+- [Development & Release Process](https://docs.mattermost.com/guides/core.html#development-process): How open source software is developed  
+- [Platform Contribution Process](https://docs.mattermost.com/guides/core.html#community-process): How contributors can get involved
+- :lock: [Analytics ](https://community.mattermost.com/private-core/channels/analytics-2): Analytics playbook and data wallows
 
 ### Messaging and Math 
+
+Messaging and Math or "M&M" is a shorthand for the areas of marketing we're focus on. 
 
 - [Demand Generation VPMOM - Monster Pipeline](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.h0etjzlw92y3) 
 
@@ -51,7 +48,10 @@ The following work-in-progress VPMOMs and playbooks summarize our strategy and b
 
 ### Contributors  
 
-- [People VPMOM - Scaling Team Mattermost](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.pwfphms1e2gi) 
+- [Contribtors VPMOM - Massive Community Momentum](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.gpdj7j670rwj) 
+
+
+- [Staff VPMOM - Scaling Team Mattermost](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.pwfphms1e2gi) 
   - HR Admin: [Onboarding Playbook](https://docs.google.com/document/d/1VajR9okB231ZACNCG5oyiIAUZBb9Hjn3qkSnJfwraEI/edit#bookmark=id.jqu3ximag4ya), [Offboarding Playbook](https://docs.google.com/document/d/1CuIne4XAxt8sWiH1wvpICjxDmmZLu57x1_ZxnytYhx4/edit#heading=h.nrzjl1py8ndw), [Human Resources Privacy Policy](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit), [Listings](https://docs.google.com/document/d/1epozNqWcKf4dRd-nJuP5RrDiNpLaYB73Q4rFwO_6hng/edit) 
   - Development: [Manager Expectations](http://handbook.mattermost.com/people/manager-expectations.html), [Performance Review Process](http://handbook.mattermost.com/people/performance-reviews.html), [Annual Performance Review Template](https://docs.google.com/document/d/1C1BY8h6dZVQIuQd_vxRy1S-3f1lhAdtM5frIATmUG5A/edit?ts=5bf46661#heading=h.hu5vu6dn98iw) 
   - Hiring: [Auditions](http://handbook.mattermost.com/people/audition.html), U.S. Employees (TBD), Canadian Employees (TBD), Non-U.S./Canadian Fulltime Staff (TBD)   
