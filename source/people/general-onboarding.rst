@@ -69,30 +69,14 @@ Before start date
 - [ ] Send New Hire a welcome package containing Mattermost branded goodies.
 - [ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
 - [ ] Send New Hire (and Manager)a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting New Hire's biography, inviting New Hire to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
+- [ ] Send New Hire a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c>` sharing a first day checklist and information about laptop setup, and gives an overview of New Hire's first week.
+- [ ] Invite New Hire to `tools used across Mattermost <https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide>`_ and the `Customer Obsession Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
 
-T-minus 1 week
-----------------------------
 
-6. (People Ops & Hiring Manager) Meet to discuss New Hire's onboarding plan, including tools needed.
+First Day
 
-T-minus 2 days
-----------------------------
 
-7. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c) sharing a first day checklist and information about laptop setup, and gives an overview of New Hire's first week.
-8. (People Ops & Hiring Manager) Invite New Hire to [tools used across Mattermost](https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide), and tools used in their department.
-9. (Hiring Manager) Invites New Hire to departmental and 1:1 meetings.
-10. (People Ops) Invites New Hire to Customer Obsession and Platform meetings.
 
-T-minus 1 day
-----------------------------
-
-11. (New Hire) Sets up laptop and accepts invitations to tools and meetings.
-
-First Day at Mattermost
-----------------------------
-
-1. (People Ops)  Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering frequently asked questions, sharing Mattermost's [User's Guide](https://docs.mattermost.com/guides/user.html#getting-started), and suggesting channels the New Hire should join to get a feel for the company. People Ops also sends New Hire a message on Mattermost with the email formatted using Markdown.
-2. (People Ops) Meets with New Hire to make sure they feel welcome, have access to all tools needed, and get an overview of Mattermost's most important features. New Hire is also invited to complete [End User Onboarding](https://academy.mattermost.com/p/end-user-onboarding) training through Mattermost Academy.
 3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
 4. (New Hire) Joins Mattermost and uses firstname.lastname as their username, adds full name, job title, and a photograph to their profile.
 5. (Hiring Manager) Meets with New Hire to set expectations for the week, introduce them to their Buddy, share the 30/60/90 plan draft process [TEMPLATE NEEDED] and answer any questions.
@@ -121,6 +105,9 @@ Days 6-10
 Days 11-29
 ----------------------------
 22. (Executive Team) Meets with New Hire as a group to share more about themselves, their department and why they came to work at Mattermost.
+
+1. (People Ops)  Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering frequently asked questions, sharing Mattermost's [User's Guide](https://docs.mattermost.com/guides/user.html#getting-started), and suggesting channels the New Hire should join to get a feel for the company. People Ops also sends New Hire a message on Mattermost with the email formatted using Markdown.
+2. (People Ops) Meets with New Hire to make sure they feel welcome, have access to all tools needed, and get an overview of Mattermost's most important features. New Hire is also invited to complete [End User Onboarding](https://academy.mattermost.com/p/end-user-onboarding) training through Mattermost Academy.
 
 
 Day 30
