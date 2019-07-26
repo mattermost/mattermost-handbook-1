@@ -112,3 +112,6 @@ Week 4
 
 - [ ] Send New Hire (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
 
+Departmental Onboarding Checklists
+----------------------------
+
