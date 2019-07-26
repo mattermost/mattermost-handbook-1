@@ -20,9 +20,8 @@ Manager Responsibilities
 New Staff Responsibilities
 ---------------------------------------------------------
 
-- [ ] Set up (or update) user on community.mattermost.com
 - [ ] Join public channels on Contributors team
-- [ ] Set up Mattermost OneLogin
+- [ ] Set up Mattermost OneLogin and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. For more information, click `here. <https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4>`_
 - [ ] Login to VPN
 - [ ] Install Mattermost desktop app
 - [ ] Get on internal tester lists and install Mattermost mobile (RN) apps 
