@@ -33,9 +33,9 @@ Messaging and Math or "M&M" is a shorthand for the areas of marketing we're focu
 
 ### Sales 
 
-- [Sales VPMOM - Rapid, Repeatable, Predictable New Customer Growth](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.xae7fijadf4n) 
-- [Operating Metrics Definitions](https://docs.google.com/document/d/1aKJrJ7VBf6lGzYNe2xpsTaAfUjw_3Pv1TBRw5XhRCs0/edit?usp=sharing)
-- [Salesforce.com Field Definitions](https://docs.google.com/document/d/1FIoKrd1yEqmS_opi1jxXOEbhxx88N0WVZBsjWO_abow/edit?usp=sharing)
+- [Sales VPMOM](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.xae7fijadf4n): Rapid, Repeatable, Predictable New Customer Growth 
+- [Operating Metrics](https://docs.google.com/document/d/1aKJrJ7VBf6lGzYNe2xpsTaAfUjw_3Pv1TBRw5XhRCs0/edit?usp=sharing): Definitions of what to achieve 
+- [Salesforce.com Field Definitions](https://docs.google.com/document/d/1FIoKrd1yEqmS_opi1jxXOEbhxx88N0WVZBsjWO_abow/edit?usp=sharing): Definitions as implemented in Salesforce
 
 ### Customer Success 
 
