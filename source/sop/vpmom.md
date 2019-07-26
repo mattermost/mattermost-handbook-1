@@ -49,4 +49,10 @@ Measures
 
 ```
 
-VPMOMs are based off of [V2MOMs created in 1999 by Marc Benioff](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html) to align the efforts at Salesforce.com. We use VPMOMs instead of V2MOMs for a number of reasons, including 1) VPMOMs use the label "Priorities" rather than "Values" to more clearly differentiate the Priorities of a specific VPMOM from core values of a company, 2) "V2MOMs" have been inconsistently implemented and blogged about, which creates confusion when new hires try to learn more about how to implement them correctly. VPMOMs enable Mattermost to consistently apply its specific implementation of V2MOM.  
+# History 
+
+VPMOMs are based off of [V2MOMs created in 1999 by Marc Benioff](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html) to align the efforts at Salesforce.com. 
+
+We use VPMOMs instead of V2MOMs for a number of reasons, including 1) VPMOMs use the label "Priorities" rather than "Values" to more clearly differentiate the Priorities of a specific VPMOM from core values of a company, 2) "V2MOMs" have been inconsistently implemented and blogged about, which creates confusion when new hires try to learn more about how to implement them correctly. VPMOMs enable Mattermost to consistently apply its specific implementation of V2MOM.  
+
+Some departments may use other methodologies, such as OKRs, which is fine so long as the MLT level VPMOMs are used. 
