@@ -1,3 +1,4 @@
+====================
 WIP: Staff Onboarding Guide
 ====================
 
@@ -11,10 +12,19 @@ How to use our Handbook
 
 Our handbook defines what it’s like to work at Mattermost, from the high level to specific operating procedures. If you’re new, you’ll start with our onboarding guides.
 
+- `Our Mission`_ 
+- `Leadership Principles`_
+- `Products`_ 
+- `Company`_ 
+- `General Onboarding Checklist`_
+- `Departmental Onboarding Checklists`_ 
+
+---------------------------------------------------------
 Our Mission
 ----------------------------
 Our mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible and offers fast time-to-value.
 
+---------------------------------------------------------
 Leadership Principles 
 ----------------------------
 
@@ -32,6 +42,7 @@ Leadership principles are deliberate choices defining our behavior. When facing 
 
 - **Earn Trust** — Make decisions based on maximizing the trust of others in your judgment. Be open, self-critical and factual.
 
+---------------------------------------------------------
 Products
 ----------------------------
 
@@ -41,6 +52,7 @@ Mattermost Enterprise Editions, which are commercial extensions built on top of 
 
 For more information, see our `Product Overview <https://docs.mattermost.com/overview/product.html>`_.
 
+---------------------------------------------------------
 Company 
 ---------------------------- 
 
@@ -56,6 +68,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at https://community.mattermost.com. Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive. 
 
+---------------------------------------------------------
 General Onboarding Checklist
 ----------------------------
 
@@ -112,6 +125,7 @@ Week 4
 
 - [ ] Send New Hire (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
 
+---------------------------------------------------------
 Departmental Onboarding Checklists
 ----------------------------
 
