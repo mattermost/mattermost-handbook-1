@@ -112,20 +112,3 @@ Week 4
 
 - [ ] Send New Hire (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
 
-
-Days 50-59
-----------------------------
-25. (Hiring Manager) Initiates 360 review [TEMPLATE NEEDED] of New Hire, which is 4-5 questions asked of peers (and direct reports, if applicable) to see how New Hire is doing.
-
-
-Day 60
-----------------------------
-
-26. (Hiring Manager) Meets with New Hire for a check in meeting and reviews results of 360 review.
-
-Day 90
-----------------------------
-
-27. (Hiring Manager) Meets with New Hire for a check in meeting and informal performance review [TEMPLATE NEEDED].
-28. (People Ops) Sends New Hire the [Staff Enablement survey](https://docs.google.com/forms/d/e/1FAIpQLSdAtSUG1Sw2AUAajnGrGKg1eHafj9NlINaXcVbgcte9EHWHQg/viewform?usp=sf_link).
-29. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
