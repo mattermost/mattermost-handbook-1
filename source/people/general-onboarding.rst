@@ -39,20 +39,20 @@ Mattermost Team Edition under MIT license and the Mattermost open source project
 
 Mattermost Enterprise Editions, which are commercial extensions built on top of the Mattermost open source projects, are developed, supported and sold by Mattermost, Inc.
 
-For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html).
+For more information, see our `Product Overview <https://docs.mattermost.com/overview/product.html>`_.
 
 Company 
 ---------------------------- 
 
 Mattermost is an open source, remote-first, communities-centered company based in Palo Alto, California and headquartered on the internet. 
 
-**Open source** means that by default we make our technology, business process and source code available to the public. We develop a small portion as proprietary technology, built upon our open source work, to license for subscription fees that enable more high quality open source work to be produced. Since the start of the Mattermost open source project in 2015, we have used this model to develop effective open source solutions for the world to use. This model is sometimes called [Thin Open Core](https://medium.com/open-consensus/2-open-core-definition-examples-tradeoffs-e4d0c044da7c).
+**Open source** means that by default we make our technology, business process and source code available to the public. We develop a small portion as proprietary technology, built upon our open source work, to license for subscription fees that enable more high quality open source work to be produced. Since the start of the Mattermost open source project in 2015, we have used this model to develop effective open source solutions for the world to use. This model is sometimes called `Thin Open Core <https://medium.com/open-consensus/2-open-core-definition-examples-tradeoffs-e4d0c044da7c>`_.
 
 **Remote-first** means that by default our staff works anywhere in the world where a) we have support for quality video calling and b) where we can work in a legally appropriate environment. Mattermost was born in an extraordinary age where organizations can attract, hire and enable remote teams--working from homes, coffee shops and co-working spaces across timezones--to produce better technology and business results in less time than purely office-based teams, while maintaining security and compliance standards. 
 
 Remote-first culture flourishes when we share one simple principle: **Courtesy**. Courtesy means Mattermosters are thoughtful about keeping our communities appropriately informed, following etiquette for discussions, calls and video meetings, and giving and receiving feedback on how to work better together. Courtesy also means we gladly accommodate those who prefer to work out of a dedicated office. We are remote-first, not remote-only.
 
-**Communities-centered** means we define our success in the context of the success of our [communities](https://docs.mattermost.com/process/community-overview.html): users, customers, implementers, resellers, technology partners, contributors, and colleagues. The success of each community is owned by a member of the Mattermost leadership team. The plural definition of "communities" is intended to avoid unconsciously marginalizing downstream stakeholders. 
+**Communities-centered** means we define our success in the context of the success of our `communities <https://docs.mattermost.com/process/community-overview.html>`_: users, customers, implementers, resellers, technology partners, contributors, and colleagues. The success of each community is owned by a member of the Mattermost leadership team. The plural definition of "communities" is intended to avoid unconsciously marginalizing downstream stakeholders. 
 
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at https://community.mattermost.com. Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive. 
 
@@ -64,11 +64,11 @@ People Team Responsibilities
 
 Before start date
  
-[ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out New Hire's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
-[ ]  Send New Hire the `Mattermost email agreement <https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing>`_ via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
-[ ] Send New Hire a welcome package containing Mattermost branded goodies.
-[ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
-[ ] Send New Hire (and Manager)a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting New Hire's biography, inviting New Hire to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
+- [ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out New Hire's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
+- [ ]  Send New Hire the `Mattermost email agreement <https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing>`_ via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
+- [ ] Send New Hire a welcome package containing Mattermost branded goodies.
+- [ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
+- [ ] Send New Hire (and Manager)a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting New Hire's biography, inviting New Hire to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
 
 T-minus 1 week
 ----------------------------
