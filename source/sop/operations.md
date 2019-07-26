@@ -24,6 +24,7 @@ R&D includes engineering, QA, product management, and design (UX, UI)
 Messaging and Math or "M&M" is a shorthand for the areas of marketing we're focus on. 
 
 - [Demand Generation VPMOM - Monster Pipeline](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.h0etjzlw92y3) 
+- [Customer References](https://community.mattermost.com/private-core/channels/customer-references): Tracking sheet, discussion, ask templates
 
 ### Sales 
 
