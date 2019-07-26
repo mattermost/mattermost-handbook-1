@@ -1,1 +1,1 @@
-`Staff <https://developers.mattermost.com/contribute/getting-started/core-committers/>`_
+`R&D Staff <https://developers.mattermost.com/contribute/getting-started/core-committers/>`_
