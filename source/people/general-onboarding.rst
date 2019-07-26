@@ -2,6 +2,15 @@
 WIP: Staff Onboarding Guide
 ==================================================
 
+- `Our Mission`_ 
+- `Leadership Principles`_
+- `Products`_ 
+- `Company`_ 
+- `General Onboarding Checklist`_
+- `Departmental Onboarding Checklists`_ 
+
+.. contents::
+    :backlinks: top
 
 Welcome to Mattermost
 ----------------------------
@@ -12,16 +21,6 @@ How to use our Handbook
 ----------------------------
 
 Our handbook defines what it’s like to work at Mattermost, from the high level to specific operating procedures. If you’re new, you’ll start with our onboarding guides.
-
-- `Our Mission`_ 
-- `Leadership Principles`_
-- `Products`_ 
-- `Company`_ 
-- `General Onboarding Checklist`_
-- `Departmental Onboarding Checklists`_ 
-
-.. contents::
-    :backlinks: top
 
 ---------------------------------------------------------
 Our Mission
