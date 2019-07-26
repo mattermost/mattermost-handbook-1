@@ -112,6 +112,7 @@ General Onboarding Checklist
 - [ ] Ask New Hire to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro or if they'd like their manager to introduce them. Share decision with Meeting Chair.
 - [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am or Fridays at 8am Palo Alto time) and invite New Hire. Double-check New Hire has completed the `end user training module. <https://academy.mattermost.com/p/end-user-onboarding>`_
 - [ ] Send New Hire a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1>`_ answering frequently asked questions, sharing Mattermost's `User's Guide <https://docs.mattermost.com/guides/user.html#getting-started>`_, and suggesting `channels <https://docs.mattermost.com/process/training.html#channels>`_ the New Hire should join to get a feel for the company. 
+- [ ] Encourage (non-dev) New Hire to review the `Code Contribution Guidelines <https://www.mattermost.org/contribute-to-mattermost/>`_ to learn how to contribute to Mattermost to receive a personalized Mattermug. 
 
 
 *Week 3*
