@@ -164,33 +164,3 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 27. (Hiring Manager) Meets with New Hire for a check in meeting and informal performance review [TEMPLATE NEEDED].
 28. (People Ops) Sends New Hire the [Staff Enablement survey](https://docs.google.com/forms/d/e/1FAIpQLSdAtSUG1Sw2AUAajnGrGKg1eHafj9NlINaXcVbgcte9EHWHQg/viewform?usp=sf_link).
 29. (People Ops) Sends New Hire a second [onboarding survey](https://goo.gl/forms/038q5Hdw4qZb0uYz1).
-
-## Departmental Onboarding
-
-### Sales
-------------------------------------------
-
-#### Solution Architects
-
-https://docs.google.com/document/d/1c3xlnpOg2GcQnieq5qTb-dis64-klJX7kyS_shxwFeY/edit#heading=h.klit764042ik
-
-
-### Marketing
-------------------------------------------
-
-### Finance
-------------------------------------------
-
-### R&D
-------------------------------------------
-
-Developer onboarding guide: http://mattermost-developer-documentation.s3-website-us-east-1.amazonaws.com/branches/master/internal/onboarding/new-staff-guide/
-
-In progress onboarding timeline: https://docs.google.com/document/d/14jsUJgGO4j5f4B6bPVCIC1y9yXy43rmAFI0F5MJsuE0/edit
-
-### Product
-------------------------------------------
-
-## Executive Onboarding
-
-See: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/exec-recruiting.md#wip-executive-onboarding
