@@ -56,21 +56,19 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at https://community.mattermost.com. Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive. 
 
-General Onboarding
+General Onboarding Checklist
 ----------------------------
 
-T-minus 3 weeks
+People Team Responsibilities
 ----------------------------
+
+Before start date
  
-1. (People Ops) Sends an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd) to find out New Hire's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
-2. (People Ops) Sends the [Mattermost email agreement](https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing) via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
-3. (People Ops) Sends New Hire a welcome package containing Mattermost branded goodies.
-
-T-minus 2 weeks
-----------------------------
-
-4. (Head of HR) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9) about payroll and benefits.
-5. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91) requesting New Hire's biography, inviting New Hire to the Mattermost [demo](https://mattermost.com/demo/) and sharing more about [working at Mattermost](https://docs.mattermost.com/process/working-at-mattermost.html), including our [leadership principles](https://mattermost.com/about-us/).
+[ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out New Hire's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
+[ ]  Send New Hire the `Mattermost email agreement <https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing>`_ via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
+[ ] Send New Hire a welcome package containing Mattermost branded goodies.
+[ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
+[ ] Send New Hire (and Manager)a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting New Hire's biography, inviting New Hire to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
 
 T-minus 1 week
 ----------------------------
