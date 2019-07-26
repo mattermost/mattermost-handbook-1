@@ -127,7 +127,7 @@ General Onboarding Checklist
 Departmental Onboarding Checklists
 ---------------------------------------------------------
 
-- Placeholder for links to R&D, Sales, Marketing, People and G&A checklists
+[Placeholder for links to R&D, Sales, Marketing, People and G&A checklists]
 
 
 - R&D onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/r&d-onboarding.rst
