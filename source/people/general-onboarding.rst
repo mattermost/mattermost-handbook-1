@@ -99,22 +99,19 @@ First Week Checklist (Markdown)
 Week 2
 
 - [ ] Ask New Hire to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro or if they'd like their manager to introduce them. Share decision with Meeting Chair.
-- [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am Palo Alto time, or Fridays at 8am Palo Alto time) and invite New Hire.
+- [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am Palo Alto time, or Fridays at 8am Palo Alto time) and invite New Hire. Double-check New Hire has completed the `end user training module. <https://academy.mattermost.com/p/end-user-onboarding>`_
 - [ ] Send New Hire a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1>`_ answering frequently asked questions, sharing Mattermost's `User's Guide <https://docs.mattermost.com/guides/user.html#getting-started>`_, and suggesting `channels <https://docs.mattermost.com/process/training.html#channels>`_ the New Hire should join to get a feel for the company. 
 
 
 Week 3
 
-- [ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars. 
+- [ ] Send New Hire a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars. 
 
 
 Week 4
 
 - [ ] Send New Hire (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
 
-
-23. (People Ops) Sends New Hire an [onboarding survey](https://goo.gl/forms/7Ettz9814uiLfxov1) to measure effectiveness of onboarding and improve for future new hires.
-24. (Hiring Manager) Meets with New Hire for a check in meeting to see if they are on track with their 30/60/90 goals.
 
 Days 50-59
 ----------------------------
