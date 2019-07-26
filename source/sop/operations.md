@@ -5,7 +5,7 @@ The following work-in-progress VPMOMs and playbooks summarize our strategy and b
 ### Company  
 
 - [Mattermost FY2020 VPMOM - Be the #1 high trust open core DevOps collaboration platform](http://handbook.mattermost.com/leadership/company-VPMOM.html) 
-
+- [How to VPMOM](vpmom.md) - How we use VPMOMs to create total organizational alignment at high speed 
 ### Leadership Meetings
 
 - [Guide](http://handbook.mattermost.com/leadership/leadership-meetings.html) providing the objective, time and process for leadership meetings.
