@@ -1,19 +1,13 @@
 ## Operations
 
-The following work-in-progress VPMOMs and playbooks summarize our strategy and business operations.  
-
 ### Company  
 
-- [Mattermost FY2020 VPMOM - Be the #1 high trust open core DevOps collaboration platform](http://handbook.mattermost.com/leadership/company-VPMOM.html) 
+- [About Mattermost](http://handbook.mattermost.com/about/about-mattermost.html): Mission, vision, company overview, history 
 - [How to VPMOM](vpmom.md) - How we use VPMOMs to create total organizational alignment at high speed 
 
-### Leadership Meetings
+### Cadence 
 
-- [Guide](http://handbook.mattermost.com/leadership/leadership-meetings.html) providing the objective, time and process for leadership meetings.
-
------
-
-The following work-in-progress VPMOMs and playbooks summarize our strategy and business operations within each department.
+- [MLT Cadence](http://handbook.mattermost.com/leadership/leadership-meetings.html): Cadence of Mattermost Leadership Team to develop company strategy, plan, review and adapt. 
 
 ### Product
 
