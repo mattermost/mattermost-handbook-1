@@ -63,7 +63,13 @@ If you can't install sphinx on MacOS try `sudo pip install sphinx sphinx-autobui
 3. If there is one or more, review the changes to see if you can find a fix for it.
 4. If you cannot find a fix, reach out to the R&D Infra team [in the IST Infra/Sec Team channel](https://community-release.mattermost.com/private-core/channels/infrasec-team) and ask for help. [Here's the list of current members of the Infra team](https://developers.mattermost.com/internal/rd-teams/#ops-infra-team).
 
-### How to change top level folders and file names?
+### How do I create a page that appears in left sidebar navigation?
+
+1. Identify which section you want to add the new page to, e.g. "About Mattermost".
+2. Locate the file that manages the left sidebar TOC of that section, e.g. `about/about-mattermost`. The locations can be found at https://github.com/mattermost/mattermost-handbook/blob/master/source/index.rst
+3. Add the new page to the TOC.
+
+### How do I change top level folders and file names?
 
 If you're changing folders and file names make sure to: 
 
