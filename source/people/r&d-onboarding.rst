@@ -1,1 +1,1 @@
-- _`Staff <https://developers.mattermost.com/contribute/getting-started/core-committers/>`_
+_`Staff <https://developers.mattermost.com/contribute/getting-started/core-committers/>`
