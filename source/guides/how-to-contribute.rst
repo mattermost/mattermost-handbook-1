@@ -1,6 +1,10 @@
 How to Contribute
 =======================
 
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
 // XX Needs an introduction.
 
 Community and Contributors

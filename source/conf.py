@@ -16,7 +16,7 @@ import sys
 import os
 import shlex
 from recommonmark.parser import CommonMarkParser
-from recommonmark.transform import AutoStructify
+from recommo nmark.transform import AutoStructify
 
 def setup(app):
     app.add_config_value('recommonmark_config', {
@@ -61,7 +61,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Mattermost'
-copyright = u'2015-2018 Mattermost'
+copyright = u'2015-2019 Mattermost'
 author = u'Mattermost'
 
 # The version info for the project you're documenting, acts as replacement for
