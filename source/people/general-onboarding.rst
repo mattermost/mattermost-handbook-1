@@ -62,56 +62,52 @@ General Onboarding Checklist
 People Team Responsibilities
 ----------------------------
 
-Before start date
  
 - [ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out New Hire's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
 - [ ]  Send New Hire the `Mattermost email agreement <https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing>`_ via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
 - [ ] Send New Hire a welcome package containing Mattermost branded goodies.
 - [ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
 - [ ] Send New Hire (and Manager)a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting New Hire's biography, inviting New Hire to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
-- [ ] Send New Hire a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c>`_ sharing a first day checklist (below) and information about laptop setup, and gives an overview of New Hire's first week.
-- [ ] Invite New Hire to `tools used across Mattermost <https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide>`_ and the `Customer Obsession Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
 
 
 First Day
 
+- [ ] Invite New Hire to `tools used across Mattermost <https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide>`_ and the `Customer Obsession Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
+- [ ] Send New Hire a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c>`_ sharing a first day checklist (below) and information about laptop setup, and gives an overview of New Hire's first week.
 - [ ] Meet with New Hire to review required documentation (e.g. `I-9 documents <https://www.uscis.gov/i-9>`_).
 
-First Day Checklist (Markdown)
+First Week Checklist (Markdown)
 
 1. [ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4).
 2. [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com
 3. [ ] Download the Mattermost app on your smartphone and login to community.mattermost.com using your OneLogin account
-4. [ ] Share your bio with `@timothy.quock` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team)
+4. [ ] Share your bio with `@[add manager name]` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team).
 5. [ ] Read about the [`Customer Obsession All Hands Meeting`](https://community-daily.mattermost.com/private-core/channels/cust-obs-meeting): https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting
 6. [ ] Register your laptop and any other Mattermost-issued equipment [here](https://forms.gle/yBkZo36hzzo8dsbKA).
 7. [ ] Set up your email signature. [Here's how](https://docs.google.com/document/d/1KNfyWl40S6LcpZ4lk7ntiBeB0HBiQKAHuCAPFW1J0Zo/edit).
 8. [ ] Activate your Zoom account. 
 9. [ ] Activate your LastPass account.
-10. [ ] Claim your Office365 account and download to your computer. Instructions [here](https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-US&rs=en-US&ad=US#InstallSteps=Install_on_a_Mac).
-11. [ ] Review our data privacy policy [here](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit).
+10. [ ] Activate your Office365 account and download to your computer. Instructions [here](https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-US&rs=en-US&ad=US#InstallSteps=Install_on_a_Mac).
+11. [ ] Review our privacy policy [here](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit).
 12. [ ] Join GitHub with your @mattermost email and contact Carlos (`@cpanato`) to be added to the Mattermost GitHub organization. Or, if you currently have a GitHub profile, contact Carlos (`@cpanato`) to be added to the Mattermost GitHub organization.
 13. [ ] Join GitLab with your @mattermost email and contact @hanna.park to be added to the Mattermost group
 14. [ ] Read about the [`R&D Meeting`](https://community-daily.mattermost.com/private-core/channels/platform-meeting) and let us know if you'd be OK doing an icebreaker in a future meeting: https://docs.mattermost.com/process/training.html#ice-breaker
-15.  [ ] Connect GitHub and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr) 
-16. [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so)
+15. [ ] Connect your GitHub account and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr) 
+16. [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
+
+
+Week 2
+
+- [ ] Ask New Hire to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro or if they'd like their manager to introduce them.
+- [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am Palo Alto time, or Fridays at 8am Palo Alto time) and invite New Hire.
+- [ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars. 
 
 
 
-
-15. (People Ops) Sends a direct message or [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting them to create their Mattermost avatar. New Hire is also asked to review the last three recordings of the [Customer Obsession All Hands Meeting](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting) and if they would like to present their own intro or if they'd like their manager to introduce them.
-16. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
-17. (Product Manager or Solution Architect) Holds FAQ session on the product.
-18. (Hiring Manager) Meets with New Hire to check in.
-
-Days 6-10
-----------------------------
+Week 3
 
 
-19. (CEO) Meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
-20. (Hiring Manager) Meets with New Hire to finalize 30/60/90 day plan. Introduces New Hire to entire team during the Customer Obsession meeting.
-21. (Head of HR) (Optional) Meets with New Hire if first day meeting did not occur.
-10. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and [staff email list](https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066) and describing how to view other staff members' calendars. 
+10. (People Ops) 
 
 Days 11-29
 ----------------------------
@@ -120,6 +116,8 @@ Days 11-29
 1. (People Ops)  Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering frequently asked questions, sharing Mattermost's [User's Guide](https://docs.mattermost.com/guides/user.html#getting-started), and suggesting channels the New Hire should join to get a feel for the company. People Ops also sends New Hire a message on Mattermost with the email formatted using Markdown.
 2. (People Ops) Meets with New Hire to make sure they feel welcome, have access to all tools needed, and get an overview of Mattermost's most important features. New Hire is also invited to complete [End User Onboarding](https://academy.mattermost.com/p/end-user-onboarding) training through Mattermost Academy.
 
+Week 4
+- [ ] Sends New Hire (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
 
 Day 30
 ----------------------------
