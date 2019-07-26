@@ -18,15 +18,6 @@ import shlex
 from recommonmark.parser import CommonMarkParser
 from recommonmark.transform import AutoStructify
 
-from recommonmark.states import DummyStateMachine
-# Monkey patch to fix recommonmark 0.4 doc reference issues.
-orig_run_role = DummyStateMachine.run_role
-def run_role(self, name, options=None, content=None):
-    if name == 'doc':
-        name = 'any'
-    return orig_run_role(self, name, options, content)
-DummyStateMachine.run_role = run_role
-
 def setup(app):
     app.add_config_value('recommonmark_config', {
         'enable_auto_doc_ref': True,
