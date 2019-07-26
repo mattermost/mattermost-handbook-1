@@ -69,26 +69,21 @@ Before start date
 - [ ] Send New Hire a welcome package containing Mattermost branded goodies.
 - [ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
 - [ ] Send New Hire (and Manager)a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting New Hire's biography, inviting New Hire to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
-- [ ] Send New Hire a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c>` sharing a first day checklist and information about laptop setup, and gives an overview of New Hire's first week.
+- [ ] Send New Hire a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c>`_ sharing a first day checklist (below) and information about laptop setup, and gives an overview of New Hire's first week.
 - [ ] Invite New Hire to `tools used across Mattermost <https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide>`_ and the `Customer Obsession Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
 
 
 First Day
 
+- [ ] Meet with New Hire to review required documentation (e.g. [I-9 documents](https://www.uscis.gov/i-9)).
+
+First Day Checklist
+
+```
+
+```
 
 
-3. (Hiring Manager) Invites New Hire to the private "Staff" team and introduces New Hire in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using the bio provided by the New Hire.
-4. (New Hire) Joins Mattermost and uses firstname.lastname as their username, adds full name, job title, and a photograph to their profile.
-5. (Hiring Manager) Meets with New Hire to set expectations for the week, introduce them to their Buddy, share the 30/60/90 plan draft process [TEMPLATE NEEDED] and answer any questions.
-6. (People Ops) Schedules meetings with New Hire (non-R&D only) and Individual Contributors (IC) outside of their department.
-7. (Head of HR) Meets with New Hire to review required documentation (e.g. [I-9 documents](https://www.uscis.gov/i-9)).
-8. (New Hire) Has a welcome meeting with an IC outside of their department.
-9. (Hiring Manager) Meets with New Hire to check in.
-10. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and [staff email list](https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066) and describing how to view other staff members' calendars. 
-11. (New Hire) Has a welcome meeting with an IC outside of their department.
-12. (Hiring Manager) Meets with New Hire to check in.
-13. (New Hire) Has a welcome meeting with an IC outside of their department.
-14. (Hiring Manager) Meets with New Hire to check in.
 15. (People Ops) Sends a direct message or [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting them to create their Mattermost avatar. New Hire is also asked to review the last three recordings of the [Customer Obsession All Hands Meeting](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting) and if they would like to present their own intro or if they'd like their manager to introduce them.
 16. (New Hire) New Hire has a welcome meeting with an IC outside of their department.
 17. (Product Manager or Solution Architect) Holds FAQ session on the product.
@@ -101,6 +96,7 @@ Days 6-10
 19. (CEO) Meets with New Hire to welcome to Mattermost and discuss their onboarding experience. 
 20. (Hiring Manager) Meets with New Hire to finalize 30/60/90 day plan. Introduces New Hire to entire team during the Customer Obsession meeting.
 21. (Head of HR) (Optional) Meets with New Hire if first day meeting did not occur.
+10. (People Ops) Sends New Hire an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and [staff email list](https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066) and describing how to view other staff members' calendars. 
 
 Days 11-29
 ----------------------------
