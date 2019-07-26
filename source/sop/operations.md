@@ -19,6 +19,11 @@ R&D includes engineering, QA, product management, and design (UX, UI)
 - :lock: [Analytics ](https://community.mattermost.com/private-core/channels/analytics-2): Analytics playbook and data wallows
 - [WIP: Feature Idea Flow Chart](https://docs.google.com/drawings/d/1D6KiN31mhNr1A0DGGHOuu6hvS0gpDTFuftnh2yyniNQ/edit): Work-in-progress 
 
+#### Product Strategy 
+
+- [Analyst Research](https://community.mattermost.com/private-core/channels/analyst-research): Analyst meeting tracker, briefing procedures, research. We are currently Gartner clients. 
+- [Compete](https://community.mattermost.com/private-core/channels/compete): Key articles on competitors. Also see [automated feeds from competitor marketing](https://community.mattermost.com/private-core/channels/compete-feeds).  
+
 ### Messaging and Math 
 
 Messaging and Math or "M&M" is a shorthand for the areas of marketing we're focus on. 
@@ -36,6 +41,11 @@ Messaging and Math or "M&M" is a shorthand for the areas of marketing we're focu
 
 - [Customer Success VPMOM - Fanatical, Lifetime Customers Who Promote Us](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ltri8ltmnam9) 
 - [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback): Customer feedback archive and Feature Idea Flowchart 
+- [Customer Support](https://community.mattermost.com/private-core/channels/community): Discussion, wscalation Process, feedback form, office hour notes
+- [Community Guidelines](https://sites.google.com/a/mattermost.com/core-team/community-forum-guidelines?pli=1): How to handle support forums. [sample community responses](https://docs.google.com/document/d/1WcVXpWA5QX1ukBC5vYYTqT5hErGb5bm8F1vHP9oZ21Q/edit)
+
+
+
 ### Finance 
 
 - [Finance and Operations VPMOM - High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
