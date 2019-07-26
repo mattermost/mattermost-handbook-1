@@ -4,6 +4,8 @@ R&D Onboarding
 Manager Responsibilities
 ---------------------------------------------------------
 
+`Manager Guide <http://mattermost-developer-documentation.s3-website-us-east-1.amazonaws.com/branches/master/internal/onboarding/manager-guide/>`_
+
 
 New Staff Responsibilities
 ---------------------------------------------------------
