@@ -12,7 +12,7 @@ Mattermost Handbook
 .. _download and try it today.: https://docs.mattermost.com/install/ee-install.html
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 8
    :glob:
 
    About Mattermost <about/about-mattermost>
