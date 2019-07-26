@@ -54,8 +54,16 @@ These steps are to be followed only in situations of urgency or in situations wh
 
 If you can't install sphinx on MacOS try `sudo pip install sphinx sphinx-autobuild sphinx_rtd_theme --ignore-installed six`.
 
+## Frequently Asked Questions
 
-### Changing top level folders and file names 
+### Why aren't my changes reflected on handbook.mattermost.com?
+
+1. First, wait for 15 minutes until the build finishes.
+2. Search for [recent commits](https://github.com/mattermost/mattermost-handbook/commits/master) to see if one of them resulted in a build failure.
+3. If there is one or more, review the changes to see if you can find a fix for it.
+4. If you cannot find a fix, reach out to the R&D Infra team [in the IST Infra/Sec Team channel](https://community-release.mattermost.com/private-core/channels/infrasec-team) and ask for help. [Here's the list of current members of the Infra team](https://developers.mattermost.com/internal/rd-teams/#ops-infra-team).
+
+### How to change top level folders and file names?
 
 If you're changing folders and file names make sure to: 
 
