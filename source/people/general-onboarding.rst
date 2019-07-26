@@ -134,12 +134,12 @@ Departmental Onboarding Checklists
 - R&D onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/r&d-onboarding.rst
  - Product team onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/product-onboarding.rst
  - QA onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/qa-onboarding.rst
- - Support onboarding: 
-- G&A onboarding: 
+ - Support onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/support-onboarding.rst
+- G&A onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/g%26a-onboarding.rst
 - Marketing onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/marketing-onboarding.rst
 - People team onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/people-team-onboarding.rst
 - Sales onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/sales-onboarding.rst
-- Customer success onboarding: 
+- Customer success onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/customer-success-onboarding.rst
 
 
 
