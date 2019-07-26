@@ -1,6 +1,7 @@
 source/people/exec-recruiting.md
 
-## Executive Onboarding 
+Executive Onboarding 
+====================
 
 For new executives joining the team, there is a high ROI for providing time for the leader to learn about the company and build relationships ahead of taking action. 
 
