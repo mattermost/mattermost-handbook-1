@@ -6,7 +6,7 @@ There's many ways to contribute to Mattermost as a member of our [community](htt
 
 Join our community of open source contributors: 
 
-- Contribute to Mattermost-related open source projects: https://mattermost.com/contribute/
+- Contribute to Mattermost-related open source projects: [See Contribution Opportunities](https://mattermost.com/contribute/)
 - Let us know about a Mattermost integration you've created: [Submit your integration to the Mattermost Integration Directory]( https://spinpunch.wufoo.com/forms/mattermost-integrations-and-installers/) 
 - See examples of open source integrations: [View Mattermost Integrations Directory](https://integrations.mattermost.com/) 
 
@@ -14,7 +14,7 @@ Join our community of open source contributors:
 
 Become a paid member of the staff at Mattermost, Inc.: 
 
-- See open staff positions: https://mattermost.com/careers/
+- See open staff positions: [See Careers at Mattermost.com](https://mattermost.com/careers/) 
 
 ## Enterprise Edition Partners 
 
