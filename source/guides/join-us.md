@@ -1,5 +1,7 @@
 # Join Us 
 
+Note: This section is being migrated from: https://docs.mattermost.com/guides/core.html#joining-the-team
+
 There's many ways to contribute to Mattermost as a member of our [community](https://docs.mattermost.com/process/community-overview.html):
 
 ## Open source contributors 
