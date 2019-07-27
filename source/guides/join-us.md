@@ -17,6 +17,7 @@ Join our community of open source contributors:
 Become a paid member of the staff at Mattermost, Inc.: 
 
 - See open staff positions: [See Careers at Mattermost.com](https://mattermost.com/careers/) 
+- Read about what it's like to work here: [Previous Join Us content (to be migrated here)](https://docs.mattermost.com/guides/core.html#joining-the-team)
 
 ## Enterprise Edition Partners 
 
