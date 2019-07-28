@@ -1,14 +1,14 @@
 # Operations 
 
-## Company 
+# Company 
 
-### Company Key Info 
+## Company Key Info 
 
 - [About Mattermost](http://handbook.mattermost.com/about/about-mattermost.html): Mission, vision, company overview, history 
 - [How to VPMOM](#how-to-vpmom): How we use VPMOMs to create organizational alignment at high speed 
 - [MLT Cadence](http://handbook.mattermost.com/leadership/leadership-meetings.html): Cadence of Mattermost Leadership Team to develop company strategy, plan, review and adapt. 
 
-### FY20 MLT VPMOM
+## FY20 MLT VPMOM
 
 The following section lists out the public portions of VPMOMs for Fiscal Year 2020 ("FY20"), which ends January 31, 2020, with links to internal versions. 
 
@@ -54,18 +54,18 @@ Measures
 - Growth in free downloads and reported trial activations 
 - Growth in contributor community 
 
-## Research & Development  
+# Research & Development  
 
 R&D includes engineering, QA, product management, and design (UX, UI) 
 
-### R&D Key Info 
+## R&D Key Info 
 
 - [Development & Release Process](https://docs.mattermost.com/guides/core.html#development-process): How open source software is developed  
 - [Platform Contribution Process](https://docs.mattermost.com/guides/core.html#community-process): How contributors can get involved
 - [Analytics](https://community.mattermost.com/private-core/channels/analytics-2): Analytics playbook and data wallows
 - [WIP: Feature Idea Flow Chart](https://docs.google.com/drawings/d/1D6KiN31mhNr1A0DGGHOuu6hvS0gpDTFuftnh2yyniNQ/edit): Work-in-progress 
 
-#### Product Strategy 
+## Product Strategy 
 
 - [Analyst Research](https://community.mattermost.com/private-core/channels/analyst-research): Analyst meeting tracker, briefing procedures, research. We are currently Gartner clients. 
 - [Compete](https://community.mattermost.com/private-core/channels/compete): Key articles on competitors. Also see [automated feeds from competitor marketing](https://community.mattermost.com/private-core/channels/compete-feeds).  
