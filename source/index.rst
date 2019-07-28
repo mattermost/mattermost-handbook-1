@@ -17,7 +17,7 @@ Mattermost Handbook
 
    About Mattermost <about/about-mattermost>
    How to Contribute <guides/how-to-contribute>
-   Culture and Standards <guides/culture-and-standards>
+   Online Experience <experience/online-experience>
    Join Us <guides/join-us>
    Onboarding <onboard/onboarding>
    Operations <sop/operations.md>
