@@ -6,9 +6,6 @@
 
 - [About Mattermost](http://handbook.mattermost.com/about/about-mattermost.html): Mission, vision, company overview, history 
 - [How to VPMOM](#how-to-vpmom): How we use VPMOMs to create total organizational alignment at high speed 
-
-### Cadence 
-
 - [MLT Cadence](http://handbook.mattermost.com/leadership/leadership-meetings.html): Cadence of Mattermost Leadership Team to develop company strategy, plan, review and adapt. 
 
 ### FY20 MLT VPMOM
@@ -59,20 +56,23 @@ Measures
 
 ## Research & Development  
 
-## R&D Key Info 
-
-
-### R&D 
-
 R&D includes engineering, QA, product management, and design (UX, UI) 
 
-- [Product VPMOM](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h): Irresistable Solution and Platform for High Trust Teams  
+### R&D Key Info 
+
 - [Development & Release Process](https://docs.mattermost.com/guides/core.html#development-process): How open source software is developed  
 - [Platform Contribution Process](https://docs.mattermost.com/guides/core.html#community-process): How contributors can get involved
 - [Analytics](https://community.mattermost.com/private-core/channels/analytics-2): Analytics playbook and data wallows
 - [WIP: Feature Idea Flow Chart](https://docs.google.com/drawings/d/1D6KiN31mhNr1A0DGGHOuu6hvS0gpDTFuftnh2yyniNQ/edit): Work-in-progress 
 
+#### Product Strategy 
+
+- [Analyst Research](https://community.mattermost.com/private-core/channels/analyst-research): Analyst meeting tracker, briefing procedures, research. We are currently Gartner clients. 
+- [Compete](https://community.mattermost.com/private-core/channels/compete): Key articles on competitors. Also see [automated feeds from competitor marketing](https://community.mattermost.com/private-core/channels/compete-feeds).  
+
 ### FY20 R&D VPMOM (TBA) 
+
+New VPMOM to be added. VPMOM in need of update: [Irresistable Solution and Platform for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h):   
 
 ## Messaging & Math 
 
@@ -91,10 +91,87 @@ We use the "Messaging and Math" framing to focus investments on the messaging an
 
 New VPMOM to be added. VPMOM in need of update: [Monster Pipeline](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.h0etjzlw92y3)
 
+## Sales 
+
+## Sales Key Info 
+
+- [Operating Metrics Definitions](https://docs.google.com/document/d/1aKJrJ7VBf6lGzYNe2xpsTaAfUjw_3Pv1TBRw5XhRCs0/edit?usp=sharing)
+- [Salesforce.com Field Definitions](https://docs.google.com/document/d/1FIoKrd1yEqmS_opi1jxXOEbhxx88N0WVZBsjWO_abow/edit?usp=sharing)
+
 ### FY20 Sales VPMOM (TBA) 
-### FY20 Customer Success(TBA) 
+
+|Period| May 1, 2019 to Jan 31, 2020|
+|:---|:---|
+| RAPID | AS(D), MLT(R, A, P & I) | 
+| Vetted date | May 1, 2019|
+|Previous versions | [May 1, 2019](https://github.com/mattermost/mlt/wiki/Q1FY20---V2MOMs#sales-v2mom---fy2020-q1) |
+
+Vision
+- Build the machine to scale open core sales, direct and indirect 
+
+Values
+- Work within the structure and process - Use Salesforce, follow guides, be consistent
+- Understand the customer and address their needs - Ask, listen, add value 
+- Be super responsive - Quick on leads, inquiries, asks--time kills all deals
+
+Methods
+- (Sales Ops) Upgrade sales ops infrastructure and automate low dollar customers 
+- (SA) Deliver core demos as foundation of GTM 
+- (SA) Support GTM with webinars, events, blogs and technical content
+- (Field) Repeatedly grow G2000 accounts in key regions and prepare to hire reps 
+- (Sales Ops) Uniformly structure partner agreements on fulfillment and lead gen 
+- (SA) De-risk onboarding with pre-sales deployment checklists in Salesforce
+- (CS) 100% renewals, uncover expansion, and close co-marketing 
+- (Inside) Repeatedly grow midmarket new logo count 
+
+Obstacles 
+- Creating awareness in the G2000 to engage 
+- Prospects won't talk to AEs for lack of compelling content   
+- Need actionable info from telemetry on open source users
+- Onboarding (process, best practices, docs and training) 
+- Keeping the product competitive and differentiated 
+- Need top 5 most important integrations from Mattermost (e.g. WebEx) 
+- Meet product the demands of new G2000 customers 
+- Need to optimize pricing and packaging (repackage E10) 
+- Need for greater bottoms-up interest in EE within the product 
+
+Measures 
+- See [confidential version](https://github.com/mattermost/mattermost-mlt/wiki/FY20-Sales-VPMOM) 
+
+## Customer Success 
+
+### Customer Success Key Info 
+
+- [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback): Customer feedback archive and Feature Idea Flowchart 
+- [Customer Support](https://community.mattermost.com/private-core/channels/community): Discussion, wscalation Process, feedback form, office hour notes
+- [Community Guidelines](https://sites.google.com/a/mattermost.com/core-team/community-forum-guidelines?pli=1): How to handle support forums. [sample community responses](https://docs.google.com/document/d/1WcVXpWA5QX1ukBC5vYYTqT5hErGb5bm8F1vHP9oZ21Q/edit)
+
+### FY20 Customer Success (TBA) 
+
+New VPMOM to be added. VPMOM in need of update: [Fanatical, Lifetime Customers Who Promote Us](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ltri8ltmnam9) 
+
+## Finance 
+
+### Finance Key Info 
+
 ### FY20 Finance VPMOM (TBA) 
+
+- [Finance and Operations VPMOM - High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
+  - Professional Services Procurement: [How to procure at Mattermost](http://handbook.mattermost.com/people/procurement.html) 
+  - E-sign Procedure (Internal, TBA) 
+  - Accounting: [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
+  - Legal and Compliance: [Archives](http://handbook.mattermost.com/bizops/archives.html) 
+  - Reporting: [Operating Metrics](http://handbook.mattermost.com/bizops/operating-metrics.html)
+  - Planning, Budgeting, Forecasting: [VPMOM Process](http://handbook.mattermost.com/leadership/VPMOM.html) 
+
+## Business Operations 
+
+## Business Operations Key Info 
+
 ### FY20 Business Operations VPMOM (TBA) 
+
+New VPMOM to be added. 
+
 #### FY20 Standard Operating Procedures (TBA)
 
 |Period| August 1, 2019 to Jan 31, 2020|
@@ -133,58 +210,46 @@ Measures
 - Number of undocumented procedures
 - Error rate by SOP
  
-### FY20 Contributors (TBA) 
-#### FY20 Staff (TBA) 
-#### FY20 Open Source Contributors (TBA) 
-#### FY20 Partners (TBA) 
 
+## Contributors 
 
+### Contributors Key Info 
 
-## WIP: Operations
+- [Taxonomy of Mattermost Contributors](https://docs.mattermost.com/process/community-overview.html)  
 
-#### Product Strategy 
+### FY20 Contributors VPMOM (TBA) 
 
-- [Analyst Research](https://community.mattermost.com/private-core/channels/analyst-research): Analyst meeting tracker, briefing procedures, research. We are currently Gartner clients. 
-- [Compete](https://community.mattermost.com/private-core/channels/compete): Key articles on competitors. Also see [automated feeds from competitor marketing](https://community.mattermost.com/private-core/channels/compete-feeds).  
+New VPMOM to be added. 
 
+### Staff
 
-### Sales 
-
-- [Sales VPMOM - Rapid, Repeatable, Predictable New Customer Growth](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.xae7fijadf4n) 
-- [Operating Metrics Definitions](https://docs.google.com/document/d/1aKJrJ7VBf6lGzYNe2xpsTaAfUjw_3Pv1TBRw5XhRCs0/edit?usp=sharing)
-- [Salesforce.com Field Definitions](https://docs.google.com/document/d/1FIoKrd1yEqmS_opi1jxXOEbhxx88N0WVZBsjWO_abow/edit?usp=sharing)
-
-### Customer Success 
-
-- [Customer Success VPMOM - Fanatical, Lifetime Customers Who Promote Us](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ltri8ltmnam9) 
-- [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback): Customer feedback archive and Feature Idea Flowchart 
-- [Customer Support](https://community.mattermost.com/private-core/channels/community): Discussion, wscalation Process, feedback form, office hour notes
-- [Community Guidelines](https://sites.google.com/a/mattermost.com/core-team/community-forum-guidelines?pli=1): How to handle support forums. [sample community responses](https://docs.google.com/document/d/1WcVXpWA5QX1ukBC5vYYTqT5hErGb5bm8F1vHP9oZ21Q/edit)
-
-
-
-### Finance 
-
-- [Finance and Operations VPMOM - High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
-  - Professional Services Procurement: [How to procure at Mattermost](http://handbook.mattermost.com/people/procurement.html) 
-  - E-sign Procedure (Internal, TBA) 
-  - Accounting: [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
-  - Legal and Compliance: [Archives](http://handbook.mattermost.com/bizops/archives.html) 
-  - Reporting: [Operating Metrics](http://handbook.mattermost.com/bizops/operating-metrics.html)
-  - Planning, Budgeting, Forecasting: [VPMOM Process](http://handbook.mattermost.com/leadership/VPMOM.html) 
-
-### Contributors  
-
-#### Open Source Contributors  
-
-- [(Needs updating) Contributors VPMOM](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.gpdj7j670rwj): Massive Community Momentum
-
-#### Staff Contributors 
+#### Staff Key Info 
 
 - [(Needs updating) Staff VPMOM](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.pwfphms1e2gi): Scaling Team Mattermost 
   - HR Admin: [Onboarding Playbook](https://docs.google.com/document/d/1VajR9okB231ZACNCG5oyiIAUZBb9Hjn3qkSnJfwraEI/edit#bookmark=id.jqu3ximag4ya), [Offboarding Playbook](https://docs.google.com/document/d/1CuIne4XAxt8sWiH1wvpICjxDmmZLu57x1_ZxnytYhx4/edit#heading=h.nrzjl1py8ndw), [Human Resources Privacy Policy](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit), [Listings](https://docs.google.com/document/d/1epozNqWcKf4dRd-nJuP5RrDiNpLaYB73Q4rFwO_6hng/edit) 
   - Development: [Manager Expectations](http://handbook.mattermost.com/people/manager-expectations.html), [Performance Review Process](http://handbook.mattermost.com/people/performance-reviews.html), [Annual Performance Review Template](https://docs.google.com/document/d/1C1BY8h6dZVQIuQd_vxRy1S-3f1lhAdtM5frIATmUG5A/edit?ts=5bf46661#heading=h.hu5vu6dn98iw) 
   - Hiring: [Auditions](http://handbook.mattermost.com/people/audition.html), U.S. Employees (TBD), Canadian Employees (TBD), Non-U.S./Canadian Fulltime Staff (TBD)   
+
+#### FY20 Staff VPMOM (TBA) 
+
+### Open Source Contributors 
+
+#### Open Source Contributors Key Info 
+
+- [(Needs updating) Contributors VPMOM](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.gpdj7j670rwj): Massive Community Momentum
+
+#### FY20 Open Source Contributors VPMOM (TBA) 
+
+### Partners 
+#### Partners Key Info 
+
+#### FY20 Partners VPMOM (TBA) 
+
+
+
+#### Staff Contributors 
+
+
 
 
 
