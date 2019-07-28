@@ -93,7 +93,7 @@ New VPMOM to be added. VPMOM in need of update: [Monster Pipeline](https://docs.
 
 ## Sales 
 
-## Sales Key Info 
+### Sales Key Info 
 
 - [Operating Metrics Definitions](https://docs.google.com/document/d/1aKJrJ7VBf6lGzYNe2xpsTaAfUjw_3Pv1TBRw5XhRCs0/edit?usp=sharing)
 - [Salesforce.com Field Definitions](https://docs.google.com/document/d/1FIoKrd1yEqmS_opi1jxXOEbhxx88N0WVZBsjWO_abow/edit?usp=sharing)
@@ -166,7 +166,7 @@ New VPMOM to be added. VPMOM in need of update: [Fanatical, Lifetime Customers W
 
 ## Business Operations 
 
-## Business Operations Key Info 
+### Business Operations Key Info 
 
 ### FY20 Business Operations VPMOM (TBA) 
 
