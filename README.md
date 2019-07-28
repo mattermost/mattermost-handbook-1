@@ -4,16 +4,16 @@ This repository generates the documentation available at http://handbook.matterm
 
 All documentation is available under the terms of a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-## Structure 
+## WIP: Structure 
 
-Handbook is divided into 6 major sections: 
+The handbook is being developed in the following rough structure: 
 
-1. About Mattermost (`/about`) - Core information about Mattermost mission, vision, principles and strategy
-2. Contributing (`/contributors`) - All the ways to contribute and be elevated and recognized (includes staff contributors) 
-3. Culture and Standards (`/culture`) - What it's like to contribute 
+1. About Mattermost (`/about`) - Mission, vision, values, company, history, cadence, mindsets, metrics, definitions 
+2. Contributing (`/contributors`) - contributor categories, criteria and levels: open source contributors, staff (employees + commercial contributors), partners (resellers, SIs, tech partners) 
+3. Onboarding (`/onboarding`) - contributor onboarding by category, with emphasis on staff  
+3. Cadences (`/cadence`) - High level processes and calendars, framed in MLT cadence for developing strategy, plan, contributors and SOPs 
+6. Resources and SOPs (`/sop`) - Resources and Standard Operating Procedures ("SOP") for the company aligned with strategy and plan 
 4. Join Us (`/join`) - How to begin your journey of contribution and elevation 
-5. Onboarding (`/onboarding`) - How to onboard into our processes and culture 
-6. Operations (`/sop`) - Standard Operating Procedures ("SOP") for the company aligned with strategy and plan 
 
 ## Technical Guide 
 
