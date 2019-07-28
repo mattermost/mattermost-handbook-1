@@ -1,3 +1,4 @@
+
 # VPMOM 
 
 VPMOM is an exercise in awareness. When correctly implemented it results in total alignment across organizations while executing at high speed. VPMOM (pronounced "Vee Pea Mom") is an acronym for vision, priorities, methods, obstacles, and measures and is expressed as a one-page document outlining:  
