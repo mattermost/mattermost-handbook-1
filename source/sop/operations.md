@@ -199,6 +199,7 @@ Obstacles
 - Too many procedures stored in email, channels and tribal knowledge 
 - Too many undocumented, unclear procedures
 - Duplicate, conflicted procedure documented 
+- People not knowing about and/or following SOPs
 	
 Measures
 
