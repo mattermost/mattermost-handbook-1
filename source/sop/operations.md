@@ -154,15 +154,16 @@ New VPMOM to be added. VPMOM in need of update: [Fanatical, Lifetime Customers W
 
 ### Finance Key Info 
 
+- Professional Services Procurement: [How to procure at Mattermost](http://handbook.mattermost.com/people/procurement.html) 
+- E-sign Procedure (Internal, TBA) 
+- Accounting: [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
+- Legal and Compliance: [Archives](http://handbook.mattermost.com/bizops/archives.html) 
+- Reporting: [Operating Metrics](http://handbook.mattermost.com/bizops/operating-metrics.html)
+- Planning, Budgeting, Forecasting: [VPMOM Process](http://handbook.mattermost.com/leadership/VPMOM.html) 
+
 ### FY20 Finance VPMOM (TBA) 
 
-- [Finance and Operations VPMOM - High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
-  - Professional Services Procurement: [How to procure at Mattermost](http://handbook.mattermost.com/people/procurement.html) 
-  - E-sign Procedure (Internal, TBA) 
-  - Accounting: [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
-  - Legal and Compliance: [Archives](http://handbook.mattermost.com/bizops/archives.html) 
-  - Reporting: [Operating Metrics](http://handbook.mattermost.com/bizops/operating-metrics.html)
-  - Planning, Budgeting, Forecasting: [VPMOM Process](http://handbook.mattermost.com/leadership/VPMOM.html) 
+New VPMOM to be added. VPMOM in need of update: [High Output Operations](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.ds55krfrlcsc)
 
 ## Business Operations 
 
@@ -173,11 +174,6 @@ New VPMOM to be added. VPMOM in need of update: [Fanatical, Lifetime Customers W
 New VPMOM to be added. 
 
 #### FY20 Standard Operating Procedures (TBA)
-
-|Period| August 1, 2019 to Jan 31, 2020|
-|:---|:---|
-| RAPID | IJT(R, D), MLT (A, P & I) | 
-| Vetted date | TBD |
 
 Vision
 
