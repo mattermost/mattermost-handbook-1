@@ -1,4 +1,6 @@
-# Organization 
+# Operations 
+
+This section outlines operations of our company by department.  
 
 ## Company 
 
