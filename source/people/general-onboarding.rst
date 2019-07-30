@@ -74,18 +74,18 @@ General Onboarding Checklist
 
 
  
-- [ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out New Hire's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
-- [ ]  Send New Hire the `Mattermost email agreement <https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing>`_ via DocuSign before issuing New Hire an @mattermost.com email address. New Hire should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
-- [ ] Send New Hire a welcome package containing Mattermost branded goodies.
-- [ ] Send New Hire an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
-- [ ] Send New Hire (and Manager)a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting New Hire's biography, inviting New Hire to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
+- [ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out new staff's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
+- [ ]  Send new staff the `Mattermost email agreement <https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing>`_ via DocuSign before issuing new staff an @mattermost.com email address. New staff should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
+- [ ] Send new staff a welcome package containing Mattermost branded goodies.
+- [ ] Send new staff an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
+- [ ] Send new staff (and manager)a `group message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting new staff's biography, inviting new staff to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
 
 
 *First Day*
 
-- [ ] Invite New Hire to `tools used across Mattermost <https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide>`_ and the `Customer Obsession Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
-- [ ] Send New Hire a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c>`_ sharing a first day checklist (below) and information about laptop setup, and gives an overview of New Hire's first week.
-- [ ] Meet with New Hire to review required documentation (e.g. `I-9 documents <https://www.uscis.gov/i-9>`_).
+- [ ] Invite new staff to `tools used across Mattermost <https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide>`_ and the `Customer Obsession Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
+- [ ] Send new staff a `direct message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c>`_ sharing a first day checklist (below) and information about laptop setup, and gives an overview of New Hire's first week.
+- [ ] Meet with new staff to review required documentation (e.g. `I-9 documents <https://www.uscis.gov/i-9>`_).
 
 *First Week Checklist* (Markdown)
 
@@ -105,24 +105,25 @@ General Onboarding Checklist
 14. [ ] Read about the [`R&D Meeting`](https://community-daily.mattermost.com/private-core/channels/platform-meeting) and let us know if you'd be OK doing an icebreaker in a future meeting: https://docs.mattermost.com/process/training.html#ice-breaker
 15. [ ] Connect your GitHub account and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr) 
 16. [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
+17. [ ] Review our `Code Contribution Guidelines <https://www.mattermost.org/contribute-to-mattermost/>`_ to learn how to contribute to Mattermost to receive a personalized Mattermug. 
 
 
 *Week 2*
 
-- [ ] Ask New Hire to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro or if they'd like their manager to introduce them. Share decision with Meeting Chair.
-- [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am or Fridays at 8am Palo Alto time) and invite New Hire. Double-check New Hire has completed the `end user training module. <https://academy.mattermost.com/p/end-user-onboarding>`_
-- [ ] Send New Hire a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1>`_ answering frequently asked questions, sharing Mattermost's `User's Guide <https://docs.mattermost.com/guides/user.html#getting-started>`_, and suggesting `channels <https://docs.mattermost.com/process/training.html#channels>`_ the New Hire should join to get a feel for the company. 
-- [ ] Encourage (non-dev) New Hire to review the `Code Contribution Guidelines <https://www.mattermost.org/contribute-to-mattermost/>`_ to learn how to contribute to Mattermost to receive a personalized Mattermug. 
+- [ ] Ask new staff to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro or if they'd like their manager to introduce them. Share decision with Meeting Chair.
+- [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am or Fridays at 8am Palo Alto time) and invite new staff. Double-check new staff has completed the `end user training module. <https://academy.mattermost.com/p/end-user-onboarding>`_
+- [ ] Send new staff a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1>`_ answering frequently asked questions, sharing Mattermost's `User's Guide <https://docs.mattermost.com/guides/user.html#getting-started>`_, and suggesting `channels <https://docs.mattermost.com/process/training.html#channels>`_ new staff should join to get a feel for the company. 
+
 
 
 *Week 3*
 
-- [ ] Send New Hire a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars. 
+- [ ] Send new staff a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars. 
 
 
 *Week 4*
 
-- [ ] Send New Hire (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
+- [ ] Send new staff (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
 
 ---------------------------------------------------------
 Departmental Onboarding Checklists
