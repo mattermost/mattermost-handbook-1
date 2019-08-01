@@ -99,8 +99,8 @@ General Onboarding Checklist
 9. [ ] Activate your LastPass account.
 10. [ ] Activate your Office365 account and download to your computer. Download instructions [here](https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-US&rs=en-US&ad=US#InstallSteps=Install_on_a_Mac).
 11. [ ] Review our privacy policy [here](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit).
-12. [ ] Join GitHub with your @mattermost email and contact Carlos (`@cpanato`) to be added to the Mattermost GitHub organization. Or, if you currently have a GitHub profile, contact Carlos (`@cpanato`) to be added to the Mattermost GitHub organization.
-13. [ ] Join GitLab with your @mattermost email and contact @hanna.park to be added to the Mattermost group.
+12. [ ] `Join GitHub <https://github.com/join>`_ with your @mattermost email and contact Carlos (`@cpanato`) to be added to the Mattermost GitHub organization. Or, if you currently have a GitHub profile, contact Carlos (`@cpanato`) to be added to the Mattermost GitHub organization.
+13. [ ] `Join GitLab <https://gitlab.com/users/sign_in#register-pane>`_ with your @mattermost email and contact @hanna.park to be added to the Mattermost group.
 14. [ ] Read about the [`R&D Meeting`](https://community-daily.mattermost.com/private-core/channels/platform-meeting) and let us know if you'd be OK doing an icebreaker in a future meeting. More information on icebreakers [here](https://docs.mattermost.com/process/training.html#ice-breaker).
 15. [ ] Connect your GitHub account and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr) 
 16. [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
