@@ -74,11 +74,10 @@ General Onboarding Checklist
 
 
  
-- [ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out new staff's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by New Hire and expensed.
-- [ ]  Send new staff the `Mattermost email agreement <https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing>`_ via DocuSign before issuing new staff an @mattermost.com email address. New staff should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
-- [ ] Send new staff a welcome package containing Mattermost branded goodies.
+- [ ] When notified by HR Lead, send an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd>`_ to find out new staff's preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by new staff and expensed.
+- [ ]  Send new staff the `Mattermost email agreement <https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing>`_ via DocuSign before issuing an @mattermost.com email address. New staff should use this email address on community.mattermost.com (replace personal email with company email if already registered there). FIRST_NAME.LAST_NAME@mattermost.com is the standard naming convention.
 - [ ] Send new staff an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9>`_ about payroll and benefits.
-- [ ] Send new staff (and manager)a `group message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting new staff's biography, inviting new staff to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
+- [ ] Send new staff (and manager) a `group message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91>`_ requesting new staff's biography, inviting new staff to the Mattermost `demo <https://mattermost.com/demo/>`_ and sharing more about `working at Mattermost <https://docs.mattermost.com/process/working-at-mattermost.html>`_, including our `leadership principles <https://mattermost.com/about-us/>`_.
 
 
 *First Day*
@@ -89,6 +88,7 @@ General Onboarding Checklist
 
 *First Week Checklist* (Markdown)
 
+```
 1. [ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4).
 2. [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com
 3. [ ] Download the Mattermost app on your smartphone and login to community.mattermost.com using your OneLogin account
@@ -106,7 +106,7 @@ General Onboarding Checklist
 15. [ ] Connect your GitHub account and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr) 
 16. [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
 17. [ ] Review our `Code Contribution Guidelines <https://www.mattermost.org/contribute-to-mattermost/>`_ to learn how to contribute to Mattermost to receive a personalized Mattermug. 
-
+```
 
 *Week 2*
 
