@@ -88,42 +88,42 @@ General Onboarding Checklist
 
 *First Week Checklist* (Markdown)
 
-```
 1. [ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4).
-2. [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com
-3. [ ] Download the Mattermost app on your smartphone and login to community.mattermost.com using your OneLogin account
-4. [ ] Share your bio with `@[add manager name]` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team).
-5. [ ] Read about the [`Customer Obsession All Hands Meeting`](https://community-daily.mattermost.com/private-core/channels/cust-obs-meeting): https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting
+2. [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com.
+3. [ ] Download the Mattermost app on your smartphone and login to community.mattermost.com using your OneLogin account.
+4. [ ] Share your bio with `@[add manager name]` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team). Bio examples [here](https://docs.google.com/document/d/10cgn3ovmleB8Z4wjMytADvDboQbH7fByRg0rViR99oA/edit#).
+5. [ ] Read about the [`Customer Obsession All Hands Meeting`](https://community-daily.mattermost.com/private-core/channels/cust-obs-meeting) [here](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting)
 6. [ ] Register your laptop and any other Mattermost-issued equipment [here](https://forms.gle/yBkZo36hzzo8dsbKA).
 7. [ ] Set up your email signature. [Here's how](https://docs.google.com/document/d/1KNfyWl40S6LcpZ4lk7ntiBeB0HBiQKAHuCAPFW1J0Zo/edit).
 8. [ ] Activate your Zoom account. 
 9. [ ] Activate your LastPass account.
-10. [ ] Activate your Office365 account and download to your computer. Instructions [here](https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-US&rs=en-US&ad=US#InstallSteps=Install_on_a_Mac).
+10. [ ] Activate your Office365 account and download to your computer. Download instructions [here](https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-US&rs=en-US&ad=US#InstallSteps=Install_on_a_Mac).
 11. [ ] Review our privacy policy [here](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit).
 12. [ ] Join GitHub with your @mattermost email and contact Carlos (`@cpanato`) to be added to the Mattermost GitHub organization. Or, if you currently have a GitHub profile, contact Carlos (`@cpanato`) to be added to the Mattermost GitHub organization.
-13. [ ] Join GitLab with your @mattermost email and contact @hanna.park to be added to the Mattermost group
-14. [ ] Read about the [`R&D Meeting`](https://community-daily.mattermost.com/private-core/channels/platform-meeting) and let us know if you'd be OK doing an icebreaker in a future meeting: https://docs.mattermost.com/process/training.html#ice-breaker
+13. [ ] Join GitLab with your @mattermost email and contact @hanna.park to be added to the Mattermost group.
+14. [ ] Read about the [`R&D Meeting`](https://community-daily.mattermost.com/private-core/channels/platform-meeting) and let us know if you'd be OK doing an icebreaker in a future meeting. More information on icebreakers [here](https://docs.mattermost.com/process/training.html#ice-breaker).
 15. [ ] Connect your GitHub account and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr) 
 16. [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
-17. [ ] Review our `Code Contribution Guidelines <https://www.mattermost.org/contribute-to-mattermost/>`_ to learn how to contribute to Mattermost to receive a personalized Mattermug. 
-```
+17. [ ] Review our `Code Contribution Guidelines <https://www.mattermost.org/contribute-to-mattermost/>`_ to learn how to contribute to Mattermost and receive a personalized Mattermug. 
+18. [ ] Join the channels listed `here <https://docs.mattermost.com/process/training.html#channels>`_ to get a feel for the company and to see how we communicate.
+
 
 *Week 2*
 
-- [ ] Ask new staff to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro or if they'd like their manager to introduce them. Share decision with Meeting Chair.
-- [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am or Fridays at 8am Palo Alto time) and invite new staff. Double-check new staff has completed the `end user training module. <https://academy.mattermost.com/p/end-user-onboarding>`_
-- [ ] Send new staff a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1>`_ answering frequently asked questions, sharing Mattermost's `User's Guide <https://docs.mattermost.com/guides/user.html#getting-started>`_, and suggesting `channels <https://docs.mattermost.com/process/training.html#channels>`_ new staff should join to get a feel for the company. 
+- [ ] Ask new staff to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro in that week's meeting, or if they'd like their manager to introduce them. Share decision with `Meeting Chair <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
+- [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am or Fridays at 8am Palo Alto time) and invite new staff. Double-check new staff has completed the `end user training module <https://academy.mattermost.com/p/end-user-onboarding>`_.
+- [ ] Send new staff (and manager) a `group message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1>`_ answering frequently asked questions and sharing Mattermost's `User's Guide <https://docs.mattermost.com/guides/user.html#getting-started>`_. 
 
 
 
 *Week 3*
 
-- [ ] Send new staff a `message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars. 
+- [ ] Send new staff (and manager) a `group message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars to book meetings. 
 
 
 *Week 4*
 
-- [ ] Send new staff (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting them to create their Mattermost avatar. 
+- [ ] Send new staff (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting new staff to create their `Mattermost avatar <https://docs.mattermost.com/process/training.html#mattermost-avatar>`_. 
 
 ---------------------------------------------------------
 Departmental Onboarding Checklists
