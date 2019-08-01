@@ -8,7 +8,7 @@ Overview of onboarding contributors by category
    :glob:
 
    /people/contributor-onboarding-guide*
-   /people/staff-onboarding-guide*
+   /people/general-onboarding*
    /onboard/all*
    /staff/rd*
    /staff/sales*
