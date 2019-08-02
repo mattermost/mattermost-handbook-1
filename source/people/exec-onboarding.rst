@@ -1,4 +1,4 @@
-source/people/exec-recruiting.md
+source/sop/exec-recruiting.md
 
 Executive Onboarding 
 ====================
