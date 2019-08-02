@@ -21,7 +21,7 @@ Relationships with top exec recruiters are important and long term. They are exp
 
 ## Process 
 
-We go really, really deep on exec recruiting. The interview process should take 20 hours or more for the the candidate to get to know our company and leadership team and for us to know the candidate. References and background checks weigh more heavily in department head recruiting than any other role. 
+We go really, really deep on exec recruiting. The interview process should take 20 hours or more for the candidate to get to know our company and leadership team and for us to know the candidate. References and background checks weigh more heavily in department head recruiting than any other role. 
 
 The hiring process for a new exec should include:
 
