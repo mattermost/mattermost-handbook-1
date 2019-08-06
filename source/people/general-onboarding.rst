@@ -28,15 +28,15 @@ Leadership Principles
 
 Leadership principles are deliberate choices defining our behavior. When facing complexity, uncertainty, or ambiguity (CUA) we determine our point of view and our actions through the lens of our values:
 
-- **Customer Obsession** - We exist to make customers successful. In everything we do, start with customer perspective and work backwards. Earn and keep their trust.
+- **Customer Obsession** - Mattermost exists to make customers successful. Every project starts with the customer perspective.
 
-- **Ownership** — Own the outcomes of your activity. Don't drop the ball. When we see a vacuum on something important, we jump in--we never say "it's not my job."
+- **Ownership** — Own the outcome of your actions. Act on behalf of the company, not just the team. Never say "that's not my job."
 
-- **High Impact** — Figure out what matters most, and focus on those priorities. When deciding to work on low impact or high impact projects, choose high impact.
-
-- **Self-Awareness** — We understand and seek to understand our strengths and growth opportunities, as individuals and an organization. We are open to critique and share critique constructively and respectfully. 
+- **High-Impact** — Choose high-impact projects over low-impact projects. Figure out what matters most and focus on those priorities.
 
 - **Insist on High Standards** — Have relentless high standards. Continually raise the bar for high-quality products and processes.
+
+- **Self-Awareness** — Seek to understand strengths and growth opportunities while being open to criticism. Share critiques constructively and respectfully.
 
 - **Earn Trust** — Make decisions based on maximizing the trust of others in your judgment. Be open, self-critical and factual.
 
