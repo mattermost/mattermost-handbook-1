@@ -9,7 +9,7 @@ This section outlines:
 - Process for alignment and cascading communications 
 - Process for quarterly business reviews, planning and board meetings 
 
-## MLT Candence V2MOM 
+## MLT Cadence V2MOM 
 
 Vision
 
