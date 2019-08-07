@@ -129,7 +129,7 @@ General Onboarding Checklist
 
 *First Day*
 
-- [ ] Post new staff member's bio to the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) using the hashtag `newcolleague`.
+- [ ] Post new staff member's bio to the `Welcome channel <https://community.mattermost.com/private-core/channels/welcome>`_ using the hashtag `#newcolleague`.
 
 ---------------------------------------------------------
 Departmental Onboarding Checklists
