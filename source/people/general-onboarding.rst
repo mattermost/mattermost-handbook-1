@@ -125,6 +125,12 @@ General Onboarding Checklist
 
 - [ ] Send new staff (and manager) an `email <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa>`_ inviting new staff to create their `Mattermost avatar <https://docs.mattermost.com/process/training.html#mattermost-avatar>`_. 
 
+**Manager Responsibilities**
+
+*First Day*
+
+- [ ] Post new staff member's bio to the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) using the hashtag `newcolleague`.
+
 ---------------------------------------------------------
 Departmental Onboarding Checklists
 ---------------------------------------------------------
