@@ -130,6 +130,7 @@ General Onboarding Checklist
 *First Day*
 
 - [ ] Post new staff member's bio to the `Welcome channel <https://community.mattermost.com/private-core/channels/welcome>`_ using the hashtag **#newcolleague**.
+- [ ] Add new staff to relevant aliases (e.g. sales@mattermost.com). Note: If you do not have manager access to the alias(es), please contact the People team (people@mattermost.com).
 
 ---------------------------------------------------------
 Departmental Onboarding Checklists
