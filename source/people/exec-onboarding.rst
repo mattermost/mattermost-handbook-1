@@ -1,5 +1,3 @@
-source/sop/exec-recruiting.md
-
 Executive Onboarding 
 ====================
 
