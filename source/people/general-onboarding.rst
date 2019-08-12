@@ -40,7 +40,7 @@ Leadership principles are deliberate choices defining our behavior. When facing 
 
 - **Earn Trust** — Make decisions based on maximizing the trust of others in your judgment. Be open, self-critical and factual.
 
-**To view video of these Leadership Principles, please click `here <https://drive.google.com/open?id=1cuxqePfpj2zy4DYLQ__DPtq2uJdGfwaL>`_.
+To view video of these Leadership Principles, please click `here <https://drive.google.com/open?id=1cuxqePfpj2zy4DYLQ__DPtq2uJdGfwaL>`_.
 ---------------------------------------------------------
 Products
 ---------------------------------------------------------
