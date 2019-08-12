@@ -2,21 +2,23 @@
 
 ### Definitions
 
-**IARR**: WIP
-  - **New logo ARR**:
-  - **Expansion ARR**:
-  - **Churn ARR**:
-  - **Count of New Logos (business customers)**:
-  - **Count of Churned Logos (business customers)**:
-  - **Count of Logos expanding (business customers)**:
+**IARR**: WIP // Incremental Annual Recurring Revenue
+  - **New Logo ARR**: ARR from new logos signed, with start dates in the respective period.
+  - **Expansion ARR**: ARR from existing customers with a cross-sell/upsell deal, with start dates in the respective period (e.g. increased licensed seat count, upgrading from E10 to E20).
+  - **Contraction ARR**: Reduction in ARR from existing customers, but where they are still paying Mattermost.
+  - **Churn ARR**: Reduction in ARR from an existing customer where they are no longer paying Mattermost.
+  - **Net New ARR**: (New logo ARR + Expansion ARR) - (Contraction ARR + Churn ARR)
+  - **Count of New Logos**: Count of new logos signed, with start dates in the respective period.
+  - **Count of Churned Logos**: Count of logos lost where an existing customer is no longer paying Mattermost.
   - **Trials**:
   - **Downloads**:
   - **New logo ARR per Download**:
   - **New logo ARR per Trial**:
 
-**Magic Number (Gross Margin Adjusted)**: WIP
+**Magic Number (Gross Margin Adjusted)**: Net New ARR in a period multiplied by Gross Margin in the period, divided by total Sales & Marketing expense in prior period.
   - **Magic Number (No Gross Margin adjustment)**:
-  - **Gross Margin**:
+  - **Gross Margin**: Net sales revenue minus cost of goods sold
+  - **Cost of Goods Sold (COGS)**: 
   - **GTM spend**:
   - **Marketing expense**:
   - **Marketing spend as % of GTM spend**:
