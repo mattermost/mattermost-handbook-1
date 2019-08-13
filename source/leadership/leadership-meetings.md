@@ -254,10 +254,12 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 QBR is a checkpoint for the MLT team to increase output by: 
 
+- Reviewing MLT Cadence VPMOM 
 - Reviewing progress on previous quarter's goals 
 - Reviewing goals for the current quarter 
 - Discussing cross-department dependencies 
 - Reviewing hiring plan and orgs 
+- Deep dive into GTM 
 
 Each department head is asked to present for around 25 minutes on: 
 
