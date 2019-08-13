@@ -12,7 +12,7 @@ The handbook is being developed in the following rough structure:
 2. Contributing (`/contributors`) - contributor categories, criteria and levels: open source contributors, staff (employees + commercial contributors), partners (resellers, SIs, tech partners) 
 3. Onboarding (`/onboarding`) - contributor onboarding by category, with emphasis on staff  
 3. Cadences (`/cadence`) - High level processes and calendars, framed in MLT cadence for developing strategy, plan, contributors and SOPs 
-6. Resources and SOPs (`/sop`) - Resources and Standard Operating Procedures ("SOP") for the company aligned with strategy and plan 
+6. Operations (`/sop`) - Resources and Standard Operating Procedures ("SOP") for the company aligned with strategy and plan 
 4. Join Us (`/join`) - How to begin your journey of contribution and elevation 
 
 ## Technical Guide 
