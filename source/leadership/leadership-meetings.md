@@ -250,12 +250,22 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 - Department V2MOMs are posted   
 - MLT presents company plan to their departments
 
-## Quarterly Business Review 
+## Quarterly Leadership Review 
 
-QBR is a checkpoint for the MLT team to increase output by: 
+Each quarter we review process towards our VPMOMs and discuss achievements and opportunities. 
+
+### QLR VPMOM 
+
+TBD 
+
+### Quarterly Leadership Checkin 
+
+QLR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of VPMOMs. 
+
+Agenda: 
 
 - Reviewing [MLT Cadence VPMOM](#MLT-Cadence-V2MOM) (10 minutes)
-- For each department review (10 minutes + 5 minute discussion): 
+- For each department review (15 minute discussion): 
 -- Previous quarter's goals
 -- Achievements and opportunities for last quarter 
 -- Plans for current quarter 
@@ -265,7 +275,7 @@ QBR is a checkpoint for the MLT team to increase output by:
 - Break (10 minutes) 
 - Wrap-up (10 minutes) 
 
-Each department head is asked to present for around 20 minutes on: 
+Each department head is asked to present for around 15 minutes on: 
 
 - Goals for previous quarter 
 - Previous quarter achievements and opportunities
@@ -274,6 +284,22 @@ Each department head is asked to present for around 20 minutes on:
 - Hiring plan and status
 
 QBR materials may be used as an input to board meeting materials. 
+
+### Quarterly GTM Review 
+
+QGR is a quarterly drilldown on sales, marketing and customer success in the context of VPMOMs
+
+### Quarterly Product Review 
+
+QRR is a review of product vision, near term roadmap and long term roadmap in the context of VPMOMs
+
+### Quarterly Operations Review 
+
+Review of non-GTM, non-R&D departments in context of VPMOMs 
+
+### QBR follow-ups 
+
+As reviews happen, follow-up items are noted in RAPID format and meetings scheduled based on RAPID assignments. 
 
 ## Board Meetings 
 
