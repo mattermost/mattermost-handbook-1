@@ -92,17 +92,15 @@ General Onboarding Checklist
 
 ### Day 1
  
-[ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4).
+[ ] Share your bio with `@managername ` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team). 
+[ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4). Note: You’ll find other apps, like LastPass and Zoom, here.
 [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com.
-[ ] Download the Mattermost app on your smartphone and login to community.mattermost.com using your OneLogin account.
+[ ] Download the [OneLogin app](https://www.onelogin.com/downloads) on your smartphone to access Mattermost from your device.
+[ ] Join the channels listed [here](https://docs.mattermost.com/process/training.html#channels) to get a feel for the company and to see how we communicate.
 [ ] Learn how to format your messages using Markdown by reviewing this [guide](https://community-daily.mattermost.com/help/messaging).
 [ ] Take Mattermost's end user training [here](https://academy.mattermost.com/p/end-user-onboarding) and note any feedback (`@ian.tien` will ask for your feedback in your welcome meeting soon!).
-[ ] Join the channels listed [here](https://docs.mattermost.com/process/training.html#channels) to get a feel for the company and to see how we communicate.
-[ ] Share your bio with `@aneal.vallurupalli ` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team). 
 [ ] Register your laptop and any other Mattermost-issued equipment [here](https://forms.gle/yBkZo36hzzo8dsbKA).
 [ ] Set up your email signature. [Here's how](https://docs.google.com/document/d/1KNfyWl40S6LcpZ4lk7ntiBeB0HBiQKAHuCAPFW1J0Zo/edit).
-[ ] Activate your Zoom account. 
-[ ] Activate your LastPass account.
 [ ] Activate your Office365 account and download to your computer. Instructions [here](https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-US&rs=en-US&ad=US#InstallSteps=Install_on_a_Mac).
  
 ### Days 2-5
@@ -116,19 +114,15 @@ General Onboarding Checklist
 [ ] Review our [Code Contribution Guidelines](https://www.mattermost.org/contribute-to-mattermost/) to learn how to contribute to Mattermost to receive a personalized Mattermug. 
 [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
 
-
 *Week 2*
 
 - [ ] Ask new staff to review the last three recordings of the `Customer Obsession All Hands Meeting <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_ and confirm whether they will present their own intro in that week's meeting, or if they'd like their manager to introduce them. Share decision with `Meeting Chair <https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting>`_.
 - [ ] Schedule CEO welcome meeting (Tuesdays at 8:30am or Fridays at 8am Palo Alto time) and invite new staff. Double-check new staff has completed the `end user training module <https://academy.mattermost.com/p/end-user-onboarding>`_.
 - [ ] Send new staff (and manager) a `group message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1>`_ answering frequently asked questions and sharing Mattermost's `User's Guide <https://docs.mattermost.com/guides/user.html#getting-started>`_. 
 
-
-
 *Week 3*
 
 - [ ] Send new staff (and manager) a `group message <https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs>`_ sharing the `org chart <https://mattermost.bamboohr.com/employees/orgchart.php>`_ and `staff email list <https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066>`_ and describing how to view other staff members' calendars to book meetings. 
-
 
 *Week 4*
 
@@ -157,7 +151,3 @@ Departmental Onboarding Checklists
 - People team onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/people-team-onboarding.rst
 - Sales onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/sales-onboarding.rst
 - Customer success onboarding: https://github.com/mattermost/mattermost-handbook/blob/master/source/people/customer-success-onboarding.rst
-
-
-
-
