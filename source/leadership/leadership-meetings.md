@@ -4,12 +4,12 @@ Mattermost Leadership Team (MLT) consists of Mattermost department heads plus th
 
 This section outlines: 
 
-- The V2MOM for MLT cadence summarizing purpose and measures   
+- The VPMOM for MLT cadence summarizing purpose and measures   
 - The operations of administrative, tactical and strategic meetings 
 - Process for alignment and cascading communications 
 - Process for quarterly business reviews, planning and board meetings 
 
-## MLT Cadence V2MOM 
+## MLT Cadence VPMOM 
 
 Vision
 
@@ -185,8 +185,8 @@ The purpose of target setting is to confirm targets, plan and budget for MLT dep
 
 The MLT plan consists of: 
 
-1. Company and department fiscal year 1-page V2MOMs
-2. Quarterly plan, in the context of fiscal year V2MOM 
+1. Company and department fiscal year 1-page VPMOMs
+2. Quarterly plan, in the context of fiscal year VPMOM 
 3. Financial plan, including revenue 
 4. Headcount plan 
 
@@ -197,7 +197,7 @@ We're currently focused on quarterly plans and will move to halves
 - Quarterly plans are locked for the quarter--Changeable only in MLT team meeting
 - Progress on quarter plans reviewed at the start of next quarter 
 - Okay to reduce targets prior to 20 days before quarter end (except revenue & pipeline)
-- Quarterly plans are in context of annual V2MOM 
+- Quarterly plans are in context of annual VPMOM 
 
 ### Plan Process
 
@@ -207,7 +207,7 @@ We're currently focused on quarterly plans and will move to halves
 
 The following should happen within a 2 week period, with 1-2 iterations in each step: 
 
-1. CEO discusses company and department V2MOMs 1-1 with department heads to ensure alignment 
+1. CEO discusses company and department VPMOMs 1-1 with department heads to ensure alignment 
    -  If applicable during the period, sales, CEO and finance set or adjust the revenue targets  
 2. People meets with departments head to discuss current and future org structure  
    -  Include discussion on performance, potential and any FYIs  
@@ -220,25 +220,25 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 **T-Minus 2 Weeks to announcement.**
 
 - At Monthly Strategic Meeting: 
-  -  WIP V2MOMs, quarterly plan and proposed orgs reviewed by MLT 
-  -  MLT shares feedback on each V2MOM and quarterly plan 
+  -  WIP VPMOMs, quarterly plan and proposed orgs reviewed by MLT 
+  -  MLT shares feedback on each VPMOM and quarterly plan 
   -  Cross-department dependencies documented 
   -  Draft agenda 
      -  Review of MLT Plan Process
-     -  Company V2MOM & Q2 plan 
-     -  Sales V2MOM, Q2 plan and proposed org 
-     -  R&D V2MOM, Q2 plan and proposed org 
-     -  Marketing V2MOM, Q2 plan and proposed org 
-     -  Customer Success V2MOM, Q2 plan and proposed org  
-     -  Finance V2MOM, Q2 plan and proposed org
-     -  People V2MOM, Q2 plan and proposed org  
+     -  Company VPMOM & Q2 plan 
+     -  Sales VPMOM, Q2 plan and proposed org 
+     -  R&D VPMOM, Q2 plan and proposed org 
+     -  Marketing VPMOM, Q2 plan and proposed org 
+     -  Customer Success VPMOM, Q2 plan and proposed org  
+     -  Finance VPMOM, Q2 plan and proposed org
+     -  People VPMOM, Q2 plan and proposed org  
 - MLT socializes updates to high-level plan with their departments 
  
 #### Finalize Plan 
 
 **T-Minus 1 Week to announcement.**
 
-- Company and V2MOMs updated given feedback 
+- Company and VPMOMs updated given feedback 
 - Financial plan adjusted
 - Headcount approvals published 
 
@@ -246,8 +246,8 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 **Week of announcement.**
 
-- Company V2MOM shared at all-hands
-- Department V2MOMs are posted   
+- Company VPMOM shared at all-hands
+- Department VPMOMs are posted   
 - MLT presents company plan to their departments
 
 ## Quarterly Leadership Review 
@@ -264,7 +264,7 @@ QLR is an exercise to increase output through concise, efficient review of quart
 
 Agenda: 
 
-- Reviewing [MLT Cadence VPMOM](#MLT-Cadence-V2MOM) (10 minutes)
+- Reviewing [MLT Cadence VPMOM](#MLT-Cadence-VPMOM) (10 minutes)
 - For each department review (15 minute discussion): 
 -- Previous quarter's goals
 -- Achievements and opportunities for last quarter 
