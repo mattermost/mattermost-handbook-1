@@ -92,7 +92,7 @@ General Onboarding Checklist
 
 ### Day 1
  
-[ ] Share your bio with `@managername ` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team -  `@managername `, please include the hashtag `#newcolleague`). 
+[ ] Share your bio with `@managername ` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team -  `@managername `, please include the hashtag `#newcolleague`). <br>
 [ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4). Note: You’ll find other apps, like LastPass and Zoom, here.
 [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com.
 [ ] Download the [Mattermost app](https://mattermost.com/download/#mattermostApps) on your smartphone and login to community.mattermost.com using your OneLogin account.
