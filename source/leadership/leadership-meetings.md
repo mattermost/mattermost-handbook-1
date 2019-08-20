@@ -245,74 +245,74 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
      -  People VPMOM, Q2 plan and proposed org  
 - MLT socializes updates to high-level plan with their departments 
  
-#### Finalize Plan 
+#### Finalize Plan
 
-**T-Minus 1 Week to announcement.**
+**T-Minus 1 Week to announcement**
 
-- Company and VPMOMs updated given feedback 
+- Company and VPMOMs updated given feedback
 - Financial plan adjusted
-- Headcount approvals published 
+- Headcount approvals published
 
-#### Plan Shared 
+#### Plan Shared
 
-**Week of announcement.**
+**Week of announcement**
 
 - Company VPMOM shared at all-hands
-- Department VPMOMs are posted   
+- Department VPMOMs are posted
 - MLT presents company plan to their departments
 
-## Quarterly Leadership Review 
+## Quarterly Leadership Review (QLR)
 
-Each quarter we review process towards our VPMOMs and discuss achievements and opportunities. 
+Each quarter we review process towards our VPMOMs and discuss achievements and opportunities.
 
-### QLR VPMOM 
+### QLR VPMOM
 
-TBD 
+TBD
 
-### Quarterly Leadership Checkin 
+### Quarterly Leadership Checkin
 
-QLR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of VPMOMs. 
+QLR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of VPMOMs.
 
-Agenda: 
+#### Time and People
 
-- Reviewing [MLT Cadence VPMOM](#MLT-Cadence-VPMOM) (10 minutes)
-- For each department review (15 minute discussion): 
--- Previous quarter's goals
--- Achievements and opportunities for last quarter 
--- Plans for current quarter 
--- Cross-department dependencies 
--- Hiring plan and org charts 
-- Deep dive into GTM (90 minutes) 
-- Break (10 minutes) 
-- Wrap-up (10 minutes) 
+- Scheduled monthly for 3.5 hours with Mattermost Leadership Team.
 
-Each department head is asked to present for around 15 minutes on: 
+#### Prior to Meeting
 
-- Goals for previous quarter 
-- Previous quarter achievements and opportunities
-- Goals for current quarter 
-- Cross-department dependencies
-- Hiring plan and status
+- Materials for QLR agenda are shared by Friday prior to the QLR meeting.
 
-QBR materials may be used as an input to board meeting materials. 
+#### Agenda
 
-### Quarterly GTM Review 
+- (CEO) Reviews [MLT Cadence VPMOM](#MLT-Cadence-VPMOM) (10 minutes)
+- (Each department head) Reviews quarterly goals in the context of VPMOMs, including the following (15 minutes per person):
 
-QGR is a quarterly drilldown on sales, marketing and customer success in the context of VPMOMs
+   - Goals for previous quarter 
+   - Previous quarter achievements and opportunities
+   - Goals for current quarter 
+   - Cross-department dependencies
+   - Hiring plan and org chart
 
-### Quarterly Product Review 
+- (MLT) Break (10 minutes)
+- (MLT) Deep dive into GTM (90 minutes)
+- (CEO) Wrap-up, including follow-ups (10 minutes)
 
-QRR is a review of product vision, near term roadmap and long term roadmap in the context of VPMOMs
+### Quarterly GTM Review
 
-### Quarterly Operations Review 
+QGR is a quarterly drilldown on sales, marketing and customer success in the context of VPMOMs. Agenda to be determined.
 
-Review of non-GTM, non-R&D departments in context of VPMOMs 
+### Quarterly Product Review
 
-### QBR follow-ups 
+QRR is a review of product vision, near term roadmap and long term roadmap in the context of VPMOMs. Agenda to be determined.
+
+### Quarterly Operations Review
+
+Review of non-GTM, non-R&D departments in context of VPMOMs. Agenda to be determined.
+
+### QBR follow-ups
 
 As reviews happen, follow-up items are noted in RAPID format and meetings scheduled based on RAPID assignments. 
 
-## Board Meetings 
+## Board Meetings
 
 - Between 21st and end of the month
 - Scheduled 18 months in advance
