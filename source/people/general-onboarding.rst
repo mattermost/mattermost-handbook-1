@@ -98,7 +98,7 @@ General Onboarding Checklist
 
 [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com.
 
-[ ] Download the [Mattermost app](https://mattermost.com/download/#mattermostApps) on your smartphone and login to community.mattermost.com using your OneLogin account.
+[ ] Download the [Mattermost app](https://mattermost.com/download/#mattermostApps) on your smartphone and login to http://community.mattermost.com using your OneLogin account.
 
 [ ] Join the channels listed [here](https://docs.mattermost.com/process/training.html#channels) to get a feel for the company and to see how we communicate.
 
