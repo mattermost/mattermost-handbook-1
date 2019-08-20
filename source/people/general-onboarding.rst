@@ -92,42 +92,27 @@ General Onboarding Checklist
 
 ### Day 1
  
-[ ] Share your bio with `@managername ` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team -  `@managername `, please include the hashtag `#newcolleague`)
-
+[ ] Share your bio with `@managername ` (this will be posted in the [Welcome channel](https://community-daily.mattermost.com/private-core/channels/welcome) in the private `Staff` team -  `@managername `, please include the hashtag `#newcolleague`). 
 [ ] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -> Security -> Sign-in Method -> Switch to SAML. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4). Note: You’ll find other apps, like LastPass and Zoom, here.
-
 [ ] Download the Mattermost Desktop Client [here](https://about.mattermost.com/downloads) and login to community.mattermost.com.
-
-[ ] Download the [OneLogin app](https://www.onelogin.com/downloads) on your smartphone to access Mattermost from your device.
-
+[ ] Download the [Mattermost app](https://mattermost.com/download/#mattermostApps) on your smartphone and login to community.mattermost.com using your OneLogin account.
 [ ] Join the channels listed [here](https://docs.mattermost.com/process/training.html#channels) to get a feel for the company and to see how we communicate.
-
 [ ] Learn how to format your messages using Markdown by reviewing this [guide](https://community-daily.mattermost.com/help/messaging).
-
-[ ] Take Mattermost's end user training [here](https://academy.mattermost.com/p/end-user-onboarding) and note any feedback.
-
+[ ] Take Mattermost's end user training [here](https://academy.mattermost.com/p/end-user-onboarding) and note any feedback (`@ian.tien` will ask for your feedback in your welcome meeting soon!).
 [ ] Register your laptop and any other Mattermost-issued equipment [here](https://forms.gle/yBkZo36hzzo8dsbKA).
-
 [ ] Set up your email signature. [Here's how](https://docs.google.com/document/d/1KNfyWl40S6LcpZ4lk7ntiBeB0HBiQKAHuCAPFW1J0Zo/edit).
-
 [ ] Activate your Office365 account and download to your computer. Instructions [here](https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-US&rs=en-US&ad=US#InstallSteps=Install_on_a_Mac).
+
  
 ### Days 2-5
  
 [ ] Join GitHub with your @mattermost email and send `@camille.harris` your username. 
-
 [ ] Connect GitHub and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr). 
-
 [ ] Join GitLab with your @mattermost email and contact `@hanna.park` to be added to the Mattermost group.
-
 [ ] Read about the [`Customer Obsession All Hands Meeting`](https://community-daily.mattermost.com/private-core/channels/cust-obs-meeting) [here](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting).
-
 [ ] Read about the [`R&D Meeting`](https://community-daily.mattermost.com/private-core/channels/platform-meeting) and let us know if you'd be OK doing an [icebreaker](https://docs.mattermost.com/process/training.html#ice-breaker) in a future meeting.
-
 [ ] Review our data privacy policy [here](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit).
-
 [ ] Review our [Code Contribution Guidelines](https://www.mattermost.org/contribute-to-mattermost/) to learn how to contribute to Mattermost to receive a personalized Mattermug. 
-
 [ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
 
 *Week 2*
