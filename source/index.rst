@@ -17,8 +17,8 @@ Mattermost Handbook
 
    About Mattermost <about/about-mattermost>
    How to Contribute <guides/how-to-contribute>
-   Online Experience <experience/online-experience>
-   Join Us <guides/join-us>
    Onboarding <onboard/onboarding>
+   Cadences <leadership/leadership-meetings>
    Operations <sop/operations.md>
+   Join Us <guides/join-us>
    
