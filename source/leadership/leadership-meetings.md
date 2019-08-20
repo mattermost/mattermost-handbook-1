@@ -43,6 +43,17 @@ Measures
 - Company is excited about direction and understands their contribution 
 - Measures, budget and program spend agreed and stable for the period 
 
+### MLT VPMOM Review Process
+
+VPMOMs, quarterly plans and proposed orgs are reviewed by MLT. Use the following order to review VPMOMs:
+
+- Measures
+- Priorities
+- Vision
+- Obstacles
+- Methods
+
+MLT shares feedback on each VPMOM and quarterly plan. Cross-department dependencies documented. 
 
 ## MLT Daily Admin 
 
@@ -209,7 +220,7 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 1. CEO discusses company and department VPMOMs 1-1 with department heads to ensure alignment 
    -  If applicable during the period, sales, CEO and finance set or adjust the revenue targets  
-2. People meets with departments head to discuss current and future org structure  
+2. People meets with department heads to discuss current and future org structure  
    -  Include discussion on performance, potential and any FYIs  
 3. Finance works with department heads to discuss headcount and program spend budget 
    -  Include budget variance 
