@@ -102,7 +102,7 @@ General Onboarding Checklist
 
 [ ] Join the channels listed [here](https://docs.mattermost.com/process/training.html#channels) to get a feel for the company and to see how we communicate.
 
-[ ] Explore your Mattermost account settings, making note of your notification settings. Tip: Set your messages to send on CTRL + ENTER, while using ENTER will insert a new line, while you’re learning to use Mattermost.
+[ ] Explore your Mattermost account settings, making note of your notification settings. Tip: Set your messages to send on `CTRL + ENTER` (`ENTER` will insert a new line) while you’re learning to use Mattermost.
 
 [ ] Learn how to format your messages using Markdown by reviewing this [guide](https://community-daily.mattermost.com/help/messaging).
 
