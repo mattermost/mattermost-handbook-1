@@ -1,10 +1,16 @@
 # Join Us 
 
-Note: This section is being migrated from: https://docs.mattermost.com/guides/core.html#joining-the-team
+Thank you for your interest in joining the Mattermost community. Note: This section is being migrated from: https://docs.mattermost.com/guides/core.html#joining-the-team
 
-There's many ways to contribute to Mattermost as a member of our [community](https://docs.mattermost.com/process/community-overview.html):
+## Ways to Join 
 
-## Open source contributors 
+There's many ways to join the [Mattermost community](https://docs.mattermost.com/process/community-overview.html) through our open source programs, our company and our partner ecosystem:
+
+- Open source contributor community for the Mattermost projects (from authorized contributor to core committer) 
+- Employee and staff contributor community for for Mattermost, Inc. (employee or staff contributor) 
+- Commercial partner community with Mattermost Enterprise Edition (reseller, systems integrator or technical alliance partner). 
+
+### Open source contributors 
 
 Join our community of open source contributors: 
 
@@ -12,14 +18,14 @@ Join our community of open source contributors:
 - Let us know about a Mattermost integration you've created: [Submit your integration to the Mattermost Integration Directory]( https://spinpunch.wufoo.com/forms/mattermost-integrations-and-installers/) 
 - See examples of open source integrations: [View Mattermost Integrations Directory](https://integrations.mattermost.com/) 
 
-## Professional staff 
+### Staff contributors 
 
-Become a paid member of the staff at Mattermost, Inc.: 
+Become a paid member of the staff at Mattermost, Inc. as an employee or staff contributor: 
 
 - See open staff positions: [See Careers at Mattermost.com](https://mattermost.com/careers/) 
 - Read about what it's like to work here: [Previous Join Us content (to be migrated here)](https://docs.mattermost.com/guides/core.html#joining-the-team)
 
-## Enterprise Edition Partners 
+### Enterprise Edition Partners 
 
 Help deliver professional services and commercial software for large, enterprise-scale Mattermost deployments by joining a partner program for Mattermost Enterprise Edition: 
 
@@ -27,7 +33,21 @@ Help deliver professional services and commercial software for large, enterprise
 - Certify your inclusion of Mattermost software in your open source or commercial offering to be listed in our partner directory: [Mattermost Deployment Solutions Partner Program](https://docs.mattermost.com/process/partner-programs.html#mattermost-deployment-solutions-partner-program) 
 - Learn more about becoming a Mattermost partner: [Mattermost Partner Programs](https://docs.mattermost.com/process/partner-programs.html) 
 
+## Learning about Mattermost 
 
+Note: This section is work-in-progress, being migrated from: https://docs.mattermost.com/guides/core.html#joining-the-team
+
+### Joining the test server 
+
+At Mattermost, most of the company works from home. Our headquarters is on the internet--Specifically, we work on an open test server called https://pre-release.mattermost.com which runs a pre-released version of Mattermost software with all the newest features and improvements (which is occassionally unstable). The server is integrated with Zoom and employees and staff members can launch voice, video and screensharing meetings with a button click. 
+
+If you're thinking of joining Mattermost as an open source contributor, as an employee or staff contributor, or as an ecosystem partner, we welcome you to start an account on our server and see what it's like to work here--and even try installing the mobile apps if you would like. 
+
+When you join, please use the username `firstname.lastname` so it's easier to get to know you. You can create a new account from here: https://pre-release.mattermost.com/signup_user_complete (select Email and Password). 
+
+A bot will suggest different channels for you to view, and you're welcome to join any channel on the server. All the information you'll have access to is public (employees and staff have confidential channels and workspaces on the server).
+
+If you're already speaking to a recruiter, you can message them or your hiring manager on the server by contacting them at `firstname.lastname` to let them know if you have joined. 
 
 ## FAQ 
 
