@@ -131,7 +131,7 @@ General Onboarding Checklist
 
 [ ] Review our [Code Contribution Guidelines](https://www.mattermost.org/contribute-to-mattermost/) to learn how to contribute to Mattermost to receive a personalized Mattermug. 
 
-[ ] Add your mailing address, profile photo, and t-shirt size to Bamboo (if you haven't already done so).
+[ ] Add your mailing address, profile photo, and emergency contact information to Bamboo.
 
 *Week 2*
 
