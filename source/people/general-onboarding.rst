@@ -117,7 +117,7 @@ General Onboarding Checklist
  
 ### Days 2-5
  
-[ ] Share your GitHub username with `@camille.harris`. You can, and are encouraged, to use your personal GitHub account. You may also create a GitHub account with your @mattermost email instead.
+[ ] Share your GitHub username with `@camille.harris`. You can, and are encouraged to, use your personal GitHub account. You may also create a GitHub account with your @mattermost email instead.
 
 [ ] Connect GitHub and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr). 
 
