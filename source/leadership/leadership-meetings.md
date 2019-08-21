@@ -82,7 +82,16 @@ In MLT Daily we can share:
 
 #### Stand-Up Post
 
-Before meeting use `/standup` command to post updates to peers in the channel of what's important. If you post incorrectly, use the "Edit" option to update. 
+Before meeting use `/standup` command to post updates to peers in the channel of what's important:
+
+```
+/standup
+
+- Met with Alice Evans from Gartner - [Notes posted](XXX)
+- Carter Lee starts today as Director of BizOps 
+```
+
+If you post incorrectly, use the "Edit" option to update. 
 
 Most updates will look something like this: 
 
