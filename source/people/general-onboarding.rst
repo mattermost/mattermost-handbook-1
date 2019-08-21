@@ -102,9 +102,11 @@ General Onboarding Checklist
 
 [ ] Join the channels listed [here](https://docs.mattermost.com/process/training.html#channels) to get a feel for the company and to see how we communicate.
 
+[ ] Explore your Mattermost account settings, making note of your notification settings. Tip: Set your messages to send on CTRL + ENTER, while using ENTER will insert a new line, while you’re learning to use Mattermost.
+
 [ ] Learn how to format your messages using Markdown by reviewing this [guide](https://community-daily.mattermost.com/help/messaging).
 
-[ ] Take Mattermost's end user training [here](https://academy.mattermost.com/p/end-user-onboarding) and note any feedback (`@ian.tien` will ask for your feedback in your welcome meeting soon!).
+[ ] Take Mattermost's end user training [here](https://academy.mattermost.com/p/end-user-onboarding) and note any feedback.
 
 [ ] Register your laptop and any other Mattermost-issued equipment [here](https://forms.gle/yBkZo36hzzo8dsbKA).
 
@@ -115,7 +117,7 @@ General Onboarding Checklist
  
 ### Days 2-5
  
-[ ] Join GitHub with your @mattermost email and send `@camille.harris` your username. 
+[ ] Share your GitHub username with `@camille.harris`. You can, and are encouraged, to use your personal GitHub account. You may also create a GitHub account with your @mattermost email instead.
 
 [ ] Connect GitHub and Mattermost via the instructions here: [<jump to convo>](/core/pl/i4k6eke5t38gxxwrjtpeegbhwr). 
 
