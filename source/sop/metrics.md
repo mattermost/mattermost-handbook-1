@@ -26,6 +26,7 @@
   - **Total Registered Users**: The total number of user accounts created on a single Mattermost server, including deactivated and deleted accounts.
   - **Daily Active Users (DAU)**: The total number of users who viewed the Mattermost site in the last 24 hours. Excludes bot accounts. This is also the "Daily Active Users" measure shown in **System Console > Site Statistics**.
   - **Monthly Active Users (MAU)**: The total number of users who viewed the Mattermost site in the last 30 days. Excludes bot accounts. This is also the "Daily Active Users" measure shown in **System Console > Site Statistics**.
+  - **Active User Count**: A measure of the number of active users last 24 hours. **Legacy measure, do not use this for analysis or decision-making.**
 
 #### NPS
 
