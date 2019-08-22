@@ -4,7 +4,7 @@
 
 #### ARR
 
-**IARR**: WIP // Incremental Annual Recurring Revenue
+  - **IARR**: WIP // Incremental Annual Recurring Revenue
   - **New Logo ARR**: ARR from new logos signed, with start dates in the respective period.
   - **Expansion ARR**: ARR from existing customers with a cross-sell/upsell deal, with start dates in the respective period (e.g. increased licensed seat count, upgrading from E10 to E20).
   - **Contraction ARR**: Reduction in ARR from existing customers, but where they are still paying Mattermost.
@@ -15,13 +15,13 @@
 
 #### Magic Number
 
-**Magic Number (Gross Margin Adjusted)**: Net New ARR in a period multiplied by Gross Margin in the period, divided by total Sales & Marketing expense in prior period.
+  - **Magic Number (Gross Margin Adjusted)**: Net New ARR in a period multiplied by Gross Margin in the period, divided by total Sales & Marketing expense in prior period.
   - **Magic Number (No Gross Margin adjustment)**:
   - **Gross Margin**: Net sales revenue minus cost of goods sold
 
 #### Active Users
 
-**Total Active Users**: The total number of user accounts created on a single Mattermost server. Excludes deactivated accounts, deleted accounts and bot accounts. This is also the "Total Active Users" measure shown in **System Console > Site Statistics**.
+  - **Total Active Users**: The total number of user accounts created on a single Mattermost server. Excludes deactivated accounts, deleted accounts and bot accounts. This is also the "Total Active Users" measure shown in **System Console > Site Statistics**.
   - **Registered Authorized Users**: Same as **Total Active Users**.
   - **Total Registered Users**: The total number of user accounts created on a single Mattermost server, including deactivated and deleted accounts.
   - **Daily Active Users (DAU)**: The total number of users who viewed the Mattermost site in the last 24 hours. Excludes bot accounts. This is also the "Daily Active Users" measure shown in **System Console > Site Statistics**.
@@ -30,13 +30,13 @@
 
 #### NPS
 
-**Product NPS**: The product net promoter score (Product NPS) measures user satisfaction of the product, calculated based on single question "How likely are you to recommend Mattermost?". The score is based on a -100 to 100 scale, with the [calculation detailed here](https://en.wikipedia.org/wiki/Net_Promoter#How_it_works).
+  - **Product NPS**: The product net promoter score (Product NPS) measures user satisfaction of the product, calculated based on single question "How likely are you to recommend Mattermost?". The score is based on a -100 to 100 scale, with the [calculation detailed here](https://en.wikipedia.org/wiki/Net_Promoter#How_it_works).
   - **End User Product NPS**: The Product NPS calculated among end users only (ie. not among Team or System Admins).
   - **System Admin Product NPS**: The Product NPS calculated among System Admins only.
 
 #### Support
 
-**Support Metrics (E10 and E20)**: Metrics calculated based on Zendesk tickets opened by E10 and E20 customers. Tickets opened by non-subscribed organizations are not counted towards these metrics.
+  - **Support Metrics (E10 and E20)**: Metrics calculated based on Zendesk tickets opened by E10 and E20 customers. Tickets opened by non-subscribed organizations are not counted towards these metrics.
   - **Tickets Created**: Number of net new Zendesk tickets created.
   - **First Response Time [Median, hours]**: The median number of hours from when a ticket was opened in Zendesk to when the first response was sent to the customer.
   - **% First Response >8 Business Hours**: % of newly opened Zendesk tickets whose first response time is greater than 8 business hours as defined in https://mattermost.com/support/.
