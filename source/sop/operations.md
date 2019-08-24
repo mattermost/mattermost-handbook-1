@@ -360,9 +360,11 @@ Measures
 
 ### History 
 
-VPMOMs are based off of [V2MOMs created in 1999 by Marc Benioff](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html) to align the efforts at Salesforce.com. 
+VPMOMs are a fork of [V2MOMs created in 1999 by Marc Benioff](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html) to align the efforts at Salesforce.com. 
 
-We use VPMOMs instead of V2MOMs for a number of reasons, including 1) VPMOMs use the label "Priorities" rather than "Values" to more clearly differentiate the Priorities of a specific VPMOM from core values of a company, 2) "V2MOMs" have been inconsistently implemented and blogged about, which creates confusion when new hires try to learn more about how to implement them correctly. VPMOMs enable Mattermost to consistently apply its specific implementation of V2MOM.  
+One key difference is we use the term "Priorities" to describe the stack ranked priorities of the "Vision", instead of the word "Values" which gets too often confused with a company's "Core Values". Also, people would get confused thinking a specific method or measure was the priority for the vision, and it became necessary to be explicit on the priority for the vision. 
 
-Some departments may use other methodologies, such as OKRs, which is fine so long as the MLT level VPMOMs are used. 
+For example, a VPMOM for R&D may have the bulk of methods and measures on product delivery, and the Vision statement may have many elements, but when "High Quality" is clearly listed as the top priority it is unambiguous what our focus needs to be. 
+
+Also, VPMOMs are defined by Mattermost and therefore can be optimized for our business and cadence. Whereas, VP2MOMs have been used for over 20 years at different organizations, in different ways, in different eras, in different departments and when we tried using V2MOMs in the past they created too much inconsistency and confusion, despite good intentions.
 
