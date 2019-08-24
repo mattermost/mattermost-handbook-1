@@ -37,17 +37,25 @@ Help deliver professional services and commercial software for large, enterprise
 
 Note: This section is work-in-progress, being migrated from: https://docs.mattermost.com/guides/core.html#joining-the-team
 
-### Joining the test server 
+### Exploring Mattermost as a workplace 
 
-At Mattermost, most of the company works from home. Our headquarters is on the internet--Specifically, we work on an open test server called https://pre-release.mattermost.com which runs a pre-released version of Mattermost software with all the newest features and improvements (which is occassionally unstable). The server is integrated with Zoom and employees and staff members can launch voice, video and screensharing meetings with a button click. 
+At Mattermost, most of the company works from home. Our headquarters is on the internet--Specifically, we work on an open test server called [https://pre-release.mattermost.com](https://pre-release.mattermost.com) which runs a pre-released version of Mattermost software with all the newest features and improvements (which is occassionally unstable). The server is integrated with Zoom and employees and staff members can launch voice, video and screensharing meetings with a button click. 
+
+#### Joining the test server 
 
 If you're thinking of joining Mattermost as an open source contributor, as an employee or staff contributor, or as an ecosystem partner, we welcome you to start an account on our server and see what it's like to work here--and even try installing the mobile apps if you would like. 
 
-When you join, please use the username `firstname.lastname` so it's easier to get to know you. You can create a new account from here: https://pre-release.mattermost.com/signup_user_complete (select Email and Password). 
+When you join, please use the username `firstname.lastname` so it's easier to get to know you. You can create a new account from here: [https://pre-release.mattermost.com/signup_user_complete](https://pre-release.mattermost.com/signup_user_complete) (select Email and Password). 
 
 A bot will suggest different channels for you to view, and you're welcome to join any channel on the server. All the information you'll have access to is public (employees and staff have confidential channels and workspaces on the server).
 
-If you're already speaking to a recruiter, you can message them or your hiring manager on the server by contacting them at `firstname.lastname` to let them know if you have joined. 
+#### Say "Hello" 
+
+If you're in contact with someone with an @mattermost.com email address, such as a recruiter or hiring manager, you can message them or your hiring manager on the server by contacting them at `firstname.lastname` to let them know if you have joined. 
+
+#### Try some formatting
+
+To practice sending messages in Mattermost, particularly around formatting, you can send messages to yourself to test out how messages will look before sending to another person. 
 
 ## FAQ 
 
