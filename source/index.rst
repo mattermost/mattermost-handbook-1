@@ -19,6 +19,6 @@ Mattermost Handbook
    How to Contribute <guides/how-to-contribute>
    Onboarding <onboard/onboarding>
    Cadences <leadership/leadership-meetings>
-   Operations <sop/operations.md>
+   Operations <guides/operations>
    Join Us <guides/join-us>
    
