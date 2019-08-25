@@ -1,7 +1,10 @@
+Operations
+=======================
+
 Overview of onboarding contributors by category
  
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :glob:
 
    /sop/operations*
