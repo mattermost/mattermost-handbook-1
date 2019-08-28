@@ -327,12 +327,17 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 - Scheduled 18 months in advance
 - Board deck is sent to Board 3 calendar days before Board meeting
 
-### Structure
+### Meeting Structure
 
 1.  General session: Includes leads from Mattermost team, usually sales, occasionally CS, product 
 2.  Closed session: VP Finance and CEO update Board
 3.  CEO and Board: Board gives feedback to CEO
 4.  Board without CEO: Board discusses feedback among themselves, then one board member delivers feedback to CEO
+
+### Debrief Calls
+
+1. 25 minute debrief scheduled with each board member same day or the day after board meeting via their admins.
+2. 1 hour debrief with MLT scheduled same day after board meeting.
 
 ## Financial Planning
 
