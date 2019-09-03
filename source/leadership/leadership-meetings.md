@@ -341,5 +341,25 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 
 ## Financial Planning
 
-- Once a year, with a mid-year refresh 
-- 3 months from end of fiscal year
+Preparation for the annual plan and budget for the next fiscal year begins in the second half of the current fiscal year 
+
+Q3 
+
+1. The company 3-year aspirations are reviewed
+1. A 1% MLT VPMOM for next fiscal year is drafted by CEO and reviewed with MLT department heads 
+1. Department heads draft 1% Department VPMOMs for next fiscal year and review with peer stakeholders and CEO 
+1. At Q3 Planning Offsite, MLT reviews 50% MLT VPMOM for next fiscal year developed from 1% draft 
+1. At Q3 Planning Offsite, department heads present 50% Department VPMOMs, reviewed by peer stakeholders and CEO
+1. Action items are documented and developed around Obstacles to success of next fiscal year 
+1. 50% MLT and Department VPMOMs, plus Obstacles, are presented to department leaders 
+
+Q4
+
+1. MLT and middle managers work through key Obstacles for next fiscal year
+1. Finance works with MLT to draft financials plan for next fiscal year 
+1. CEO works with MLT to develop MLT VPMOM from 50% to 99% 
+1. Department heads work with their teams, peer stakeholders and CEO to develop Department VPMOM from 50% to 99%
+1. 99% MLT VPMOM is reviewed by MLT and agreed 
+1. 99% Department VPMOMs are reviewed by MLT peers and CEO and agreed
+1. Plan for next fiscal year is locked based on VPMOMs 
+
