@@ -339,11 +339,13 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 1. 25 minute debrief scheduled with each board member same day or the day after board meeting via their admins.
 2. 1 hour debrief with MLT scheduled same day after board meeting.
 
-## Financial Planning (1%) 
+## Fiscal Year Planning (1%) 
 
-Preparation for the annual plan and budget for the next fiscal year begins in the second half of the current fiscal year 
+Preparation for the annual plan and budget for the next fiscal year begins in the second half of the current fiscal year.  
 
-Q3 
+### Q3 Planning for next fiscal year 
+
+The focus of Q3 is arriving at a 50% draft of the plan among the MLT for next fiscal with clear identification of key Obstacles to mitigate ahead of the 99% plan. 
 
 1. The company 3-year aspirations are reviewed
 1. A 1% MLT VPMOM for next fiscal year is drafted by CEO and reviewed with MLT department heads 
@@ -353,7 +355,9 @@ Q3
 1. Action items are documented and developed around Obstacles to success of next fiscal year 
 1. 50% MLT and Department VPMOMs, plus Obstacles, are presented to department leaders 
 
-Q4
+### Q4 Planning for next fiscal year 
+
+The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alignment across MLT and departments, with key Obstacles mitigated. 
 
 1. MLT and middle managers work through key Obstacles for next fiscal year
 1. Finance works with MLT to draft financials plan for next fiscal year 
