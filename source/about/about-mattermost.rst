@@ -1,5 +1,5 @@
 ##################################################
-WIP: About Mattermost
+About Mattermost
 ##################################################
 
 Mattermost, Inc. is a company based on the Mattermost open source project. Mattermost software is used by thousands of organizations around the world in 16 languages.
