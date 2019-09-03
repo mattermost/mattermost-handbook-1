@@ -5,13 +5,13 @@
 #### ARR
 
   - **IARR**: WIP // Incremental Annual Recurring Revenue
-  - **New Logo ARR**: ARR from new logos signed, with start dates in the respective period.
-  - **Expansion ARR**: ARR from existing customers with a cross-sell/upsell deal, with start dates in the respective period (e.g. increased licensed seat count, upgrading from E10 to E20).
-  - **Contraction ARR**: Reduction in ARR from existing customers, but where they are still paying Mattermost.
-  - **Churn ARR**: Reduction in ARR from an existing customer where they are no longer paying Mattermost.
-  - **Net New ARR**: (New logo ARR + Expansion ARR) - (Contraction ARR + Churn ARR)
-  - **Count of New Logos**: Count of new logos signed, with start dates in the respective period.
-  - **Count of Churned Logos**: Count of logos lost where an existing customer is no longer paying Mattermost.
+  - **New Logo ARR** (1%): ARR from new logos signed, with start dates in the respective period.
+  - **Expansion ARR** (1%): ARR from existing customers with a cross-sell/upsell deal, with start dates in the respective period (e.g. increased licensed seat count, upgrading from E10 to E20).
+  - **Contraction ARR** (1%): Reduction in ARR from existing customers, but where they are still paying Mattermost.
+  - **Churn ARR** (1%): Reduction in ARR from an existing customer where they are no longer paying Mattermost.
+  - **Net New ARR** (1%): (New logo ARR + Expansion ARR) - (Contraction ARR + Churn ARR)
+  - **Count of New Logos** (1%): Count of new logos signed, with start dates in the respective period.
+  - **Count of Churned Logos** (1%): Count of logos lost where an existing customer is no longer paying Mattermost.
 
 #### Magic Number
 
