@@ -69,3 +69,49 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 **Communities-centered** means we define our success in the context of the success of our `communities <https://docs.mattermost.com/process/community-overview.html>`_: users, customers, implementers, resellers, technology partners, contributors, and colleagues. The success of each community is owned by a member of the Mattermost leadership team. The plural definition of "communities" is intended to avoid unconsciously marginalizing downstream stakeholders. 
 
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the production-quality Mattermost instance at https://community.mattermost.com. Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers, candidates, contributors and other `community members <https://docs.mattermost.com/process/community-overview.html>`_ to envision, develop and refine new open source technologies to make the world safer and more productive.
+
+Six Critical Questions
+---------------------------- 
+
+These questions provide clarity and alignment for the leadership team:
+
+Why do we exist?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We exist to make the world safer and more productive.
+
+How do we behave?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are [open-source, remote-first, communities-centered company](#company).
+
+What do we do?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We develop a secure open core DevOps-first collaboration platform that is trusted, flexible and offers fast time-to-value.
+
+How will we succeed?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We follow the [leadership principles](#leadership-principles) to define our behaviour.
+
+When facing complexity, uncertainty, or ambiguity (CUA), we determine our point of view and our actions through the lens of our values: Customer Obsession, Ownership, High Impact, Self-Awareness, High Standards and Earn Trust.
+
+What is most important, right now?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Reach ARR targets by January 31, 2020, which is the end of FY2020.
+
+Build people, systems and infrastructure to reach ARR targets by January 31, 2023, which is the end of FY2023.
+
+Who must do what?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Reaching our target is supported by the following methods:
+ - [CEO, People] Hire & onboard open source, remote-first, communities-centered team
+ - [R&D] Deliver high quality, DevOp-first collaboration and app platform
+ - [Customer Success] Design and scale effective customer onboarding
+ - [Marketing] Deliver pipe by scaling online discovery, education, and trial experience
+ - [Sales] Build the machine to scale open core sales, direct and indirect
+ - [Finance] Operate efficiently and fund growth
+
