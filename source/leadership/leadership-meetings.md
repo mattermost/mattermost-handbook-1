@@ -339,7 +339,7 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 1. 25 minute debrief scheduled with each board member same day or the day after board meeting via their admins.
 2. 1 hour debrief with MLT scheduled same day after board meeting.
 
-## Financial Planning
+## Financial Planning (1%) 
 
 Preparation for the annual plan and budget for the next fiscal year begins in the second half of the current fiscal year 
 
