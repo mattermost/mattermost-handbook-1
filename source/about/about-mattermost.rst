@@ -83,7 +83,7 @@ We exist to make the world safer and more productive.
 How do we behave?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We are [open-source, remote-first, communities-centered company](#company).
+We are [open-source, remote-first, communities-centered company](http://handbook.mattermost.com/about/about-mattermost.html#company).
 
 What do we do?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,12 +93,12 @@ We develop a secure open core DevOps-first collaboration platform that is truste
 How will we succeed?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We follow the [leadership principles](#leadership-principles) to define our behaviour.
+We follow the [leadership principles](http://handbook.mattermost.com/about/about-mattermost.html#leadership-principles) to define our behaviour.
 
 When facing complexity, uncertainty, or ambiguity (CUA), we determine our point of view and our actions through the lens of our values: Customer Obsession, Ownership, High Impact, Self-Awareness, High Standards and Earn Trust.
 
 What is most important, right now?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Reach ARR targets by January 31, 2020, which is the end of FY2020.
 
