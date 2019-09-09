@@ -345,7 +345,15 @@ Preparation for the annual plan and budget for the next fiscal year begins in th
 
 ### Q3 Planning for next fiscal year 
 
-The focus of Q3 is arriving at a 50% draft of the plan among the MLT for next fiscal with clear identification of key Obstacles to mitigate ahead of the 99% plan. 
+In Q3 we have three goals: 
+
+1. 50% VPMOM for company and departments based on our latest thinking 
+2. Prioritized issues to solve before we lock 99% plan at end of Q4--largely coming from Obstacles in 50% VPMOM 
+3. After aligning with MLT, begin to discuss 50% VPMOMs with departments to develop into 99% in Q4
+
+Typically there is not pressure for budget or headcount discussions in Q3, focus is strategy.  
+
+#### Q3 Punchlist for Next Fiscal Year Planning 
 
 1. The company 3-year aspirations are reviewed
 1. A 1% MLT VPMOM for next fiscal year is drafted by CEO and reviewed with MLT department heads 
@@ -357,7 +365,7 @@ The focus of Q3 is arriving at a 50% draft of the plan among the MLT for next fi
 
 ### Q4 Planning for next fiscal year 
 
-The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alignment across MLT and departments, with key Obstacles mitigated. 
+The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alignment across MLT and departments, with key Obstacles mitigated, and headcount and budgets reviewed. 
 
 1. MLT and middle managers work through key Obstacles for next fiscal year
 1. Finance works with MLT to draft financials plan for next fiscal year 
