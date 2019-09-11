@@ -152,7 +152,8 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 
 #### Scoreboard Review - 10:11am to 10:45am SF Time
 
-- Review sales, marketing and support numbers to flag and discuss issues  
+- Check in on thematic goal, defining objectives and standard operating objectives
+- Talk about yellow and reds
 
 #### Tactical Agenda - 10:45am to 11:10am ST Time
 
