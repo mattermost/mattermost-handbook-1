@@ -156,11 +156,14 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 
 #### Tactical Agenda - 10:45am to 11:10am ST Time
 
-- Talk through queued items, 5m max per topic. Resolve or find next step 
+- Talk through queued items, 5m max per topic. Resolve or find next step: 
+  -  Discuss now - Relevant to this team
+  -  Discuss later - Place in parking lot for strategic or other meeting 
+  -  Discuss 1-1 - Take off-line if not relevant to team 
 
 #### Decisions/Actions - 11:10am to 11:20am SF Time
 
-- Agree on decisions and actions 
+- Clarify and agree on decisions and actions 
 
 #### Cascading Communications - 11:20am to 11:25am SF Time
 
