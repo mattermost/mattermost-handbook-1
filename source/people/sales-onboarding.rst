@@ -5,9 +5,13 @@ Manager Responsibilities
 ---------------------------------------------------------
 
 [] Add to applications/tools (-3 days to start date)
+
 [] Transfer/Update Salesforce Records (-3 days to start date)
+
 [] Update Documentations (-3 days to start date)
+
 [] Schedule 1-hr session (held +3 days from start date) to review Salesforce Processes Overview - Google Slide
+
 [] Issue Compensation Plan (+10 days from hire date) where applicable
 
 New Staff Responsibilities
