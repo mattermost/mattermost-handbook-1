@@ -1,6 +1,6 @@
 # Mattermost Handbook 
 
-This repository generates the documentation available at http://handbook.mattermost.com/.
+**Mattermost Handbook now exists at https://handbook.mattermost.com/ and is powered by [GitBook](https://www.gitbook.com). This repository has been archived with content from this repository eventually migrated to https://handbook.mattermost.com/.**
 
 All documentation is available under the terms of a [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
